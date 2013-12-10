@@ -7,3 +7,5 @@ Rhio Kim <rhio.kim@gmail.com>
 
 # Thanks for project translation:
 
+* Korean : Rhio Kim <rhio.kim@gmail.com>
+		   Haroopad <rhio.kim+haroopad@gmail.com>

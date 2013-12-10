@@ -1,0 +1,9 @@
+# Names should be added to this file like so:
+#     Name <email address>
+#
+# Please keep the list sorted.
+
+Rhio Kim <rhio.kim@gmail.com>
+
+# Thanks for project translation:
+

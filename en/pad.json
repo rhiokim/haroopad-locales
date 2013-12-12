@@ -27,13 +27,13 @@
         "toc": "Table of Content",
         "outline": "Outline",
         "fullscreen": "Fullscreen",
-        "tab": "Tab with",
+        "tab": "Tab width",
         "usetab": "Indent Using Tab",
         "experimental": "Experimental",
         "spaces": "Spaces",
         "column": {
             "label": "Column",
-            "one": "Signle",
+            "one": "Single",
             "two": "Two Column",
             "three": "Three Column"
         }

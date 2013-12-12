@@ -3,8 +3,7 @@
 #
 # Please keep the list sorted.
 
-Rhio Kim <rhio.kim@gmail.com>  
-David Gómez <dg.dave@gmail.com>  
+Rhio Kim <rhio.kim@gmail.com>
 
 # Thanks for project translation:
 

@@ -24,10 +24,17 @@
     },
 
     "config": {
+<<<<<<< HEAD
         "toc": "Table of Content",
         "outline": "Outline",
         "fullscreen": "Fullscreen",
         "tab": "Tab width",
+=======
+        "toc": "Show Table of Content",
+        "outline": "Show Document Outline",
+        "fullscreen": "Toggle Fullscreen",
+        "tab": "Tab with",
+>>>>>>> upstream/master
         "usetab": "Indent Using Tab",
         "experimental": "Experimental",
         "spaces": "Spaces",
@@ -36,7 +43,8 @@
             "one": "Single",
             "two": "Two Column",
             "three": "Three Column"
-        }
+        },
+        "md-help": "Show Syntax Help"
     },
 
     "promotion": {

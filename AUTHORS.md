@@ -9,3 +9,4 @@ Rhio Kim <rhio.kim@gmail.com>
 
 * Korean : Rhio Kim <rhio.kim@gmail.com>
 		   Haroopad <rhio.kim+haroopad@gmail.com>
+* Latin American Spanish: David Gómez <dg.dave@gmail.com>

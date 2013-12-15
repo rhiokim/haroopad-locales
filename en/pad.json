@@ -24,17 +24,10 @@
     },
 
     "config": {
-<<<<<<< HEAD
-        "toc": "Table of Content",
-        "outline": "Outline",
-        "fullscreen": "Fullscreen",
-        "tab": "Tab width",
-=======
         "toc": "Show Table of Content",
         "outline": "Show Document Outline",
         "fullscreen": "Toggle Fullscreen",
-        "tab": "Tab with",
->>>>>>> upstream/master
+        "tab": "Tab width",
         "usetab": "Indent Using Tab",
         "experimental": "Experimental",
         "spaces": "Spaces",

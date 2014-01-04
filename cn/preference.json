@@ -1,73 +1,73 @@
 {
-    "title": "Preference",
+    "title": "偏好设置",
 
     "tab": {
-        "general": "General",
-        "editor": "Editor",
-        "viewer": "Viewer",
-        "custom": "Custom",
-        "code": "Code",
+        "general": "通用",
+        "editor": "编辑器",
+        "viewer": "预览",
+        "custom": "自定义",
+        "code": "代码",
         "markdown": "Markdown",
-        "about": "About"
+        "about": "关于"
     },
 
     "general": {
-        "general": "General",
-        "enableAutoComplete": "Enable Markdown Auto Completion",
-        "enableMath": "Enable Mathematics Expression",
-        "enableSyncScroll": "Enable Sync Scroll",
-        "enableLastFileRestore": "Enable Last File Restore"
+        "general": "通用",
+        "enableAutoComplete": "启用 Markdown 自动完成",
+        "enableMath": "启用数学表达式",
+        "enableSyncScroll": "同步滚动",
+        "enableLastFileRestore": "自动恢复上一次文件"
     },
 
     "editor": {
-        "general": "General",
-        "spaces": "Spaces",
-        "tab-width": "Tab width",
-        "indent-use-tab": "Indent Use Tab",
-        "display-line-number": "Show Line Number",
-        "vim-key-binding": "Vim Key Binding",
-        "auto-pair-char": "Auto Pair Characters",
-        "insert-four-space": "Insert 4 Spaces Instead of on Tab"
+        "general": "通用",
+        "spaces": "空格",
+        "tab-width": "Tab 宽度",
+        "indent-use-tab": "使用制表符缩进",
+        "display-line-number": "显示行号",
+        "vim-key-binding": "Vim 模式",
+        "auto-pair-char": "自动符号配对",
+        "insert-four-space": "插入 4 个空格代替制表符"
     },
 
     "viewer": {
-        "general": "General",
-        "themes": "Themes",
-        "clickable-link": "Make Links Clickable in Live Previewer"
+        "general": "通用",
+        "themes": "主题",
+        "clickable-link": "超链接可点击"
     },
 
     "custom": {
-        "themes": "General",
-        "reload": "Reload",
-        "directory": "Directory",
-        "select-theme": "Select Your Theme",
-        "description": "This theme applies to Live Preview, Exporting HTML/PDF and Sending Email(Evernote, Tumblr) export."
+        "themes": "通用",
+        "reload": "重新载入",
+        "directory": "目录",
+        "select-theme": "选择主题",
+        "description": "主题将应用于：实时预览、导出为 HTML/PDF、发送 Email (Evernote, Tumblr)"
     },
 
     "code": {
-        "general": "General",
-        "themes": "Themes",
-        "show-line-number": "Show Line Number at Syntax Highlight"
+        "general": "通用",
+        "themes": "主题",
+        "show-line-number": "显示行号"
     },
 
     "markdown": {
-        "enable-gfm": "Use Github Flavord Markdown",
-        "sanitize-desc": "Use HTML",
-        "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
-        "gfm-table": "Use Github Flavord Markdown Table",
-        "smarty-list": "Use smarter list behavior than the original markdown",
-        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes"
+        "enable-gfm": "使用 Github Flavord Markdown (GFM)",
+        "sanitize-desc": "使用 HTML",
+        "gfm-line-breaks": "使用 GFM 换行模式",
+        "gfm-table": "使用 GFM 表格",
+        "smarty-list": "智能列表",
+        "smarty-pants": "智能标点符号"
     },
 
     "about": {
-        "donate": "Donate",
-        "mean": "<strong>Haroo</strong> means \"A Day\" in Korean",
-        "version": "Version",
-        "official-site": "Offical Site",
-        "developer": "Developer",
-        "special-thanks": "Special Thanks",
-        "icon": "ICON",
-        "description": "Haroopad <small>The next document process</small>",
-        "donate-msg": "If you like haroopad, donate to help growing up"
+        "donate": "捐赠",
+        "mean": "<strong>Haroo</strong> 在韩语中意为 \"一天\"",
+        "version": "版本",
+        "official-site": "官方网站",
+        "developer": "开发者",
+        "special-thanks": "特别感谢",
+        "icon": "图标",
+        "description": "哈录笔记 (Haroopad)，<small>下一代文档编辑器</small>",
+        "donate-msg": "如果你喜欢 Haroopad, 请捐赠以支持发展 :)"
     }
 }

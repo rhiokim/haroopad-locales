@@ -1,43 +1,43 @@
 {
     "title": "",
-    "experimental": "experimental",
+    "experimental": "实验性功能",
 
     "footer": {
-        "lines": "lines",
-        "words": "words"
+        "lines": "行数",
+        "words": "字数"
     },
 
     "toc": {
-        "name": "Table Of Contents"
+        "name": "目录"
     },
 
-    "share": "Share",
+    "share": "分享",
     "state": {
-        "label": "Elements",
-        "image": "Image",
-        "header": "Header",
-        "link": "Link",
-        "table": "Table",
-        "paragraph": "Paragraph",
-        "code": "Code",
-        "blockquote": "Blockquote"
+        "label": "元素统计",
+        "image": "图片",
+        "header": "标题",
+        "link": "超链接",
+        "table": "表格",
+        "paragraph": "段落",
+        "code": "代码",
+        "blockquote": "引用"
     },
 
     "config": {
-        "toc": "Show Table of Content",
-        "outline": "Show Document Outline",
-        "fullscreen": "Toggle Fullscreen",
-        "tab": "Tab width",
-        "usetab": "Indent Using Tab",
-        "experimental": "Experimental",
-        "spaces": "Spaces",
+        "toc": "显示目录",
+        "outline": "显示大纲",
+        "fullscreen": "切换全屏",
+        "tab": "Tab 宽度",
+        "usetab": "使用制表符缩进",
+        "experimental": "实验性功能",
+        "spaces": "空格",
         "column": {
-            "label": "Column",
-            "one": "Single",
-            "two": "Two Column",
-            "three": "Three Column"
+            "label": "列",
+            "one": "一列",
+            "two": "二列",
+            "three": "三列"
         },
-        "md-help": "Show Syntax Help"
+        "md-help": "显示语法帮助"
     },
 
     "promotion": {
@@ -45,45 +45,45 @@
     },
 
     "donate": {
-        "label": "Donate",
-        "title": "Donate to help keep development going!",
-        "desc": "If you feel that is useful, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "label": "捐赠",
+        "title": "支持软件发展",
+        "desc": "如果您觉得 Haroopad 对您有用，请考虑通过 <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>捐赠</a> 来支持软件的进一步发展"
     },
 
     "email": {
-        "title": "Sending email",
-        "subject": "Insert Subject",
-        "to": "TO",
-        "from": "FROM",
-        "reciver": "Insert reciver's email address",
+        "title": "发送邮件",
+        "subject": "输入主题",
+        "to": "接收者",
+        "from": "发送者",
+        "reciver": "输入接收者的 Email 地址",
         "html": "HTML",
         "markdown": "Markdown",
-        "close": "Close",
-        "send": "Send",
-        "sent": "Sent",
-        "remember": "Remember email",
-        "password": "Password",
-        "secure": "The password will not be saved.",
-        "yours": "Insert your Gmail address",
+        "close": "关闭",
+        "send": "发送",
+        "sent": "已发送",
+        "remember": "记住 Email",
+        "password": "地址",
+        "secure": "密码不会被保存",
+        "yours": "输入您的Gmail地址",
         "evernote": "Evernote",
         "tumblr": "Tumblr"
     },
 
     "dialog": {
-        "save-change": "Do you want to save the changes made to the document?",
-        "cancel": "Cancel",
-        "dont-save": "Don't Save",
-        "save": "Save",
-        "yes": "Yes",
-        "no": "No",
-        "changed-file": "has been changed by another application. <br/>Do you want reload?"
+        "save-change": "文档已修改，是否保存修改?",
+        "cancel": "取消",
+        "dont-save": "不保存",
+        "save": "保存",
+        "yes": "是",
+        "no": "否",
+        "changed-file": "内容已被其他程序修改。<br/>是否重新载入?"
     },
 
     "upgrade": {
-        "uptodate": "You're up to date!",
-        "message": "Looking for the latest version?",
-        "note": "Release note",
-        "download": "Download",
-        "newest": "Haroopad is currently the newest version available."
+        "uptodate": "已是最新版",
+        "message": "希望获得最新版本?",
+        "note": "发行说明",
+        "download": "下载",
+        "newest": "Haroopad 目前已是最新版本，不需要更新"
     }
 }

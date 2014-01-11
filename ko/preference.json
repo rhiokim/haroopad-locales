@@ -52,7 +52,7 @@
 
     "markdown": {
         "enable-gfm": "Github Flavord Markdown 사용",
-        "sanitize-desc": "HTML 사용",
+        "sanitize-desc": "입력된 HTML 을 문자 그대로 표시 사용",
         "gfm-line-breaks": "Github Flavord Markdown 개행 사용",
         "gfm-table": "Github Flavord Markdown 테이블 사용",
         "smarty-list": "표준 마크다운보다 더 나은 스마트 리스트 사용",

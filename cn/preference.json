@@ -52,7 +52,7 @@
 
     "markdown": {
         "enable-gfm": "使用 Github Flavord Markdown (GFM)",
-        "sanitize-desc": "使用 HTML",
+        "sanitize-desc": "Ignore any HTML that has been input.",
         "gfm-line-breaks": "使用 GFM 换行模式",
         "gfm-table": "使用 GFM 表格",
         "smarty-list": "智能列表",

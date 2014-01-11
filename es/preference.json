@@ -52,7 +52,7 @@
 
     "markdown": {
         "enable-gfm": "Usar Markdown estilo GitHub",
-        "sanitize-desc": "Usar HTML",
+        "sanitize-desc": "Ignore any HTML that has been input.",
         "gfm-line-breaks": "Usar saltos de línea de Markdown estilo GitHub",
         "gfm-table": "Usar tablas de Markdown estilo GitHub",
         "smarty-list": "Usa los comportamientos de listas más inteligentes que el del Markdown original",

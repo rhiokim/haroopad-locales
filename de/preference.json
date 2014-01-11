@@ -52,7 +52,7 @@
 
     "markdown": {
         "enable-gfm": "Use Github Flavord Markdown",
-        "sanitize-desc": "Use HTML",
+        "sanitize-desc": "Ignore any HTML that has been input.",
         "gfm-line-breaks": "Use Github Flavord Markdown Line Break",
         "gfm-table": "Use Github Flavord Markdown Table",
         "smarty-list": "Use smarter list behavior than the original markdown",

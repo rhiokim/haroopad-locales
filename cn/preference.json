@@ -3,6 +3,9 @@
     "ok": "OK",
     "no": "No",
     "yes": "Yes",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "apply": "Apply",
 
     "tab": {
         "general": "通用",
@@ -62,7 +65,8 @@
         "gfm-table": "使用 GFM 表格",
         "smarty-list": "智能列表",
         "smarty-pants": "智能标点符号",
-        "enable-math": "Use Mathematics Expression"
+        "enable-math": "Use Mathematics Expression",
+        "restore": "Your Markdown settings will be restored to their original defaults"
     },
 
     "about": {

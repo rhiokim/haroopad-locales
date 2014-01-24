@@ -3,6 +3,9 @@
     "ok": "OK",
     "no": "No",
     "yes": "Yes",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "apply": "Apply",
 
     "tab": {
         "general": "General",
@@ -62,7 +65,8 @@
         "gfm-table": "Usar tablas de Markdown estilo GitHub",
         "smarty-list": "Usa los comportamientos de listas más inteligentes que el del Markdown original",
         "smarty-pants": "Usa puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
-        "enable-math": "Use Mathematics Expression"
+        "enable-math": "Use Mathematics Expression",
+        "restore": "Your Markdown settings will be restored to their original defaults"
     },
 
     "about": {

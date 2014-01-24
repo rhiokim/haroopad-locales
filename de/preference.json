@@ -3,6 +3,9 @@
     "ok": "OK",
     "no": "No",
     "yes": "Yes",
+    "cancel": "Cancel",
+    "reset": "Reset",
+    "apply": "Apply",
 
     "tab": {
         "general": "General",
@@ -62,7 +65,8 @@
         "gfm-table": "Use Github Flavord Markdown Table",
         "smarty-list": "Use smarter list behavior than the original markdown",
         "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
-        "enable-math": "Use Mathematics Expression"
+        "enable-math": "Use Mathematics Expression",
+        "restore": "Your Markdown settings will be restored to their original defaults"
     },
 
     "about": {

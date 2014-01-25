@@ -1,90 +1,90 @@
 {
     "title": "",
-    "experimental": "experimental",
+    "experimental": "experimentell",
 
     "footer": {
-        "lines": "lines",
-        "words": "words"
+        "lines": "Zeilen",
+        "words": "Worte"
     },
 
     "toc": {
-        "name": "Table Of Contents"
+        "name": "Inhaltsverzeichnis"
     },
 
-    "share": "Share",
+    "share": "Teilen",
     "state": {
-        "label": "Elements",
-        "image": "Image",
-        "header": "Header",
+        "label": "Elemente",
+        "image": "Bild",
+        "header": "Überschrift",
         "link": "Link",
-        "table": "Table",
-        "paragraph": "Paragraph",
+        "table": "Tabelle",
+        "paragraph": "Absatz/Abschnitt",
         "code": "Code",
-        "blockquote": "Blockquote"
+        "blockquote": "Zitatblock"
     },
 
     "config": {
-        "toc": "Show Table of Content",
-        "outline": "Show Document Outline",
-        "fullscreen": "Toggle Fullscreen",
-        "tab": "Tab with",
-        "usetab": "Indent Using Tab",
-        "experimental": "Experimental",
-        "spaces": "Spaces",
+        "toc": "Zeige Inhaltsverzeichnis",
+        "outline": "Zeige Dokumentenzusammenfassung",
+        "fullscreen": "Umschalten Vollbid",
+        "tab": "Tabulator Breite",
+        "usetab": "Einrücken mit Tabulatoren",
+        "experimental": "Experimentell",
+        "spaces": "Leerzeichen",
         "column": {
-            "label": "Column",
-            "one": "Signle",
-            "two": "Two Column",
-            "three": "Three Column"
+            "label": "Spalte",
+            "one": "Einzeln",
+            "two": "Zwei Spalten",
+            "three": "Drei Spalten"
         },
-        "md-help": "Show Syntax Help"
+        "md-help": "Zeige Syntaxhilfe"
     },
 
     "promotion": {
-        "desc": "Please Share!"
+        "desc": "Bitte teilen!"
     },
 
     "donate": {
-        "label": "Donate",
-        "title": "Donate to help keep development going!",
-        "desc": "If you feel that is useful, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "label": "Spenden",
+        "title": "Spenden Sie um die Entwicklung am Laufen zu halten!",
+        "desc": "Wenn Haroopad für Sie von Nutzen ist, spenden Sie um die Entwicklung am Laufen zu halten. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Spenden</a>"
     },
 
     "email": {
-        "title": "Sending email",
-        "subject": "Insert Subject",
-        "to": "TO",
-        "from": "FROM",
-        "reciver": "Insert reciver's email address",
+        "title": "Email senden",
+        "subject": "Betreff einfügen",
+        "to": "AN",
+        "from": "VON",
+        "reciver": "Empfängeradresse einfügen",
         "html": "HTML",
         "markdown": "Markdown",
-        "close": "Close",
-        "send": "Send",
-        "sent": "Sent",
-        "remember": "Remember email",
-        "password": "Password",
-        "secure": "The password will not be saved.",
-        "yours": "Insert your Gmail address",
+        "close": "Schließen",
+        "send": "Senden",
+        "sent": "Gesendet",
+        "remember": "An Email erinnern",
+        "password": "Passwort",
+        "secure": "Das Passwort wird nicht gespeichert.",
+        "yours": "Gmail-Addresse einfügen",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Invalid login or password."
+        "invalid-account": "Login oder Passwort nicht korrekt."
     },
 
     "dialog": {
-        "save-change": "Do you want to save the changes made to the document?",
-        "cancel": "Cancel",
-        "dont-save": "Don't Save",
-        "save": "Save",
-        "yes": "Yes",
-        "no": "No",
-        "changed-file": "has been changed by another application. <br/>Do you want reload?"
+        "save-change": "Wollen Sie die Änderungen an diesem Dokument speichern?",
+        "cancel": "Abbrechen",
+        "dont-save": "Nicht speichern",
+        "save": "Speichern",
+        "yes": "Ja",
+        "no": "Nein",
+        "changed-file": "wurde von einem anderen Programm verändert. <br/>Wollen sie aktualisieren?"
     },
 
     "upgrade": {
-        "uptodate": "You're up to date!",
-        "message": "Looking for the latest version?",
+        "uptodate": "Sie sind up to date!",
+        "message": "Suchen sie die neuste Version?",
         "note": "Release note",
         "download": "Download",
-        "newest": "Haroopad is currently the newest version available."
+        "newest": "Haroopad ist bereits auf dem neusten verfügbaren Stand."
     }
 }

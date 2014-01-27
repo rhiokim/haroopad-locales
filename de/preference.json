@@ -1,93 +1,93 @@
 {
-    "title": "Preference",
+    "title": "Einstellungen",
     "ok": "OK",
-    "no": "No",
-    "yes": "Yes",
-    "cancel": "Cancel",
-    "reset": "Reset",
-    "apply": "Apply",
+    "no": "Nein",
+    "yes": "Ja",
+    "cancel": "Abbrechen",
+    "reset": "Zurücksetzen",
+    "apply": "Übernehmen",
 
     "tab": {
-        "general": "General",
+        "general": "Allgemein",
         "editor": "Editor",
-        "viewer": "Viewer",
-        "custom": "Custom",
+        "viewer": "Live-Ansicht",
+        "custom": "Benutzerdefiniert",
         "code": "Code",
         "markdown": "Markdown",
-        "about": "About",
+        "about": "Über",
         "backup": "Backup"
     },
 
     "general": {
-        "general": "General",
-        "enableAutoComplete": "Enable Markdown Auto Completion",
-        "enableMath": "Enable Mathematics Expression",
-        "enableSyncScroll": "Enable Sync Scroll",
-        "enableLastFileRestore": "Enable Last File Restore"
+        "general": "Allgemein",
+        "enableAutoComplete": "Aktiviere Markdown Auto-Vervollständigung",
+        "enableMath": "Aktiviere mathematische Ausdrücke (LaTeX)",
+        "enableSyncScroll": "Aktivere synchrones Scrollen",
+        "enableLastFileRestore": "Altiviere Wiederherstellung des letzten Dokuments"
     },
 
     "editor": {
-        "general": "General",
-        "spaces": "Spaces",
-        "tab-width": "Tab width",
-        "indent-use-tab": "Indent Use Tab",
-        "display-line-number": "Show Line Number",
-        "vim-key-binding": "Vim Key Binding",
-        "auto-pair-char": "Auto Pair Characters",
-        "insert-four-space": "Insert 4 Spaces Instead of on Tab"
+        "general": "Allgemein",
+        "spaces": "Leerzeichen",
+        "tab-width": "Tabulatorbreite",
+        "indent-use-tab": "Einrücken mit Tabulatoren",
+        "display-line-number": "Zeige Zeilennummern",
+        "vim-key-binding": "Vim Tastenbelegung",
+        "auto-pair-char": "Auto Paarzeichen",
+        "insert-four-space": "Füge 4 Leerzeichen statt Tabulatoren ein"
     },
 
     "viewer": {
-        "general": "General",
+        "general": "Algemein",
         "themes": "Themes",
-        "clickable-link": "Make Links Clickable in Live Previewer"
+        "clickable-link": "Links sind klickbar in der Live-Ansicht"
     },
 
     "custom": {
-        "themes": "General",
-        "reload": "Reload",
-        "directory": "Directory",
-        "select-theme": "Select Your Theme",
-        "description": "This theme applies to Live Preview, Exporting HTML/PDF and Sending Email(Evernote, Tumblr) export."
+        "themes": "Allgemein",
+        "reload": "Neu laden",
+        "directory": "Ordner",
+        "select-theme": "Wählen Sie Ihr Theme",
+        "description": "Dieses Theme betrifft die Live-Ansicht, HTML/PDF Export und das Senden von Emails (Evernote, Tumblr)."
     },
 
     "code": {
-        "general": "General",
+        "general": "Allgemein",
         "themes": "Themes",
-        "show-line-number": "Show Line Number at Syntax Highlight"
+        "show-line-number": "Zeige Zeilennummern wenn Syntax Highlight an ist"
     },
 
     "markdown": {
-        "enable-gfm": "Use Github Flavord Markdown",
-        "etc": "Additional options",
-        "sanitize-desc": "Ignore any HTML that has been input.",
-        "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
-        "gfm-table": "Use Github Flavord Markdown Table",
-        "smarty-list": "Use smarter list behavior than the original markdown",
-        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
-        "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults"
+        "enable-gfm": "Verwende 'Github Flavord Markdown'",
+        "etc": "Extras",
+        "sanitize-desc": "Ignoriere jegliches HTML, dass eingegeben wird.",
+        "gfm-line-breaks": "Verwende 'Github Flavored Markdown'-Zeilenumbruch",
+        "gfm-table": "Verwende 'Github Flavored Markdown'-Tabellen",
+        "smarty-list": "Verwende schlaueres Listenverhalten als beim original Markdown",
+        "smarty-pants": "Verwende \"schlaue\" typografische Zeichensetzung für Zeichen wie bspw. Gänsefüßchen und Bindestriche-",
+        "enable-math": "Verwende mathematische Ausdrücke (LaTeX)",
+        "restore": "Ihre Markdown-Einstellungen werden auf den Standard zurückgesetzt."
     },
 
     "about": {
-        "donate": "Donate",
-        "mean": "<strong>Haroo</strong> means \"A Day\" in Korean",
+        "donate": "Spenden",
+        "mean": "<strong>Haroo</strong> bedeutet \"Ein Tag\" in Koreanisch",
         "version": "Version",
-        "official-site": "Offical Site",
-        "developer": "Developer",
-        "special-thanks": "Special Thanks",
+        "official-site": "Ofizielle Seite",
+        "developer": "Entwickler",
+        "special-thanks": "Besonderer Danke",
         "icon": "ICON",
-        "description": "Haroopad <small>The next document process</small>",
-        "donate-msg": "If you like haroopad, donate to help growing up"
+        "description": "Haroopad <small>Die Textverarbeitung der Zukunft</small>",
+        "donate-msg": "Wenn Sie Haroopad mögen, spenden Sie damit es erwachsen kann."
     },
 
     "backup": {
-        "title": "Import & Export Settings...",
-        "import": "Import Settings",
-        "export": "Export Settings",
-        "import-done": "Restart Needed",
-        "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
+        "title": "Importiere & Exportiere Einstellungen...",
+        "import": "Importiere Einstellungen",
+        "export": "Exportiere Einstellungen",
+        "import-done": "Neustart notwendig",
+        "import-done-msg": "Einstellungen wurden erfolgreich importiert. Haroopad muss neugestartet werden, damit sie in Kraft treten.<br/>Haroopad neustarten?",
         "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "export-done-msg": "Ihre Einstellungen wurden erfolgreich exportiert.<br/>Sie können Einstellungen via \"<b>Einstellungen > Backup > Einstellungen importieren</b>\" importieren"
     }
 }

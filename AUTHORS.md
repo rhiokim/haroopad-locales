@@ -12,3 +12,5 @@ Rhio Kim <rhio.kim@gmail.com>
 * Chinese (Simplified)   :  Breezewish <me@breeswish.org>,
                             Joel Haowen Tong <http://blog.joeltong.org/>
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
+
+* German: Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de

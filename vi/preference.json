@@ -1,0 +1,93 @@
+{
+    "title": "Tùy chọn",
+    "ok": "OK",
+    "no": "Không",
+    "yes": "Chấp nhận",
+    "cancel": "Hủy",
+    "reset": "Thiết lập lại",
+    "apply": "Apply",
+
+    "tab": {
+        "general": "General",
+        "editor": "Cửa soạn thảo",
+        "viewer": "Cửa xem trước",
+        "custom": "Tùy thích",
+        "code": "Code",
+        "markdown": "Markdown",
+        "about": "Thông tin",
+        "backup": "Sao lưu"
+    },
+
+    "general": {
+        "general": "Tổng quát",
+        "enableAutoComplete": "Mở chức năng tự điền mã",
+        "enableMath": "Mở chức năng viết công thức toán",
+        "enableSyncScroll": "Mở chức năng cuộn đồng bộ 2 cửa sổ",
+        "enableLastFileRestore": "Mở chức năng phục hồi file cuối cùng"
+    },
+
+    "editor": {
+        "general": "Tổng quát",
+        "spaces": "Khoảng trắng",
+        "tab-width": "Độ rộng Tab",
+        "indent-use-tab": "Thụt đầu dọng bằng Tab",
+        "display-line-number": "Hiện đánh số dòng",
+        "vim-key-binding": "Dùng bàn phím Vim",
+        "auto-pair-char": "Tự động bắt cặp kí tự",
+        "insert-four-space": "Chèn 4 khoảng trắng thay vì Tab"
+    },
+
+    "viewer": {
+        "general": "Tổng quát",
+        "themes": "Giao diện",
+        "clickable-link": "Tạo đường link sống trong cửa sổ xem trước"
+    },
+
+    "custom": {
+        "themes": "Tổng quát",
+        "reload": "Tải lại",
+        "directory": "Thư mục",
+        "select-theme": "Chọn giao diện của bạn",
+        "description": "Giao diện này dùng cho Cửa sổ xem trước, Xuất HTML/PDF và gửi Email(Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Tổng quát",
+        "themes": "Giao diện",
+        "show-line-number": "Hiện số dòng trong cửa sổ soạn thảo"
+    },
+
+    "markdown": {
+        "enable-gfm": "Dùng Markdown kiểu Github",
+        "etc": "Tùy chọn khác",
+        "sanitize-desc": "Bỏ qua mọi HTML đã được nhập.",
+        "gfm-line-breaks": "Dùng cách dòng kiểu Github Markdown",
+        "gfm-table": "Dùng bảng Markdown kiểu Github",
+        "smarty-list": "Use smarter list behavior than the original markdown",
+        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
+        "enable-math": "Use Mathematics Expression",
+        "restore": "Your Markdown settings will be restored to their original defaults"
+    },
+
+    "about": {
+        "donate": "Tài trợ",
+        "mean": "<strong>Haroo</strong> nghĩa là \"Một ngày\" trong tiếng Hàn",
+        "version": "Phiên bản",
+        "official-site": "Trang chủ",
+        "developer": "Cho nhà phát triển",
+        "special-thanks": "Lời cảm ơn",
+        "icon": "Biểu thượng",
+        "description": "Haroopad <small>chương trình soạn thảo thế hệ mới</small>",
+        "donate-msg": "Nếu bạn thích haroopad, tài trợ để giúp phát triển"
+    },
+
+    "backup": {
+        "title": "Nhập & Xuất các thiết lập...",
+        "import": "Nhập thiết lập của tôi",
+        "export": "Xuất thiết lập của tôi",
+        "import-done": "Cần phải khởi động lại chương trình",
+        "import-done-msg": "Các thiết lập đã được nhập thành công. Bạn cần khởi động lại Haroopad để tải lại các thiết lập .<br/> Khởi động lại Haroopad?",
+        "export-done": "Xuất thành công!",
+        "export-done-msg": "Thiết lập của bạn đã được xuất  thành công.<br/>Bạn có thể nhập các thiết lập bằng cách\"<b>Tùy chọn > Sao lưu > Nhập thiết lập của tôi</b>\""
+    }
+}

@@ -67,7 +67,7 @@
         "yours": "输入您的Gmail地址",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Invalid login or password."
+        "invalid-account": "无效的用户名或密码."
     },
 
     "dialog": {

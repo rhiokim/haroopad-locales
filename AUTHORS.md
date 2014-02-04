@@ -14,3 +14,4 @@ Rhio Kim <rhio.kim@gmail.com>
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 
 * German: Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
+* Russian               :    Alexander Maximenya <4alex@mail.ru>

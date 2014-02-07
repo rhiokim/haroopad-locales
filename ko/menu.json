@@ -48,7 +48,16 @@
         "font-size-viewer": "뷰어 폰트 사이즈",
         "vim-mode": "VIM 키 모드",
         "toggle-toc": "목차 보기 토글",
-        "enter-full-screen": "전체화면 모드"
+        "enter-full-screen": "전체화면 모드",
+        "editor": {
+            "theme": "에디터 테마...",
+            "theme-user": "에디터 사용자 테마..."
+        },
+        "viewer": {
+            "theme": "뷰어 테마...",
+            "theme-code": "코드 하이라이팅 테마...",
+            "theme-user": "뷰어 사용자 테마..."
+        }
     },
     "insert": {
         "name": "삽입",
@@ -75,7 +84,11 @@
         "highlight": "강조 .................... ==",
         "underline": "밑줄 .................... _",
         "math-block": "수학 (블럭) ........... $$",
-        "math-inline": "수학 (인라인) ........ $$$"
+        "math-inline": "수학 (인라인) ........ $$$",
+        "embed-video": "비디오 임베딩",
+        "embed-audio": "오디오 임베딩",
+        "embed-image": "이미지 임베딩",
+        "embed-other": "기타 임베딩..."
     },
     "tool": {
         "name": "도구"

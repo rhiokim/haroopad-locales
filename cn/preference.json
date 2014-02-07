@@ -40,6 +40,7 @@
     "viewer": {
         "general": "通用",
         "themes": "主题",
+        "font-size": "Font Size",
         "clickable-link": "超链接可点击"
     },
 

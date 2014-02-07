@@ -40,6 +40,7 @@
     "viewer": {
         "general": "일반",
         "themes": "테마",
+        "font-size": "글자크기",
         "clickable-link": "링크 클릭 사용하도록 설정"
     },
 

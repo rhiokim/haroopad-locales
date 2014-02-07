@@ -48,7 +48,16 @@
         "font-size-viewer": "Tamaño de fuente de la vista previa",
         "vim-mode": "Habilitar modo VIM",
         "toggle-toc": "Habilitar Tabla de contenidos",
-        "enter-full-screen": "Pantalla completa"
+        "enter-full-screen": "Pantalla completa",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Insertar",
@@ -75,7 +84,11 @@
         "highlight": "Resaltado ................... ==",
         "underline": "Subrayar .................... _",
         "math-block": "Math (bloque) ............ $$",
-        "math-inline": "Math (en línea) .......... $$$"
+        "math-inline": "Math (en línea) .......... $$$",
+        "embed-video": "Embedding Video",
+        "embed-audio": "Embedding Audio",
+        "embed-image": "Embedding Image",
+        "embed-other": "Embedding Others..."
     },
     "tool": {
         "name": "Herramientas"

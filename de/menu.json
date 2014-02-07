@@ -48,7 +48,16 @@
         "font-size-viewer": "Viewer Schriftgröße",
         "vim-mode": "Umschalten VIM Modus",
         "toggle-toc": "Umschalten Inhaltsverzeichnis",
-        "enter-full-screen": "Vollbild aktivieren"
+        "enter-full-screen": "Vollbild aktivieren",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Einfügen",
@@ -75,7 +84,11 @@
         "highlight": "Hervorheben  ……………… ==",
         "underline": "Umterstreichen  …………… _",
         "math-block": "Formeln (Block) …………… $$",
-        "math-inline": "Formeln (Zeile)  …………… $$$"
+        "math-inline": "Formeln (Zeile)  …………… $$$",
+        "embed-video": "Embedding Video",
+        "embed-audio": "Embedding Audio",
+        "embed-image": "Embedding Image",
+        "embed-other": "Embedding Others..."
     },
     "tool": {
         "name": "Werkzeug"

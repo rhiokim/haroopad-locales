@@ -48,7 +48,16 @@
         "font-size-viewer": "预览区字体大小",
         "vim-mode": "切换 VIM 模式",
         "toggle-toc": "切换目录",
-        "enter-full-screen": "全屏"
+        "enter-full-screen": "全屏",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "插入",
@@ -75,7 +84,11 @@
         "highlight":        "高亮 ........... ==",
         "underline":        "下划线 ......... _",
         "math-block":       "数学代码(行间) .. $$",
-        "math-inline":      "数学代码(行内) .. $$$"
+        "math-inline":      "数学代码(行内) .. $$$",
+        "embed-video": "Embedding Video",
+        "embed-audio": "Embedding Audio",
+        "embed-image": "Embedding Image",
+        "embed-other": "Embedding Others..."
     },
     "tool": {
         "name": "工具"

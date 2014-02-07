@@ -40,6 +40,7 @@
     "viewer": {
         "general": "General",
         "themes": "Temas",
+        "font-size": "Font Size",
         "clickable-link": "Activar los enlaces en la vista previa"
     },
 

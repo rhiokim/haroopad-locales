@@ -40,6 +40,7 @@
     "viewer": {
         "general": "General",
         "themes": "Themes",
+        "font-size": "Font Size",
         "clickable-link": "Make Links Clickable in Live Previewer"
     },
 

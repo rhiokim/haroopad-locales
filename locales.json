@@ -13,5 +13,11 @@
   },
   "de": {
     "name": "Deutsch"
+  },
+  "ru": {
+    "name": "Русский"
+  },
+  "vi": {
+    "name": "Tiếng Việt"
   }
 }

@@ -5,7 +5,7 @@
         "open": "Öffnen...",
         "open-recent": "Kürzlich geöffnet",
         "clear-all": "Liste leeren",
-        "save": "Speicher",
+        "save": "Speichern",
         "save-as": "Speichern unter",
         "close": "Schließen",
         "sending": "Versenden",
@@ -100,7 +100,7 @@
         "bring-all-to-front": "Alle anzeigen"
     },
     "help": {
-        "name": "Filge",
+        "name": "Hilfe",
         "haroopad-help": "Haroopad Hilfe",
         "markdown-syntax-help": "Markdown Syntaxhilfe",
         "haroopad-shortcut-help": "Haroopad Kurzhilfe",

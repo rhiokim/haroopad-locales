@@ -1,11 +1,11 @@
 {
     "title": "偏好设置",
-    "ok": "OK",
-    "no": "No",
-    "yes": "Yes",
-    "cancel": "Cancel",
-    "reset": "Reset",
-    "apply": "Apply",
+    "ok": "确定",
+    "no": "否",
+    "yes": "是",
+    "cancel": "取消",
+    "reset": "重置",
+    "apply": "应用",
 
     "tab": {
         "general": "通用",
@@ -15,7 +15,7 @@
         "code": "代码",
         "markdown": "Markdown",
         "about": "关于",
-        "backup": "Backup"
+        "backup": "备份"
     },
 
     "general": {
@@ -40,7 +40,7 @@
     "viewer": {
         "general": "通用",
         "themes": "主题",
-        "clickable-link": "超链接可点击"
+        "clickable-link": "允许点击超链接"
     },
 
     "custom": {
@@ -54,19 +54,19 @@
     "code": {
         "general": "通用",
         "themes": "主题",
-        "show-line-number": "显示行号"
+        "show-line-number": "代码高亮中显示行号"
     },
 
     "markdown": {
-        "enable-gfm": "使用 Github Flavored Markdown (GFM)",
-        "etc": "Additional options",
-        "sanitize-desc": "Ignore any HTML that has been input.",
+        "enable-gfm": "Github Flavored Markdown (GFM)",
+        "etc": "其他选项",
+        "sanitize-desc": "忽略输入的 HTML 标记",
         "gfm-line-breaks": "使用 GFM 换行模式",
         "gfm-table": "使用 GFM 表格",
         "smarty-list": "智能列表",
-        "smarty-pants": "智能标点符号",
-        "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults"
+        "smarty-pants": "智能符号",
+        "enable-math": "启用数学表达式",
+        "restore": "您的 Markdown 设置将会恢复到默认设置"
     },
 
     "about": {
@@ -82,12 +82,12 @@
     },
 
     "backup": {
-        "title": "Import & Export Settings...",
-        "import": "Import Settings",
-        "export": "Export Settings",
-        "import-done": "Restart Needed",
-        "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
-        "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "title": "导入和导出配置...",
+        "import": "导入配置",
+        "export": "导出配置",
+        "import-done": "需要重新启动",
+        "import-done-msg": "配置导入完毕，您需要重新启动 Haroopad 来使它们生效。<br/>是否重新启动 Haroopad?",
+        "export-done": "导出完成!",
+        "export-done-msg": "设置导出成功。<br/>您可以通过 \"<b>偏好设置 &gt; 备份 &gt; 导入配置</b>\" 来导入您的配置信息。"
     }
 }

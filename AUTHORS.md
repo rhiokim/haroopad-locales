@@ -13,4 +13,7 @@ Rhio Kim <rhio.kim@gmail.com>
                             Joel Haowen Tong <http://blog.joeltong.org/>
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 
-* German: Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
+* German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
+
+* Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
+

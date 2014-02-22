@@ -20,8 +20,8 @@
 
     "general": {
         "general": "General",
+        "date-time": "Date & Time",
         "enableAutoComplete": "Enable Markdown Auto Completion",
-        "enableMath": "Enable Mathematics Expression",
         "enableSyncScroll": "Enable Sync Scroll",
         "enableLastFileRestore": "Enable Last File Restore"
     },
@@ -61,13 +61,15 @@
     "markdown": {
         "enable-gfm": "Use Github Flavord Markdown",
         "etc": "Additional options",
+        "math": "Mathematics Expression Options",
         "sanitize-desc": "Ignore any HTML that has been input.",
         "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
         "gfm-table": "Use Github Flavord Markdown Table",
         "smarty-list": "Use smarter list behavior than the original markdown",
         "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
         "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults"
+        "restore": "Your Markdown settings will be restored to their original defaults",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
     },
 
     "about": {

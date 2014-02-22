@@ -20,8 +20,8 @@
 
     "general": {
         "general": "일반",
+        "date-time": "날짜와 시간",
         "enableAutoComplete": "마크다운 자동완성 사용",
-        "enableMath": "수학 표현식 사용",
         "enableSyncScroll": "에디터 스크롤 동기화 사용",
         "enableLastFileRestore": "마지막 편집 파일 복원 사용"
     },
@@ -61,13 +61,15 @@
     "markdown": {
         "enable-gfm": "깃허브 스타일 마크다운(GFM) 문법 사용",
         "etc": "기타 옵션",
+        "math": "수학 표현식 옵션",
         "sanitize-desc": "입력된 HTML 을 문자 그대로 표시 사용",
         "gfm-line-breaks": "GFM 개행 사용",
         "gfm-table": "GFM 테이블 사용",
         "smarty-list": "표준 마크다운보다 더 나은 스마트 리스트 사용",
         "smarty-pants": "기호 및 텍스트 대체 항목 사용",
         "enable-math": "수학 표현식 사용",
-        "restore": "마크다운 옵션을 기본 설정으로 되돌리겠습니까?"
+        "restore": "마크다운 옵션을 기본 설정으로 되돌리겠습니까?",
+        "enable-dollar-sign": "인라인 수학 표현식에 단일 $ 기호를 사용 (기본: $$$)"
     },
 
     "about": {

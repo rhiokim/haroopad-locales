@@ -44,7 +44,7 @@
         "column-two": "Две",
         "column-three": "Три",
         "font-size": "Размер шрифта",
-        "font-size-editor": Размер шрифта редактора",
+        "font-size-editor": "Размер шрифта редактора",
         "font-size-viewer": "Размер шрифта просмотра",
         "vim-mode": "Переключить режим VIM",
         "toggle-toc": "Переключить содержание",

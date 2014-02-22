@@ -20,8 +20,8 @@
 
     "general": {
         "general": "Tổng quát",
+        "date-time": "Ngày & Giờ",
         "enableAutoComplete": "Mở chức năng tự điền",
-        "enableMath": "Mở chức năng viết công thức toán",
         "enableSyncScroll": "Mở chức năng cuộn đồng bộ 2 cửa sổ",
         "enableLastFileRestore": "Mở chức năng phục hồi file cuối cùng"
     },
@@ -60,13 +60,15 @@
     "markdown": {
         "enable-gfm": "Dùng Markdown kiểu Github",
         "etc": "Tùy chọn khác",
+        "math": "Mathematics Expression Options",
         "sanitize-desc": "Bỏ qua mọi HTML đã được nhập.",
         "gfm-line-breaks": "Dùng cách dòng kiểu Github Markdown",
         "gfm-table": "Dùng bảng Markdown kiểu Github",
         "smarty-list": "Dùng danh mục thông minh thay cho markdown cổ điển",
         "smarty-pants": "Dùng cách sắp chữ \"thông minh\" cho những thứ như các dấu ngoặc và gạch",
         "enable-math": "Dùng công thức toán LaTeX",
-        "restore": "Các thiết lập Markdown của bạn sẽ phục hồi về trạng thái cài đặt ban đầu"
+        "restore": "Các thiết lập Markdown của bạn sẽ phục hồi về trạng thái cài đặt ban đầu",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
     },
 
     "about": {

@@ -15,5 +15,7 @@ Rhio Kim <rhio.kim@gmail.com>
 
 * German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
 
+* Greek                  :  Petros Dudis <pdudis@gmail.com>
+
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
 

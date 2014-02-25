@@ -6,6 +6,18 @@
     "cancel": "取消",
     "reset": "重置",
     "apply": "应用",
+    "done": "Done",
+    "updating": "Updating",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
 
     "tab": {
         "general": "通用",

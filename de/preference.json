@@ -6,6 +6,18 @@
     "cancel": "Abbrechen",
     "reset": "Zurücksetzen",
     "apply": "Übernehmen",
+    "done": "Done",
+    "updating": "Updating",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
 
     "tab": {
         "general": "Allgemein",

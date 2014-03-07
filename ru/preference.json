@@ -6,6 +6,18 @@
     "cancel": "Отменить",
     "reset": "Сбросить",
     "apply": "Применить",
+    "done": "Done",
+    "updating": "Updating",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
 
     "tab": {
         "general": "Основные",
@@ -20,8 +32,8 @@
 
     "general": {
         "general": "Основные",
+        "date-time": "Дата и время",
         "enableAutoComplete": "Включеть автозавершение Markdown",
-        "enableMath": "Включить математические формулы",
         "enableSyncScroll": "Включить синхронную прокрутку",
         "enableLastFileRestore": "Включить восстановление последнего файла"
     },
@@ -60,13 +72,15 @@
     "markdown": {
         "enable-gfm": "Использовать Github-диалект Markdown",
         "etc": "Дополнительные настройки",
+        "math": "Mathematics Expression Options",
         "sanitize-desc": "Игнорировать любой введенный HTML",
         "gfm-line-breaks": "Использовать разрывы строк как в Github-диалекте",
         "gfm-table": "Использовать таблицы из Github-диалекта",
         "smarty-list": "Включить улучшенное поведение списков в markdown",
         "smarty-pants": "Включить улучшенную типографическую пунктуацию для кавычек, тире и прочего",
         "enable-math": "Использовать математические формулы",
-        "restore": "Сбросить все настройки Markdown на значения по умолчанию."
+        "restore": "Сбросить все настройки Markdown на значения по умолчанию.",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
     },
 
     "about": {

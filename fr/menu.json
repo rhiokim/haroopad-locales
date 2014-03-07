@@ -48,7 +48,16 @@
         "font-size-viewer": "Viewer Font Size",
         "vim-mode": "Toggle VIM Mode",
         "toggle-toc": "Toggle Table Of Content",
-        "enter-full-screen": "Enter Full Screen"
+        "enter-full-screen": "Enter Full Screen",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Insert",
@@ -75,7 +84,11 @@
         "highlight": "Highlight .............. ==",
         "underline": "Underline .............. _",
         "math-block": "Math (Block) ......... $$",
-        "math-inline": "Math (Inline) ......... $$$"
+        "math-inline": "Math (Inline) ......... $$$",
+        "embed-video": "Embedding Video",
+        "embed-audio": "Embedding Audio",
+        "embed-image": "Embedding Image",
+        "embed-other": "Embedding Others..."
     },
     "tool": {
         "name": "Tool"
@@ -90,7 +103,7 @@
         "name": "Help",
         "haroopad-help": "Haroopad Help",
         "markdown-syntax-help": "Markdown Syntax Help",
-        "haroopad-shortcut-help": "Haroopad Short Help",
+        "haroopad-shortcut-help": "Haroopad Shortcut Help",
         "release-notes": "Release Notes",
         "acknowledgements": "Acknowlegements",
         "haroopad-website": "Haroopad Website",

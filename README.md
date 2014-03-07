@@ -2,6 +2,8 @@
 
 이 저장소는 하루패드 국제화를 위한 언어 설정 파일을 관리합니다.
 
+[![Analytics](https://ga-beacon.appspot.com/UA-32474834-4/rhiokim/haroopad-locales)](https://github.com/igrigorik/ga-beacon)
+
 ## Structure
 
 ```

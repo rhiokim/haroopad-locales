@@ -1,0 +1,19 @@
+{
+  "name": "haroopad-locales",
+  "version": "0.1.1",
+  "description": "internationlization for haroopad",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rhiokim/haroopad-locales.git"
+  },
+  "author": "rhio.kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhiokim/haroopad-locales/issues"
+  },
+  "homepage": "https://github.com/rhiokim/haroopad-locales"
+}

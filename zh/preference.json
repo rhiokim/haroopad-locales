@@ -6,6 +6,18 @@
     "cancel": "取消",
     "reset": "重置",
     "apply": "应用",
+    "done": "Done",
+    "updating": "Updating",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
 
     "tab": {
         "general": "通用",
@@ -20,8 +32,8 @@
 
     "general": {
         "general": "通用",
+        "date-time": "日期和时间",
         "enableAutoComplete": "启用 Markdown 自动完成",
-        "enableMath": "启用数学表达式",
         "enableSyncScroll": "同步滚动",
         "enableLastFileRestore": "自动恢复上一次文件"
     },
@@ -40,6 +52,7 @@
     "viewer": {
         "general": "通用",
         "themes": "主题",
+        "font-size": "Font Size",
         "clickable-link": "允许点击超链接"
     },
 
@@ -60,13 +73,15 @@
     "markdown": {
         "enable-gfm": "Github Flavored Markdown (GFM)",
         "etc": "其他选项",
+        "math": "Mathematics Expression Options",
         "sanitize-desc": "忽略输入的 HTML 标记",
         "gfm-line-breaks": "使用 GFM 换行模式",
         "gfm-table": "使用 GFM 表格",
         "smarty-list": "智能列表",
         "smarty-pants": "智能符号",
         "enable-math": "启用数学表达式",
-        "restore": "您的 Markdown 设置将会恢复到默认设置"
+        "restore": "您的 Markdown 设置将会恢复到默认设置",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
     },
 
     "about": {

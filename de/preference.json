@@ -6,6 +6,18 @@
     "cancel": "Abbrechen",
     "reset": "Zurücksetzen",
     "apply": "Übernehmen",
+    "done": "Done",
+    "updating": "Updating",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
 
     "tab": {
         "general": "Allgemein",
@@ -20,8 +32,8 @@
 
     "general": {
         "general": "Allgemein",
+        "date-time": "Datum & Zeit",
         "enableAutoComplete": "Aktiviere Markdown Auto-Vervollständigung",
-        "enableMath": "Aktiviere mathematische Ausdrücke (LaTeX)",
         "enableSyncScroll": "Aktivere synchrones Scrollen",
         "enableLastFileRestore": "Altiviere Wiederherstellung des letzten Dokuments"
     },
@@ -40,6 +52,7 @@
     "viewer": {
         "general": "Algemein",
         "themes": "Themes",
+        "font-size": "Font Size",
         "clickable-link": "Links sind klickbar in der Live-Ansicht"
     },
 
@@ -60,13 +73,15 @@
     "markdown": {
         "enable-gfm": "Verwende 'Github Flavord Markdown'",
         "etc": "Extras",
+        "math": "Mathematics Expression Options",
         "sanitize-desc": "Ignoriere jegliches HTML, dass eingegeben wird.",
         "gfm-line-breaks": "Verwende 'Github Flavored Markdown'-Zeilenumbruch",
         "gfm-table": "Verwende 'Github Flavored Markdown'-Tabellen",
         "smarty-list": "Verwende schlaueres Listenverhalten als beim original Markdown",
         "smarty-pants": "Verwende \"schlaue\" typografische Zeichensetzung für Zeichen wie bspw. Gänsefüßchen und Bindestriche-",
         "enable-math": "Verwende mathematische Ausdrücke (LaTeX)",
-        "restore": "Ihre Markdown-Einstellungen werden auf den Standard zurückgesetzt."
+        "restore": "Ihre Markdown-Einstellungen werden auf den Standard zurückgesetzt.",
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
     },
 
     "about": {

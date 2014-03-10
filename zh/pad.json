@@ -25,8 +25,8 @@
 
     "config": {
         "toc": "显示目录",
-        "outline": "显示大纲",
-        "fullscreen": "切换全屏",
+        "outline": "进入/退出大纲模式",
+        "fullscreen": "进入/退出全屏",
         "tab": "Tab 宽度",
         "usetab": "使用制表符缩进",
         "experimental": "实验性功能",
@@ -37,7 +37,7 @@
             "two": "二列",
             "three": "三列"
         },
-        "md-help": "显示语法帮助"
+        "md-help": "显示/隐藏语法帮助"
     },
 
     "promotion": {
@@ -47,7 +47,7 @@
     "donate": {
         "label": "捐赠",
         "title": "支持软件发展",
-        "desc": "如果您觉得 Haroopad 对您有用，请考虑通过 <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>捐赠</a> 来支持软件的进一步发展"
+        "desc": "如果您觉得 Haroopad 对您有用，请考虑通过 <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>捐赠</a> 来支持软件的进一步发展 :)"
     },
 
     "email": {

@@ -50,18 +50,18 @@
         "toggle-toc": "切换目录",
         "enter-full-screen": "全屏",
         "editor": {
-            "theme": "Editor Themes...",
-            "theme-user": "Editor User Themes..."
+            "theme": "编辑区主题...",
+            "theme-user": "编辑区用户主题..."
         },
         "viewer": {
-            "theme": "Viewer Themes...",
-            "theme-code": "Viewer Code Themes...",
-            "theme-user": "Viewer User Themes..."
+            "theme": "预览区主题...",
+            "theme-code": "预览区代码主题...",
+            "theme-user": "预览区用户主题..."
         }
     },
     "insert": {
         "name": "插入",
-        "date-time": "日期和时间",
+        "date-time": "当前日期时间",
         "filename": "当前文件名",
         "copy-html": "复制 HTML",
         "header": "标题",
@@ -75,20 +75,20 @@
         "unordered-list":   "无序列表 ....... -",
         "section-break":    "分节符 ......... - - -",
         "page-break":       "分页符 ......... * * *",
-        "fenced-code":      "代码 ........... ```",
+        "fenced-code":      "代码块 ......... ```",
         "strikethrough":    "删除线 ......... ~~",
         "embed":            "嵌入对象 ....... @[]()",
         "toc":              "目录 ........... [TOC]",
         "table":            "表格",
         "comment":          "注释 ........... <!-- -->",
         "highlight":        "高亮 ........... ==",
-        "underline":        "下划线 ......... _",
+        "underline":        "下划线 ......... ++",
         "math-block":       "数学代码(行间) .. $$",
         "math-inline":      "数学代码(行内) .. $$$",
-        "embed-video": "Embedding Video",
-        "embed-audio": "Embedding Audio",
-        "embed-image": "Embedding Image",
-        "embed-other": "Embedding Others..."
+        "embed-video":      "嵌入视频",
+        "embed-audio":      "嵌入音频",
+        "embed-image":      "嵌入图像",
+        "embed-other":      "嵌入其他对象..."
     },
     "tool": {
         "name": "工具"

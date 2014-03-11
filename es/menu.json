@@ -82,7 +82,7 @@
         "table": "Tabla",
         "comment": "Comentario ............... <!-- -->",
         "highlight": "Resaltado ................... ==",
-        "underline": "Subrayar .................... _",
+        "underline": "Subrayar .................... ++",
         "math-block": "Math (bloque) ............ $$",
         "math-inline": "Math (en línea) .......... $$$",
         "embed-video": "Embedding Video",

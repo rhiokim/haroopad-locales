@@ -40,6 +40,7 @@
 
     "editor": {
         "general": "通用",
+        "themes": "主题",
         "spaces": "空格",
         "tab-width": "Tab 宽度",
         "indent-use-tab": "使用制表符缩进",

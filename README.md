@@ -14,6 +14,19 @@
   - preference.json
 ```
 
+## Languages
+
+[Contributors](https://github.com/rhiokim/haroopad-locales/blob/master/AUTHORS.md)
+
+* English
+* 한국어
+* Español
+* 简体中文
+* Deutsch
+* Русский
+* Tiếng Việt
+* Ελληνικά
+
 ## How to contribute
 
 ### Language Codes

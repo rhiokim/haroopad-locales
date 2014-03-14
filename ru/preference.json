@@ -8,6 +8,8 @@
     "apply": "Применить",
     "done": "Done",
     "updating": "Updating",
+    "edit": "Edit",
+    "reload": "Reload",
 
     "system": {
         "language": {
@@ -40,18 +42,23 @@
 
     "editor": {
         "general": "Основные",
+        "themes": "Темы",
         "spaces": "Пробелами",
+        "user-style": "Your Style",
         "tab-width": "Ширина табуляции",
         "indent-use-tab": "Включить табуляцию",
         "display-line-number": "Отобразить нумерацию строк",
         "vim-key-binding": "включить Vim раскладку",
         "auto-pair-char": "Автоматически закрывать скобки",
-        "insert-four-space": "Вставлять 4 пробела при нажатии на табуляцию"
+        "insert-four-space": "Вставлять 4 пробела при нажатии на табуляцию",
+        "display-active-line": "Display active line"
     },
 
     "viewer": {
         "general": "Основные",
         "themes": "Темы",
+        "font-size": "Font Size",
+        "user-style": "Your Style",
         "clickable-link": "Сделать ссылки в предпросмотре активными"
     },
 

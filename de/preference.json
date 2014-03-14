@@ -8,6 +8,8 @@
     "apply": "Übernehmen",
     "done": "Done",
     "updating": "Updating",
+    "edit": "Edit",
+    "reload": "Reload",
 
     "system": {
         "language": {
@@ -40,19 +42,23 @@
 
     "editor": {
         "general": "Allgemein",
+        "themes": "Themes",
         "spaces": "Leerzeichen",
+        "user-style": "Your Style",
         "tab-width": "Tabulatorbreite",
         "indent-use-tab": "Einrücken mit Tabulatoren",
         "display-line-number": "Zeige Zeilennummern",
         "vim-key-binding": "Vim Tastenbelegung",
         "auto-pair-char": "Auto Paarzeichen",
-        "insert-four-space": "Füge 4 Leerzeichen statt Tabulatoren ein"
+        "insert-four-space": "Füge 4 Leerzeichen statt Tabulatoren ein",
+        "display-active-line": "Display active line"
     },
 
     "viewer": {
         "general": "Algemein",
         "themes": "Themes",
         "font-size": "Font Size",
+        "user-style": "Your Style",
         "clickable-link": "Links sind klickbar in der Live-Ansicht"
     },
 

@@ -73,7 +73,7 @@
         "table": "Bảng",
         "comment": "Ghi chú ............. <!-- -->",
         "highlight": "Highlight .............. ==",
-        "underline": "Ghạch dưới .............. _",
+        "underline": "Ghạch dưới .............. ++",
         "math-block": "Công thức toán (hàng riêng) ......... $$",
         "math-inline": "Công thức toán (trong đoạn văn) ......... $$$"
     },

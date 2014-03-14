@@ -8,6 +8,8 @@
     "apply": "적용",
     "done": "완료",
     "updating": "업데이트 중...",
+    "edit": "편집",
+    "reload": "새로고침",
 
     "system": {
         "language": {
@@ -40,19 +42,23 @@
 
     "editor": {
         "general": "일반",
+        "themes": "테마",
         "spaces": "공백문자",
+        "user-style": "사용자 스타일",
         "tab-width": "탭 사이즈",
         "indent-use-tab": "들여쓰기 시 탭을 사용",
         "display-line-number": "줄번호 표시",
         "vim-key-binding": "Vim 키 바인딩 사용",
         "auto-pair-char": "자동 블럭 완성 사용",
-        "insert-four-space": "하나의 탭을 4개의 공백 문자 사용"
+        "insert-four-space": "하나의 탭을 4개의 공백 문자 사용",
+        "display-active-line": "현재 라인 표시하기"
     },
 
     "viewer": {
         "general": "일반",
         "themes": "테마",
         "font-size": "글자크기",
+        "user-style": "사용자 스타일",
         "clickable-link": "링크 클릭 사용하도록 설정"
     },
 

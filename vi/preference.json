@@ -40,6 +40,7 @@
 
     "editor": {
         "general": "Tổng quát",
+        "themes": "Giao diện",
         "spaces": "Khoảng trắng",
         "tab-width": "Độ rộng Tab",
         "indent-use-tab": "Thụt đầu dọng bằng Tab",

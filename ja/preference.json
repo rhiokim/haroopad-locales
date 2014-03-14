@@ -8,6 +8,8 @@
     "apply": "Apply",
     "done": "Done",
     "updating": "Updating",
+    "edit": "Edit",
+    "reload": "Reload",
 
     "system": {
         "language": {
@@ -32,6 +34,7 @@
 
     "general": {
         "general": "General",
+        "themes": "Themes",
         "date-time": "Date & Time",
         "enableAutoComplete": "Enable Markdown Auto Completion",
         "enableSyncScroll": "Enable Sync Scroll",
@@ -42,17 +45,20 @@
         "general": "General",
         "spaces": "Spaces",
         "tab-width": "Tab width",
+        "user-style": "Your Style",
         "indent-use-tab": "Indent Use Tab",
         "display-line-number": "Show Line Number",
         "vim-key-binding": "Vim Key Binding",
         "auto-pair-char": "Auto Pair Characters",
-        "insert-four-space": "Insert 4 Spaces Instead of on Tab"
+        "insert-four-space": "Insert 4 Spaces Instead of on Tab",
+        "display-active-line": "Display active line"
     },
 
     "viewer": {
         "general": "General",
         "themes": "Themes",
         "font-size": "Font Size",
+        "user-style": "Your Style",
         "clickable-link": "Make Links Clickable in Live Previewer"
     },
 

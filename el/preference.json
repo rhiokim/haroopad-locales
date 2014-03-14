@@ -8,6 +8,8 @@
     "apply": "Εφαρμογή",
     "done": "Ολοκληρώθηκε",
     "updating": "Γίνεται ενημέρωση",
+    "edit": "Edit",
+    "reload": "Reload",
 
     "system": {
         "language": {
@@ -40,19 +42,23 @@
 
     "editor": {
         "general": "Γενικά",
+        "themes": "Θέματα",
         "spaces": "Διαστήματα",
+        "user-style": "Your Style",
         "tab-width": "Πλάτος στηλοθέτη",
         "indent-use-tab": "Στηλοθέτης χρήσης εσοχής",
         "display-line-number": "Προβολή αρίθμησης γραμμών",
         "vim-key-binding": "Συνδυασμοί πλήκτρων Vim",
         "auto-pair-char": " Αυτόματη σύζευξη χαρακτήρων",
-        "insert-four-space": "Εισαγωγή 4 διαστημάτων αντί για στηλοθέτη"
+        "insert-four-space": "Εισαγωγή 4 διαστημάτων αντί για στηλοθέτη",
+        "display-active-line": "Display active line"
     },
 
     "viewer": {
         "general": "Γενικά",
         "themes": "Θέματα",
         "font-size": "Μέγεθος γραμματοσειράς",
+        "user-style": "Your Style",
         "clickable-link": "Δυνατότητα επιλογής συνδέσμων στην δυναμική προβολή"
     },
 

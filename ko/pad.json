@@ -1,6 +1,7 @@
 {
     "title": "",
     "experimental": "베타",
+    "placeholder": "오늘은 무슨 이야기를 기록할래요?",
 
     "footer": {
         "lines": "줄",

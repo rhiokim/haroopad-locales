@@ -1,6 +1,7 @@
 {
     "title": "",
     "experimental": "实验性功能",
+    "placeholder": "Today, What do you want to write the story?",
 
     "footer": {
         "lines": "行数",

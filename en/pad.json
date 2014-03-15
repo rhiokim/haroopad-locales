@@ -1,6 +1,8 @@
 {
     "title": "",
     "experimental": "experimental",
+    "placeholder": "Write your day",
+    "placeholder": "Today, What do you want to write the story?",
 
     "footer": {
         "lines": "lines",

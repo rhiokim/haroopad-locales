@@ -1,0 +1,114 @@
+{
+    "title": "Preferências do Haroopad",
+    "ok": "OK",
+    "no": "Não",
+    "yes": "Sim",
+    "cancel": "Cancelar",
+    "reset": "Restaurar padrões",
+    "apply": "Aplicar",
+    "done": "Feito",
+    "updating": "Atualizando",
+    "edit": "Editar",
+    "reload": "Recarregar",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Language Pack has been updated. Why do not update now?",
+                "done": "Done :-). Please restart Haroopad.",
+                "error": "Update fail :-(. Please check your network status."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "Geral",
+        "editor": "Editor",
+        "viewer": "Visualizador",
+        "custom": "Customização",
+        "code": "Código",
+        "markdown": "Markdown",
+        "about": "Sobre",
+        "backup": "Backup"
+    },
+
+    "general": {
+        "general": "Configurações gerais",
+        "date-time": "Data e hora",
+        "enableAutoComplete": "Habilitar auto-complete de Markdown",
+        "enableSyncScroll": "Habilitar sincronismo de rolagem",
+        "enableLastFileRestore": "Habilitar recuperação de última versão de arquivo"
+    },
+
+    "editor": {
+        "general": "Opções gerais",
+        "themes": "Temas",
+        "user-style": "Seu estilo",
+        "spaces": "Espaços",
+        "tab-width": "Largura do TAB",
+        "indent-use-tab": "Usar TAB para identar",
+        "display-line-number": "Mostrar números de linha",
+        "vim-key-binding": "Modo VIM",
+        "auto-pair-char": "Parear caracteres",
+        "insert-four-space": "Inserir 4 espaços invés de um TAB",
+        "display-active-line": "Destacar linha ativa"
+    },
+
+    "viewer": {
+        "general": "Opções gerais",
+        "themes": "Temas",
+        "font-size": "Tamanho da fonte",
+        "user-style": "Seu estilo",
+        "clickable-link": "Tornar links clicáveis no vizualizador vivo"
+    },
+
+    "custom": {
+        "themes": "Opções gerais",
+        "reload": "Recarregar",
+        "directory": "Diretório",
+        "select-theme": "Selecione seu tema",
+        "description": "Este tema é aplicado ao visualizador vivo, à exportação HTML/PDF e ao envio de e-mail (Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Opções gerais",
+        "themes": "Temas",
+        "show-line-number": "Mostrar números de linha nos blocos de código coloridos"
+    },
+
+    "markdown": {
+        "enable-gfm": "Opções de Github Flavord Markdown",
+        "etc": "Opções adicionais",
+        "math": "Opções de expressão matemática",
+        "sanitize-desc": "Ignorar qualquer HTML que seja entrado",
+        "gfm-line-breaks": "Usar quebras de linha Github Flavored Markdown",
+        "gfm-table": "Usar tabelas Github Flavord Markdown",
+        "smarty-list": "Comportamento de listas mais inteligente do que o padrão Markdown",
+        "smarty-pants": "Tipografia \"inteligente\" para coisas como áspas e travessões",
+        "enable-math": "Suportar fórmulas matemáticas",
+        "restore": "Suas configurações Markdown serão restauradas para o padrão original",
+        "enable-dollar-sign": "Único sinal $ para fórmulas matemáticas em linha (padrão: $$$)"
+    },
+
+    "about": {
+        "donate": "Doar",
+        "mean": "<strong>Haroo</strong> significa \"Um dia\" em Coreano",
+        "version": "Versão",
+        "official-site": "Site oficial",
+        "developer": "Desenvolvedor",
+        "special-thanks": "Agradecimento especial",
+        "icon": "Ícone",
+        "description": "Haroopad <small>O processador de documentos do futuro</small>",
+        "donate-msg": "Se você gostou do Haroopad, faça uma doação para ajudá-lo a crescer"
+    },
+
+    "backup": {
+        "title": "Importação e exportação de configurações...",
+        "import": "Importar configurações",
+        "export": "Exportar configurações",
+        "import-done": "É necessário reiniciar o Haroopad",
+        "import-done-msg": "Configurações importada com sucesso. Você precisa reiniciar o Haroopad para recarregar as configurações.<br/>Reiniciar o Haroopad?",
+        "export-done": "Exportação completa!",
+        "export-done-msg": "Sua configurações foram exportadas com sucesso.<br/>Você pode importar configurações usando \"<b>Preferências > Backup > Importar configurações</b>\""
+    }
+}

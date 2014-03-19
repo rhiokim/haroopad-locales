@@ -8,6 +8,8 @@
     "apply": "应用",
     "done": "完成",
     "updating": "更新中",
+    "edit": "编辑",
+    "reload": "重新载入",
 
     "system": {
         "language": {
@@ -42,18 +44,21 @@
         "general": "通用",
         "themes": "主题",
         "spaces": "空格",
+        "user-style": "自定义主题",
         "tab-width": "Tab 宽度",
         "indent-use-tab": "使用制表符缩进",
         "display-line-number": "显示行号",
         "vim-key-binding": "Vim 模式",
         "auto-pair-char": "自动符号配对",
-        "insert-four-space": "插入 4 个空格代替制表符"
+        "insert-four-space": "插入 4 个空格代替制表符",
+        "display-active-line": "高亮显示当前行"
     },
 
     "viewer": {
         "general": "通用",
         "themes": "主题",
         "font-size": "字体大小",
+        "user-style": "自定义主题",
         "clickable-link": "允许点击超链接"
     },
 

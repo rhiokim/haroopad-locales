@@ -51,7 +51,8 @@
         "vim-key-binding": "Configuración de teclado estilo VIM",
         "auto-pair-char": "Emparejado automático de caracteres",
         "insert-four-space": "Insertar 4 espacios en lugar de un tabulador",
-        "display-active-line": "Display active line"
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

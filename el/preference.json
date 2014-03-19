@@ -51,7 +51,8 @@
         "vim-key-binding": "Συνδυασμοί πλήκτρων Vim",
         "auto-pair-char": " Αυτόματη σύζευξη χαρακτήρων",
         "insert-four-space": "Εισαγωγή 4 διαστημάτων αντί για στηλοθέτη",
-        "display-active-line": "Display active line"
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

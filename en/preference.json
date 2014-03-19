@@ -51,7 +51,8 @@
         "vim-key-binding": "Vim Key Binding",
         "auto-pair-char": "Auto Pair Characters",
         "insert-four-space": "Insert 4 Spaces Instead of on Tab",
-        "display-active-line": "Display active line"
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

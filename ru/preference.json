@@ -51,7 +51,8 @@
         "vim-key-binding": "включить Vim раскладку",
         "auto-pair-char": "Автоматически закрывать скобки",
         "insert-four-space": "Вставлять 4 пробела при нажатии на табуляцию",
-        "display-active-line": "Display active line"
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

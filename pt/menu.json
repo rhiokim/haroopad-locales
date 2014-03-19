@@ -50,13 +50,13 @@
         "toggle-toc": "Tabela de conteúdos",
         "enter-full-screen": "Tela cheia",
         "editor": {
-            "theme": "Editor de temas...",
-            "theme-user": "Editor de temas do usuário..."
+            "theme": "Tema",
+            "theme-user": "Estilo do usuário"
         },
         "viewer": {
-            "theme": "Visualizador de temas...",
-            "theme-code": "Visualizador de código de temas...",
-            "theme-user": "Visualizador de temas de usuário..."
+            "theme": "Tema",
+            "theme-code": "Tema do bloco de código",
+            "theme-user": "Estilo do usuário"
         }
     },
     "insert": {
@@ -117,7 +117,7 @@
         "name": "Editar",
         "undo": "Desfazer",
         "redo": "Refazer",
-        "cut": "Cortar",
+        "cut": "Recortar",
         "copy": "Copiar",
         "paste": "Colar",
         "delete": "Apagar",

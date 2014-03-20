@@ -18,6 +18,8 @@
 
 * Greek                  :  Petros Dudis <pdudis@gmail.com>
 
+* Japanese               :  Toshiyuki Tega <softgatelimitedjapan@gmail.com>
+
 * Korean                 :  Rhio Kim <rhio.kim@gmail.com>, Haroopad <rhio.kim+haroopad@gmail.com>
 
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>

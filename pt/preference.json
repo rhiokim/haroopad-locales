@@ -14,9 +14,9 @@
     "system": {
         "language": {
             "update": {
-                "msg": "Language Pack has been updated. Why do not update now?",
-                "done": "Done :-). Please restart Haroopad.",
-                "error": "Update fail :-(. Please check your network status."
+                "msg": "O pacote de idiomas pode ser atualizado. Você quer fazê-lo agora?",
+                "done": "Feito :-). Por favor, reincie o Haroopad.",
+                "error": "Falha na atualização :-(. Por favor, verifique se você está conectado à Internet."
             }
         }    
     },
@@ -42,8 +42,8 @@
 
     "editor": {
         "general": "Opções gerais",
-        "themes": "Temas",
-        "user-style": "Seu estilo",
+        "themes": "Tema",
+        "user-style": "Estilo do usuário",
         "spaces": "Espaços",
         "tab-width": "Largura do TAB",
         "indent-use-tab": "Usar TAB para identar",
@@ -56,9 +56,9 @@
 
     "viewer": {
         "general": "Opções gerais",
-        "themes": "Temas",
+        "themes": "Tema",
         "font-size": "Tamanho da fonte",
-        "user-style": "Seu estilo",
+        "user-style": "Estilo do usuário",
         "clickable-link": "Tornar links clicáveis no vizualizador vivo"
     },
 
@@ -72,7 +72,7 @@
 
     "code": {
         "general": "Opções gerais",
-        "themes": "Temas",
+        "themes": "Tema",
         "show-line-number": "Mostrar números de linha nos blocos de código coloridos"
     },
 
@@ -92,12 +92,12 @@
 
     "about": {
         "donate": "Doar",
-        "mean": "<strong>Haroo</strong> significa \"Um dia\" em Coreano",
+        "mean": "<strong>Haroo</strong> significa \"um dia\" em Coreano",
         "version": "Versão",
         "official-site": "Site oficial",
         "developer": "Desenvolvedor",
         "special-thanks": "Agradecimento especial",
-        "icon": "Ícone",
+        "icon": "Arte do ícone",
         "description": "Haroopad <small>O processador de documentos do futuro</small>",
         "donate-msg": "Se você gostou do Haroopad, faça uma doação para ajudá-lo a crescer"
     },

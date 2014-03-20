@@ -4,88 +4,88 @@
     "placeholder": "Today, What do you want to write the story?",
 
     "footer": {
-        "lines": "lines",
-        "words": "words"
+        "lines": "行",
+        "words": "語"
     },
 
     "toc": {
-        "name": "Table Of Contents"
+        "name": "目次"
     },
 
-    "share": "Share",
+    "share": "シェア",
     "state": {
-        "label": "Elements",
-        "image": "Image",
-        "header": "Header",
-        "link": "Link",
-        "table": "Table",
-        "paragraph": "Paragraph",
-        "code": "Code",
-        "blockquote": "Blockquote"
+        "label": "要素",
+        "image": "画像",
+        "header": "見出し",
+        "link": "リンク",
+        "table": "表",
+        "paragraph": "段落",
+        "code": "コード",
+        "blockquote": "引用"
     },
 
     "config": {
-        "toc": "Show Table of Content",
-        "outline": "Show Document Outline",
-        "fullscreen": "Toggle Fullscreen",
-        "tab": "Tab with",
-        "usetab": "Indent Using Tab",
-        "experimental": "Experimental",
-        "spaces": "Spaces",
+        "toc": "目次を表示",
+        "outline": "ドキュメントアウトラインを表示",
+        "fullscreen": "フルスクリーンをトグル",
+        "tab": "タブ: ",
+        "usetab": "タブでインデント",
+        "experimental": "試験中",
+        "spaces": "空白",
         "column": {
-            "label": "Column",
-            "one": "Signle",
-            "two": "Two Column",
-            "three": "Three Column"
+            "label": "カラム",
+            "one": "シングル",
+            "two": "2 カラム",
+            "three": "3 カラム"
         },
-        "md-help": "Show Syntax Help"
+        "md-help": "記法ヘルプを表示"
     },
 
     "promotion": {
-        "desc": "Please Share!"
+        "desc": "シェアしてください!"
     },
 
     "donate": {
-        "label": "Donate",
-        "title": "Donate to help keep development going!",
-        "desc": "If you feel that is useful, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "label": "寄付",
+        "title": "開発を継続するためにご寄付をお願いします!",
+        "desc": "本ソフトウェアが有用だと思ったら、開発の継続を支援するために <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>ご寄付</a>をお願いします。"
     },
 
     "email": {
-        "title": "Sending email",
-        "subject": "Insert Subject",
+        "title": "メール送信中",
+        "subject": "件名を挿入",
         "to": "TO",
         "from": "FROM",
-        "reciver": "Insert reciver's email address",
+        "reciver": "受取人のメールアドレスを挿入",
         "html": "HTML",
         "markdown": "Markdown",
-        "close": "Close",
-        "send": "Send",
-        "sent": "Sent",
-        "remember": "Remember email",
-        "password": "Password",
-        "secure": "The password will not be saved.",
-        "yours": "Insert your Gmail address",
+        "close": "閉じる",
+        "send": "送信",
+        "sent": "送信済み",
+        "remember": "メールアドレスを記憶",
+        "password": "パスワード",
+        "secure": "パスワードは保存されません。",
+        "yours": "Gmail アドレスを入力してください",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Invalid login or password."
+        "invalid-account": "無効なログイン名またはパスワードです。"
     },
 
     "dialog": {
-        "save-change": "Do you want to save the changes made to the document?",
-        "cancel": "Cancel",
-        "dont-save": "Don't Save",
-        "save": "Save",
-        "yes": "Yes",
-        "no": "No",
-        "changed-file": "has been changed by another application. <br/>Do you want reload?"
+        "save-change": "ドキュメントの変更を保存しますか？",
+        "cancel": "キャンセル",
+        "dont-save": "保存しない",
+        "save": "保存",
+        "yes": "はい",
+        "no": "いいえ",
+        "changed-file": "は他のアプリケーションで変更されました。<br/>再読込しますか？"
     },
 
     "upgrade": {
-        "uptodate": "You're up to date!",
-        "message": "Looking for the latest version?",
-        "note": "Release note",
-        "download": "Download",
-        "newest": "Haroopad is currently the newest version available."
+        "uptodate": "あなたは最新版を利用中です！",
+        "message": "最新版をお探しですか？",
+        "note": "リリースノート",
+        "download": "ダウンロード",
+        "newest": "Haroopad は最新版です。"
     }
 }

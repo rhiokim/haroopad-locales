@@ -1,5 +1,9 @@
 {
     "title": "",
+    "untitled": "Untitled",
+    "modified": "Edited",
+    "restored-file": "Restored (writen at {{date}})",
+    "read-only-file": "read only",
     "experimental": "experimental",
 
     "footer": {

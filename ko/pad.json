@@ -1,5 +1,9 @@
 {
     "title": "",
+    "untitled": "제목 없음",
+    "modified": "수정됨",
+    "restored-file": "복원 파일 ({{date}} 에 작성됨)",
+    "read-only-file": "읽기 전용",
     "experimental": "베타",
     "placeholder": "오늘은 무슨 이야기를 기록할래요?",
 

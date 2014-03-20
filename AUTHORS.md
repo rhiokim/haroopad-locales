@@ -25,3 +25,5 @@
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
+
+* Français				 :  Sam Le Barbare

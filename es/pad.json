@@ -1,11 +1,11 @@
 {
     "title": "",
-    "untitled": "Untitled",
-    "modified": "Edited",
-    "restored-file": "Restored (writen at {{date}})",
-    "read-only-file": "read only",
+    "untitled": "Sin título",
+    "modified": "Editado",
+    "restored-file": "Restaurado (escrito en {{date}})",
+    "read-only-file": "solo lectura",
     "experimental": "experimental",
-    "placeholder": "Today, What do you want to write the story?",
+    "placeholder": "Hoy ¿Qué quieres para escribir la historia?",
 
     "footer": {
         "lines": "líneas",
@@ -72,7 +72,7 @@
         "yours": "Ingrese su correo de Gmail",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Invalid login or password."
+        "invalid-account": "Nombre de usuario o contraseña incorrectos."
     },
 
     "dialog": {
@@ -90,6 +90,6 @@
         "message": "¿Buscas la versión más reciente?",
         "note": "Notas de la versión",
         "download": "Descargar",
-        "newest": "Haroopad esta en su versión más reciente disponible."
+        "newest": "Haroopad esta en su versión más reciente."
     }
 }

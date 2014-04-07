@@ -47,7 +47,8 @@
         "display-line-number": "Hiện đánh số dòng",
         "vim-key-binding": "Dùng bàn phím Vim",
         "auto-pair-char": "Tự động bắt cặp kí tự",
-        "insert-four-space": "Chèn 4 khoảng trắng thay vì Tab"
+        "insert-four-space": "Chèn 4 khoảng trắng thay vì Tab",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

@@ -1,6 +1,11 @@
 {
     "title": "",
+    "untitled": "Untitled",
+    "modified": "Edited",
+    "restored-file": "Restored (writen at {{date}})",
+    "read-only-file": "read only",
     "experimental": "实验性功能",
+    "placeholder": "Today, What do you want to write the story?",
 
     "footer": {
         "lines": "行数",

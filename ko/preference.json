@@ -51,7 +51,8 @@
         "vim-key-binding": "Vim 키 바인딩 사용",
         "auto-pair-char": "자동 블럭 완성 사용",
         "insert-four-space": "하나의 탭을 4개의 공백 문자 사용",
-        "display-active-line": "현재 라인 표시하기"
+        "display-active-line": "현재 라인 표시하기",
+        "use-markdown-folding": "마크다운 폴딩 기능 사용"
     },
 
     "viewer": {

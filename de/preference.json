@@ -51,7 +51,8 @@
         "vim-key-binding": "Vim Tastenbelegung",
         "auto-pair-char": "Auto Paarzeichen",
         "insert-four-space": "Füge 4 Leerzeichen statt Tabulatoren ein",
-        "display-active-line": "Display active line"
+        "display-active-line": "Display active line",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

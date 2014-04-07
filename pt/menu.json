@@ -1,0 +1,128 @@
+{
+    "file": {
+        "name": "Arquivo",
+        "new": "Novo",
+        "open": "Abrir...",
+        "open-recent": "Abrir recente",
+        "clear-all": "Limpar tudo",
+        "save": "Salvar",
+        "save-as": "Salvar como",
+        "close": "Fechar",
+        "sending": "Enviar",
+        "sending-email": "Email",
+        "exports": "Exportar...",
+        "export-to-file": "Arquivo",
+        "export-to-html": "HTML",
+        "copy-to-clipboard": "Copiar na memória",
+        "plain-html": "HTML puro",
+        "styled-html": "HTML estilizado",
+        "print": "Imprimir...",
+        "preferences": "Preferências",
+        "quit": "Sair"
+    },
+    "find": {
+        "name": "Pesquisar",
+        "find": "Procurar...",
+        "find-next": "Próximo",
+        "find-previous": "Anterior",
+        "replace": "Substituir...",
+        "replace-all": "Substituir tudo"
+    },
+    "view": {
+        "name": "Visualizar",
+        "mode": "Modo",
+        "mode-e-v": "Editor : Visualizador",
+        "mode-v-e": "Visualizador : Editor",
+        "mode-editor": "Editor",
+        "mode-viewer": "Visualizador",
+        "toggle-live-view": "Visualização viva",
+        "toggle-line-number": "Número de linhas",
+        "live-view-width-plus-5": "Entreitar visualizador 5%",
+        "live-view-width-minus-5": "Alargar visualizador 5%",
+        "column": "Coluna",
+        "column-single": "Única",
+        "column-two": "Duas colunas",
+        "column-three": "Três colunas",
+        "font-size": "Tamanho da fonte",
+        "font-size-editor": "Do editor",
+        "font-size-viewer": "Do visualizador",
+        "vim-mode": "Cursor do VIM",
+        "toggle-toc": "Tabela de conteúdos",
+        "enter-full-screen": "Tela cheia",
+        "editor": {
+            "theme": "Tema",
+            "theme-user": "Estilo do usuário"
+        },
+        "viewer": {
+            "theme": "Tema",
+            "theme-code": "Tema do bloco de código",
+            "theme-user": "Estilo do usuário"
+        }
+    },
+    "insert": {
+        "name": "Inserir",
+        "date-time": "Data e hora",
+        "filename": "Nome do arquivo",
+        "copy-html": "Copiar HTML",
+        "header": "Título de cabeçalho",
+        "bold": "Negrito ................ **",
+        "italic": "Itálico .......... *",
+        "inline-code": "Código em linha ......... `",
+        "image": "Imagem ................. ![]()",
+        "link": "Link .................... []()",
+        "blockquote": "Citação ......... >",
+        "ordered-list": "Lista ordenada ....... 1.",
+        "unordered-list": "Lista não ordenada .. -",
+        "section-break": "Quebra de seção ...... - - -",
+        "page-break": "Quebra de página .......... * * *",
+        "fenced-code": "Bloco de código ....... ```",
+        "strikethrough": "Riscado ...... ~~",
+        "embed": "Mídia embutida ........... @[]()",
+        "toc": "Tabela de conteúdos ... [TOC]",
+        "table": "Tabela",
+        "comment": "Comentário ............. <!-- -->",
+        "highlight": "Grifo .............. ==",
+        "underline": "Sublinahdo .............. ++",
+        "math-block": "Fórmula matemática em bloco ......... $$",
+        "math-inline": "Fórmula matemática em linha ......... $$$",
+        "embed-video": "Embedding Video",
+        "embed-audio": "Embedding Audio",
+        "embed-image": "Embedding Image",
+        "embed-other": "Embedding Others..."
+    },
+    "tool": {
+        "name": "Ferramenta"
+    },
+    "window": {
+        "name": "Janela",
+        "minimize": "Minimizar",
+        "close": "Fechar",
+        "bring-all-to-front": "Trazer tudo para a frente"
+    },
+    "help": {
+        "name": "Ajuda",
+        "haroopad-help": "Ajuda do Haroopad",
+        "markdown-syntax-help": "Gramática Markdown",
+        "haroopad-shortcut-help": "Atalhos de teclado",
+        "release-notes": "Notas de lançamento",
+        "acknowledgements": "Créditos e licenças",
+        "haroopad-website": "Website",
+        "user-echo": "User Echo",
+        "twitter": "Twitter",
+        "check-for-update": "Verificar se há atualizações",
+        "boost-up-donate": "Faça uma doação!"
+    },
+
+    "edit": {
+        "name": "Editar",
+        "undo": "Desfazer",
+        "redo": "Refazer",
+        "cut": "Recortar",
+        "copy": "Copiar",
+        "paste": "Colar",
+        "delete": "Apagar",
+        "select-all": "Selecionar tudo",
+        "copy-html": "Copiar HTML puro",
+        "copy-styled-html": "Copiar HTML estilizado"
+    }
+}

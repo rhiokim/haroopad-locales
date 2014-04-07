@@ -1,11 +1,11 @@
 {
     "title": "",
-    "untitled": "Untitled",
-    "modified": "Edited",
-    "restored-file": "Restored (writen at {{date}})",
-    "read-only-file": "read only",
+    "untitled": "未命名",
+    "modified": "已编辑",
+    "restored-file": "已恢复 (编辑于 {{date}})",
+    "read-only-file": "只读",
     "experimental": "实验性功能",
-    "placeholder": "Today, What do you want to write the story?",
+    "placeholder": "今天，写一些什么呢?",
 
     "footer": {
         "lines": "行数",

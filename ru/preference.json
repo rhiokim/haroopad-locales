@@ -88,7 +88,8 @@
         "smarty-pants": "Включить улучшенную типографическую пунктуацию для кавычек, тире и прочего",
         "enable-math": "Использовать математические формулы",
         "restore": "Сбросить все настройки Markdown на значения по умолчанию.",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

@@ -87,7 +87,8 @@
         "smarty-pants": "Tipografia \"inteligente\" para coisas como áspas e travessões",
         "enable-math": "Suportar fórmulas matemáticas",
         "restore": "Suas configurações Markdown serão restauradas para o padrão original",
-        "enable-dollar-sign": "Único sinal $ para fórmulas matemáticas em linha (padrão: $$$)"
+        "enable-dollar-sign": "Único sinal $ para fórmulas matemáticas em linha (padrão: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

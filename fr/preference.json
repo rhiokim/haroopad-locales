@@ -88,7 +88,8 @@
         "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
         "enable-math": "Use Mathematics Expression",
         "restore": "Your Markdown settings will be restored to their original defaults",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

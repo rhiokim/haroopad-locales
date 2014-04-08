@@ -88,7 +88,8 @@
         "smarty-pants": "Usar puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
         "enable-math": "Usar Mathematics Expression",
         "restore": "Tu configuración de Markdown será restaurada a sus valores originales",
-        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)"
+        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

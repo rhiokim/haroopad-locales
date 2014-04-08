@@ -88,7 +88,8 @@
         "smarty-pants": "기호 및 텍스트 대체 항목 사용",
         "enable-math": "수학 표현식 사용",
         "restore": "마크다운 옵션을 기본 설정으로 되돌리겠습니까?",
-        "enable-dollar-sign": "인라인 수학 표현식에 단일 $ 기호를 사용 (기본: $$$)"
+        "enable-dollar-sign": "인라인 수학 표현식에 단일 $ 기호를 사용 (기본: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

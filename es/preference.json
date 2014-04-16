@@ -89,7 +89,7 @@
         "enable-math": "Usar Mathematics Expression",
         "restore": "Tu configuración de Markdown será restaurada a sus valores originales",
         "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)",
-        "extra-footnotes": "Use Footnotes"
+        "extra-footnotes": "Usar notas al pie"
     },
 
     "about": {

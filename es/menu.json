@@ -50,13 +50,13 @@
         "toggle-toc": "Habilitar Tabla de contenidos",
         "enter-full-screen": "Pantalla completa",
         "editor": {
-            "theme": "Editor Themes...",
-            "theme-user": "Editor User Themes..."
+            "theme": "Editor de temas...",
+            "theme-user": "Editor de temas de usuario..."
         },
         "viewer": {
-            "theme": "Viewer Themes...",
-            "theme-code": "Viewer Code Themes...",
-            "theme-user": "Viewer User Themes..."
+            "theme": "Visualizador de temas...",
+            "theme-code": "Visualizador de temas de código...",
+            "theme-user": "Visualizador de temas de usuario..."
         }
     },
     "insert": {
@@ -67,7 +67,7 @@
         "header": "Título",
         "bold": "Texto reforzado",
         "italic": "Texto enfatizado",
-        "inline-code": "Código en linea",
+        "inline-code": "Código en línea",
         "image": "Imagen",
         "link": "Enlace",
         "blockquote": "Cita en bloque",
@@ -75,12 +75,12 @@
         "unordered-list": "Lista desordenada",
         "section-break": "Salto de sección",
         "page-break": "Salto de página",
-        "sentence-break": "Sentence break",
+        "sentence-break": "Ruptura de oración",
         "fenced-code": "Código cercado",
         "strikethrough": "Texto tachado",
         "embed": "Enlace incrustado",
-        "footnotes": "Footnotes",
-        "footnotes-ref": "Footnotes Reference",
+        "footnotes": "Notas al pie",
+        "footnotes-ref": "Referencia de las notas al pie",
         "toc": "Tabla de contenido",
         "table": "Tabla",
         "comment": "Comentario",
@@ -88,10 +88,10 @@
         "underline": "Subrayar",
         "math-block": "Math (bloque)",
         "math-inline": "Math (en línea)",
-        "embed-video": "Embedding Video",
-        "embed-audio": "Embedding Audio",
-        "embed-image": "Embedding Image",
-        "embed-other": "Embedding Others..."
+        "embed-video": "Incorporando vídeo",
+        "embed-audio": "Incorporando audio",
+        "embed-image": "Incorporando image",
+        "embed-other": "Incorporando otros..."
     },
     "tool": {
         "name": "Herramientas"

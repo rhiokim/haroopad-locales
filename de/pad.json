@@ -1,11 +1,11 @@
 {
     "title": "",
-    "untitled": "Untitled",
-    "modified": "Edited",
-    "restored-file": "Restored (writen at {{date}})",
+    "untitled": "Unbenannt",
+    "modified": "Verändert",
+    "restored-file": "Wiederhergestellt (gespeicher am {{date}})",
     "read-only-file": "read only",
     "experimental": "experimentell",
-    "placeholder": "Today, What do you want to write the story?",
+    "placeholder": "Was möchtest Du heute schreiben?",
 
     "footer": {
         "lines": "Zeilen",

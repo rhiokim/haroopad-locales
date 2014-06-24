@@ -75,12 +75,12 @@
         "unordered-list": "Lista não ordenada",
         "section-break": "Quebra de seção",
         "page-break": "Quebra de página",
-        "sentence-break": "Sentence break",
+        "sentence-break": "Espaçamento vertical",
         "fenced-code": "Bloco de código",
         "strikethrough": "Riscado",
         "embed": "Mídia embutida",
-        "footnotes": "Footnotes",
-        "footnotes-ref": "Footnotes Reference",
+        "footnotes": "Marca de nota de rodapé",
+        "footnotes-ref": "Nota de rodapé",
         "toc": "Tabela de conteúdos",
         "table": "Tabela",
         "comment": "Comentário",
@@ -88,10 +88,10 @@
         "underline": "Sublinahdo",
         "math-block": "Fórmula matemática em bloco",
         "math-inline": "Fórmula matemática em linha",
-        "embed-video": "Embedding Video",
-        "embed-audio": "Embedding Audio",
-        "embed-image": "Embedding Image",
-        "embed-other": "Embedding Others..."
+        "embed-video": "Vídeo embutido",
+        "embed-audio": "Áudio embutido",
+        "embed-image": "Imagem embutido",
+        "embed-other": "Outros embutidos..."
     },
     "tool": {
         "name": "Ferramenta"

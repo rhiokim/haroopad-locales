@@ -51,8 +51,8 @@
         "vim-key-binding": "Vim 模式",
         "auto-pair-char": "自动符号配对",
         "insert-four-space": "插入 4 个空格代替制表符",
-        "use-markdown-folding": "Use Markdown Folding",
-        "display-active-line": "高亮显示当前行"
+        "display-active-line": "高亮显示当前行",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

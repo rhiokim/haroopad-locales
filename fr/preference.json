@@ -1,115 +1,116 @@
 {
-    "title": "Preference",
+    "title": "Préférences",
     "ok": "OK",
-    "no": "No",
-    "yes": "Yes",
-    "cancel": "Cancel",
-    "reset": "Reset",
-    "apply": "Apply",
-    "done": "Done",
-    "updating": "Updating",
-    "edit": "Edit",
-    "reload": "Reload",
+    "no": "Non",
+    "yes": "Oui",
+    "cancel": "Annuler",
+    "reset": "Remise à zéro",
+    "apply": "Appliquer",
+    "done": "Effectué",
+    "updating": "Mise à jour",
+    "edit": "Edition",
+    "reload": "Recharger",
 
     "system": {
         "language": {
             "update": {
-                "msg": "Language Pack has been updated. Why do not update now?",
-                "done": "Done :-). Please restart Haroopad.",
-                "error": "Update fail :-(. Please check your network status."
+                "msg": "Le greffon de langue a été mis à jour. Pourquoi ne pas mettre à jour maintenant ?",
+                "done": "Effectué :-). SVP redémarrez Haroopad.",
+                "error": "La mise à jour a échoué :-(. SVP vérifiez l'état du réseau."
             }
         }    
     },
 
     "tab": {
-        "general": "General",
-        "editor": "Editor",
-        "viewer": "Viewer",
-        "custom": "Custom",
+        "general": "Général",
+        "editor": "Editeur",
+        "viewer": "Prévisualisation",
+        "custom": "Personnalisé",
         "code": "Code",
         "markdown": "Markdown",
-        "about": "About",
-        "backup": "Backup"
+        "about": "A propos",
+        "backup": "Sauvegarde"
     },
 
     "general": {
-        "general": "General",
-        "date-time": "Date & Time",
-        "enableAutoComplete": "Enable Markdown Auto Completion",
-        "enableSyncScroll": "Enable Sync Scroll",
-        "enableLastFileRestore": "Enable Last File Restore"
+        "general": "Général",
+        "date-time": "Date & Heure",
+        "enableAutoComplete": "Activer l'auto complétion Markdown",
+        "enableSyncScroll": "Activer le scroll synchronisé",
+        "enableLastFileRestore": "Activer la restauration du dernier fichier"
     },
 
     "editor": {
-        "general": "General",
-        "themes": "Themes",
-        "spaces": "Spaces",
-        "user-style": "Your Style",
-        "tab-width": "Tab width",
-        "indent-use-tab": "Indent Use Tab",
-        "display-line-number": "Show Line Number",
-        "vim-key-binding": "Vim Key Binding",
-        "auto-pair-char": "Auto Pair Characters",
-        "insert-four-space": "Insert 4 Spaces Instead of on Tab",
-        "display-active-line": "Display active line",
-        "use-markdown-folding": "Use Markdown Folding"
+        "general": "Général",
+        "themes": "Thèmes",
+        "spaces": "Espaces",
+        "user-style": "Style personnalisé",
+        "tab-width": "largeur des tabulations",
+        "indent-use-tab": "Identation par tabulation"
+        "display-line-number": "Afficher les numéros de ligne",
+        "vim-key-binding": "Config clavier Vim",
+        "auto-pair-char": "Fermeture automatique des paires de caractères",
+        "insert-four-space": "Insérer 4 espaces au lieu de la tabulation",
+        "display-active-line": "Affiche la ligne active en cours",
+        "use-markdown-folding": "Utilisation folding Markdown"
     },
 
     "viewer": {
-        "general": "General",
-        "themes": "Themes",
-        "font-size": "Font Size",
-        "user-style": "Your Style",
-        "clickable-link": "Make Links Clickable in Live Previewer"
+        "general": "Général",
+        "themes": "Thèmes",
+        "font-size": "Taille de la police",
+        "user-style": "Style personnalisé",
+        "clickable-link": "Liens cliquables en prévisualisation"
     },
 
     "custom": {
-        "themes": "General",
-        "reload": "Reload",
-        "directory": "Directory",
-        "select-theme": "Select Your Theme",
-        "description": "This theme applies to Live Preview, Exporting HTML/PDF and Sending Email(Evernote, Tumblr) export."
+        "themes": "Général",
+        "reload": "Recharger",
+        "directory": "Répertoire",
+        "select-theme": "Sélectionnez votre thème",
+        "description": "Ce thème s'applique en prévisualisation, export HTML/PDF et en envoi de courriel (Evernote, Tumblr)."
     },
 
     "code": {
-        "general": "General",
-        "themes": "Themes",
-        "show-line-number": "Show Line Number at Syntax Highlight"
+        "general": "Général",
+        "themes": "Thèmes",
+        "show-line-number": "Afficher la numérotation de ligne en coloration syntaxique"
     },
 
     "markdown": {
-        "enable-gfm": "Use Github Flavord Markdown",
-        "etc": "Additional options",
-        "math": "Mathematics Expression Options",
-        "sanitize-desc": "Ignore any HTML that has been input.",
-        "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
-        "gfm-table": "Use Github Flavord Markdown Table",
-        "smarty-list": "Use smarter list behavior than the original markdown",
-        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
-        "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "enable-gfm": "Utiliser le Markdown favori Github",
+        "etc": "Options supplémentaires",
+        "math": "Options d'expressions mathematiques",
+        "sanitize-desc": "Ignorer le HTML saisi.",
+        "gfm-line-breaks": "Utiliser le saut de ligne Markdown préféré Github",
+        "gfm-table": "Utiliser le tableau Markdown préféré Github",
+        "smarty-list": "Utiliser les listes intelligentes (autres que Markdown original)",
+        "smarty-pants": "Utiliser la ponctuation \"intelligente\" pour les signes tels que les guillemets ou les traits d'union",
+        "enable-math": "Utiliser les expressions mathématiques",
+        "restore": "Vos réglages Markdown seront restaurés à leur état par défaut",
+        "enable-dollar-sign": "Utiliser le signe dollar $ Sign pour les expressions (defaut: $$$)",
+        "extra-footnotes": "Utiliser les notes en bas de page"
     },
 
     "about": {
-        "donate": "Donate",
-        "mean": "<strong>Haroo</strong> means \"A Day\" in Korean",
+        "donate": "Donner",
+        "mean": "<strong>Haroo</strong> signifie \"Un jour\" en Coréen",
         "version": "Version",
-        "official-site": "Offical Site",
-        "developer": "Developer",
-        "special-thanks": "Special Thanks",
+        "official-site": "Site officiel",
+        "developer": "Developpeur",
+        "special-thanks": "Remerciements",
         "icon": "ICON",
         "description": "Haroopad <small>The next document process</small>",
-        "donate-msg": "If you like haroopad, donate to help growing up"
+        "donate-msg": "Si vous aimez haroopad, donnez afin de la faire grandir"
     },
 
     "backup": {
-        "title": "Import & Export Settings...",
-        "import": "Import Settings",
-        "export": "Export Settings",
-        "import-done": "Restart Needed",
-        "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
-        "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "title": "Import & Export de réglages...",
+        "import": "Importer des réglages",
+        "export": "Exporter des réglages",
+        "import-done": "Redémarrage nécessaire",
+        "import-done-msg": "Réglages correctement importés. Vous devez redémarrer Haroopad pour les prendre en compte.<br/>Redémarrer Haroopad ?",
+        "export-done": "Exportation terminée !",
+        "export-done-msg": "Réglages correctement exportés.<br/>Vous pouvez importer vos réglages à l'aide de : \"<b>Préférence > Sauvegarde > Importer des réglages</b>\""
     }
 }

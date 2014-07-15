@@ -1,95 +1,95 @@
 {
     "title": "",
-    "untitled": "Untitled",
-    "modified": "Edited",
-    "restored-file": "Restored (writen at {{date}})",
-    "read-only-file": "read only",
+    "untitled": "Sans titre",
+    "modified": "Modifié",
+    "restored-file": "Restauré (créé le {{date}})",
+    "read-only-file": "Lecture seule",
     "experimental": "experimental",
-    "placeholder": "Today, What do you want to write the story?",
+    "placeholder": "Alors, pour aujourd'hui, ce sera, hum ?",
 
     "footer": {
-        "lines": "lines",
-        "words": "words"
+        "lines": "lignes",
+        "words": "mots"
     },
 
     "toc": {
-        "name": "Table Of Contents"
+        "name": "Table des matières"
     },
 
-    "share": "Share",
+    "share": "Partage",
     "state": {
-        "label": "Elements",
+        "label": "Eléments",
         "image": "Image",
-        "header": "Header",
-        "link": "Link",
-        "table": "Table",
-        "paragraph": "Paragraph",
+        "header": "En-tête",
+        "link": "Lien",
+        "table": "Tableau",
+        "paragraph": "Paragraphe",
         "code": "Code",
-        "blockquote": "Blockquote"
+        "blockquote": "Bloc de citation"
     },
 
     "config": {
-        "toc": "Show Table of Content",
-        "outline": "Show Document Outline",
-        "fullscreen": "Toggle Fullscreen",
-        "tab": "Tab with",
-        "usetab": "Indent Using Tab",
+        "toc": "Afficher la table des matières",
+        "outline": "Afficher la structure du document",
+        "fullscreen": "Basculer le mode plein-écran",
+        "tab": "Largeur de tabulations",
+        "usetab": "Indentation a l'aide des tabulations",
         "experimental": "Experimental",
-        "spaces": "Spaces",
+        "spaces": "Espaces",
         "column": {
-            "label": "Column",
-            "one": "Signle",
-            "two": "Two Column",
-            "three": "Three Column"
+            "label": "Colonne",
+            "one": "Unique",
+            "two": "Deux colonnes",
+            "three": "Trois colonnes"
         },
-        "md-help": "Show Syntax Help"
+        "md-help": "Afficher l'aide sur la syntaxe"
     },
 
     "promotion": {
-        "desc": "Please Share!"
+        "desc": "SVP Partagez !"
     },
 
     "donate": {
-        "label": "Donate",
-        "title": "Donate to help keep development going!",
-        "desc": "If you feel that is useful, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "label": "Donations",
+        "title": "Donnez afin d'aider au développement !",
+        "desc": "Si ce programme vous rend service, donnez afin d'aider à son développement. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donnez</a>"
     },
 
     "email": {
-        "title": "Sending email",
-        "subject": "Insert Subject",
-        "to": "TO",
-        "from": "FROM",
-        "reciver": "Insert reciver's email address",
+        "title": "Envoyer un courriel",
+        "subject": "Objet",
+        "to": "A",
+        "from": "DE",
+        "reciver": "Courriel du destinataire",
         "html": "HTML",
         "markdown": "Markdown",
-        "close": "Close",
-        "send": "Send",
-        "sent": "Sent",
-        "remember": "Remember email",
-        "password": "Password",
-        "secure": "The password will not be saved.",
-        "yours": "Insert your Gmail address",
+        "close": "Fermer",
+        "send": "Envoyer",
+        "sent": "Envoyé",
+        "remember": "Se souvenir du courriel",
+        "password": "Mot de passe",
+        "secure": "Le mot de passe ne sera pas enregistré.",
+        "yours": "Votre adresse GMail",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
-        "invalid-account": "Invalid login or password."
+        "invalid-account": "Identifiant et/ou mot de passe incorrect."
     },
 
     "dialog": {
-        "save-change": "Do you want to save the changes made to the document?",
-        "cancel": "Cancel",
-        "dont-save": "Don't Save",
-        "save": "Save",
-        "yes": "Yes",
-        "no": "No",
-        "changed-file": "has been changed by another application. <br/>Do you want reload?"
+        "save-change": "Enregistrer les modifications apportées au document ?",
+        "cancel": "Annuler",
+        "dont-save": "Ne pas enregistrer",
+        "save": "Enregistrer",
+        "yes": "Oui",
+        "no": "Non",
+        "changed-file": "a été modifié par une autre application. <br/>Recharger ?"
     },
 
     "upgrade": {
-        "uptodate": "You're up to date!",
-        "message": "Looking for the latest version?",
-        "note": "Release note",
-        "download": "Download",
-        "newest": "Haroopad is currently the newest version available."
+        "uptodate": "Vous êtes à jour",
+        "message": "A la recherche de la dernière version ?",
+        "note": "Note de version",
+        "download": "Téléchargement",
+        "newest": "Haroopad est actuellement la dernière version disponible."
     }
 }

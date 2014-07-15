@@ -51,12 +51,12 @@
         "enter-full-screen": "Vollbild aktivieren",
         "editor": {
             "theme": "Editor Themes...",
-            "theme-user": "Editor User Themes..."
+            "theme-user": "Editor Benutzer Themes..."
         },
         "viewer": {
-            "theme": "Viewer Themes...",
-            "theme-code": "Viewer Code Themes...",
-            "theme-user": "Viewer User Themes..."
+            "theme": "Live-Ansicht Themes...",
+            "theme-code": "Live-Ansicht Code Themes...",
+            "theme-user": "Live-Ansicht Benutzer Themes..."
         }
     },
     "insert": {
@@ -65,30 +65,33 @@
         "filename": "Dateiname",
         "copy-html": "Kopiere HTML",
         "header": "Überschrift",
-        "bold": "Fett  ………………………… **",
-        "italic": "Kursiv  ……………………… *",
-        "inline-code": "Codezeile  ………………… `",
-        "image": "Bild  ………………………… ![]()",
-        "link": "Link ………………………… []()",
-        "blockquote": "Zitatblock  ………………… >",
-        "ordered-list": "Geordnete Liste   ………… 1.",
-        "unordered-list": "Ungeordneteliste ………… -",
-        "section-break": "Sektionsumbruch ………… - - -",
-        "page-break": "Seitenumbruch …………… * * *",
-        "fenced-code": "Umrahmter Code ………… ```",
-        "strikethrough": "Durchstreichen …………… ~~",
-        "embed": "Einbetten …………………… @[]()",
-        "toc": "Inhaltsverzeichnis ………… [TOC]",
+        "bold": "Fett",
+        "italic": "Kursiv",
+        "inline-code": "Codezeile",
+        "image": "Bild",
+        "link": "Link",
+        "blockquote": "Zitatblock",
+        "ordered-list": "Geordnete Liste",
+        "unordered-list": "Ungeordneteliste",
+        "section-break": "Sektionsumbruch",
+        "page-break": "Seitenumbruch",
+        "sentence-break": "Satzumbruch",
+        "fenced-code": "Umrahmter Code",
+        "strikethrough": "Durchstreichen",
+        "embed": "Einbetten",
+        "footnotes": "Fußnoten",
+        "footnotes-ref": "Fußnoten Referenz",
+        "toc": "Inhaltsverzeichnis",
         "table": "Tabelle",
-        "comment": "Kommentar ………………… <!-- -->",
-        "highlight": "Hervorheben  ……………… ==",
-        "underline": "Umterstreichen  …………… ++",
-        "math-block": "Formeln (Block) …………… $$",
-        "math-inline": "Formeln (Zeile)  …………… $$$",
-        "embed-video": "Embedding Video",
-        "embed-audio": "Embedding Audio",
-        "embed-image": "Embedding Image",
-        "embed-other": "Embedding Others..."
+        "comment": "Kommentar",
+        "highlight": "Hervorheben",
+        "underline": "Umterstreichen",
+        "math-block": "Formeln (Block)",
+        "math-inline": "Formeln (Zeile)",
+        "embed-video": "Video einbetten",
+        "embed-audio": "Audio einbetten",
+        "embed-image": "Bild einbetten",
+        "embed-other": "Andere einbetten..."
     },
     "tool": {
         "name": "Werkzeug"

@@ -12,7 +12,7 @@
 
 * Brazilian Portuguese   :  Alexandre Magno <alexandre.mbm@gmail.com>
 
-* Chinese (Simplified)   :  Breezewish <me@breeswish.org>, Joel Haowen Tong <http://blog.joeltong.org/>
+* Chinese (Simplified)   :  Breezewish <vistaswx@gmail.com>, Joel Haowen Tong <http://blog.joeltong.org/>
 
 * German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
 

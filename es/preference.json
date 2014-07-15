@@ -1,6 +1,6 @@
 {
     "title": "Preferencias",
-    "ok": "OK",
+    "ok": "Ok",
     "no": "No",
     "yes": "Si",
     "cancel": "Cancelar",
@@ -18,7 +18,7 @@
                 "done": "Listo :-). Por favor reinicia Haroopad.",
                 "error": "Actualización fallida :-(. Por favor verifica el estado de tu conección a Internet"
             }
-        }    
+        }
     },
 
     "tab": {
@@ -29,7 +29,7 @@
         "code": "Código",
         "markdown": "Markdown",
         "about": "Acerca",
-        "backup": "Backup"
+        "backup": "Respaldo"
     },
 
     "general": {
@@ -44,7 +44,7 @@
         "general": "General",
         "themes": "Temas",
         "spaces": "Espacios",
-        "user-style": "Your Style",
+        "user-style": "Tu estilo",
         "tab-width": "Ancho del tabulador",
         "indent-use-tab": "Indentar usando el tabulador",
         "display-line-number": "Mostrar números de línea",
@@ -81,14 +81,15 @@
         "enable-gfm": "Usar Markdown estilo GitHub",
         "etc": "Opciones adicionales",
         "math": "Opciones de Mathematics Expression",
-        "sanitize-desc": "Ignorar cualquier etiqueta HTML que haya sido ingresada.",
+        "sanitize-desc": "Ignorar cualquier etiqueta HTML que haya sido incluída",
         "gfm-line-breaks": "Usar saltos de línea de Markdown estilo GitHub",
         "gfm-table": "Usar tablas de Markdown estilo GitHub",
         "smarty-list": "Usar los comportamientos de listas más inteligentes que el del Markdown original",
         "smarty-pants": "Usar puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
         "enable-math": "Usar Mathematics Expression",
         "restore": "Tu configuración de Markdown será restaurada a sus valores originales",
-        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)"
+        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)",
+        "extra-footnotes": "Usar notas al pie"
     },
 
     "about": {
@@ -100,7 +101,7 @@
         "special-thanks": "Agradecimientos especiales",
         "icon": "ICON",
         "description": "Haroopad <small>El próximo procesador de documentos</small>",
-        "donate-msg": "Si te gusta Haroopad  dona para ayudar a su crecimiento"
+        "donate-msg": "Si te gusta Haroopad haz una donación para ayudar con su desarrollo"
     },
 
     "backup": {

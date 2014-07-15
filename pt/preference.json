@@ -51,7 +51,8 @@
         "vim-key-binding": "Modo VIM",
         "auto-pair-char": "Parear caracteres",
         "insert-four-space": "Inserir 4 espaços invés de um TAB",
-        "display-active-line": "Destacar linha ativa"
+        "display-active-line": "Destacar linha ativa",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {
@@ -87,7 +88,8 @@
         "smarty-pants": "Tipografia \"inteligente\" para coisas como áspas e travessões",
         "enable-math": "Suportar fórmulas matemáticas",
         "restore": "Suas configurações Markdown serão restauradas para o padrão original",
-        "enable-dollar-sign": "Único sinal $ para fórmulas matemáticas em linha (padrão: $$$)"
+        "enable-dollar-sign": "Único sinal $ para fórmulas matemáticas em linha (padrão: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

@@ -52,7 +52,7 @@
         "auto-pair-char": "自动符号配对",
         "insert-four-space": "插入 4 个空格代替制表符",
         "display-active-line": "高亮显示当前行",
-        "use-markdown-folding": "Use Markdown Folding"
+        "use-markdown-folding": "启用 Markdown 折叠"
     },
 
     "viewer": {
@@ -83,13 +83,13 @@
         "math": "数学表达式选项",
         "sanitize-desc": "忽略输入的 HTML 标记",
         "gfm-line-breaks": "使用 GFM 换行模式",
-        "gfm-table": "使用 GFM 表格",
+        "gfm-table": "启用 GFM 表格",
         "smarty-list": "智能列表",
-        "smarty-pants": "智能符号",
+        "smarty-pants": "智能标点",
         "enable-math": "启用数学表达式",
         "restore": "您的 Markdown 设置将会恢复到默认设置",
         "enable-dollar-sign": "使用 $ 作为行内表达式标记 (默认: $$$)",
-        "extra-footnotes": "Use Footnotes"
+        "extra-footnotes": "启用脚注"
     },
 
     "about": {

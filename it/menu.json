@@ -48,7 +48,16 @@
         "font-size-viewer": "Visualizza dimensione carattere",
         "vim-mode": "Dis/Attiva modo VIM",
         "toggle-toc": "Dis/Attiva indice",
-        "enter-full-screen": "Pieno schermo"
+        "enter-full-screen": "Pieno schermo",
+        "editor": {
+            "theme": "Tema edizione...",
+            "theme-user": "Tema edizione utente..."
+        },
+        "viewer": {
+            "theme": "Tema anteprima...",
+            "theme-code": "Tema anteprima codice...",
+            "theme-user": "Tema anteprima utente..."
+        }
     },
     "insert": {
         "name": "Inserisci",
@@ -66,16 +75,23 @@
         "unordered-list": "Lista puntata .. -",
         "section-break": "Interruzione di sezione ...... - - -",
         "page-break": "Interruzione di pagina .......... * * *",
+        "sentence-break": "Interruzione di periodo",
         "fenced-code": "Sezione di codice ....... ```",
         "strikethrough": "Cancellato ...... ~~",
-        "embed": "Includere ........... @[]()",
+        "embed": "Includi ........... @[]()",
+        "footnotes": "Note a piè di pagina",
+        "footnotes-ref": "Richiamo nota",
         "toc": "Indice ... [TOC]",
         "table": "Tabella",
         "comment": "Commento ............. <!-- -->",
         "highlight": "Evidenzia .............. ==",
         "underline": "Sottolinea .............. _",
         "math-block": "Matematica (blocco) ......... $$",
-        "math-inline": "Matematica (in linea) ......... $$$"
+        "math-inline": "Matematica (in linea) ......... $$$",
+        "embed-video": "Includi video",
+        "embed-audio": "Includi audio",
+        "embed-image": "Includi immagine",
+        "embed-other": "Includi altro..."
     },
     "tool": {
         "name": "Strumento"

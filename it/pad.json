@@ -1,6 +1,11 @@
  {
     "title": "",
+    "untitled": "Senza titolo",
+    "modified": "Modificato",
+    "restored-file": "Recuperato (scritto il {{date}})",
+    "read-only-file": "sola lettura",
     "experimental": "sperimentale",
+    "placeholder": "Che storia vuoi scrivere oggi?",
 
     "footer": {
         "lines": "righe",

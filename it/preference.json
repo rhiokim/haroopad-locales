@@ -1,93 +1,113 @@
  {
-    "title": "Preference",
+    "title": "Preferenze",
     "ok": "OK",
     "no": "No",
-    "yes": "Yes",
-    "cancel": "Cancel",
-    "reset": "Reset",
-    "apply": "Apply",
+    "yes": "Sì",
+    "cancel": "Cancella",
+    "reset": "Ripristina",
+    "apply": "Applica",
+    "done": "Fatto",
+    "updating": "Aggiornamento in corso",
+    "edit": "Modifica",
+    "reload": "Ricarica",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Il pacchetto delle lingue è stato aggiornato. Aggiorniamo adesso?",
+                "done": "Fatto :-). Per favore riavvia Haroopad.",
+                "error": "Aggiornamento non riuscito :-(. Per favore controlla la tua connessione."
+            }
+        }
+    },
 
     "tab": {
-        "general": "General",
-        "editor": "Editor",
-        "viewer": "Viewer",
-        "custom": "Custom",
-        "code": "Code",
+        "general": "Generale",
+        "editor": "Edizione",
+        "viewer": "Anteprima",
+        "custom": "Personalizzato",
+        "code": "Codice",
         "markdown": "Markdown",
-        "about": "About",
-        "backup": "Backup"
+        "about": "Informazioni",
+        "backup": "Salvaguardia"
     },
 
     "general": {
-        "general": "General",
-        "enableAutoComplete": "Enable Markdown Auto Completion",
-        "enableMath": "Enable Mathematics Expression",
-        "enableSyncScroll": "Enable Sync Scroll",
-        "enableLastFileRestore": "Enable Last File Restore"
+        "general": "Generale",
+        "enableAutoComplete": "Consenti l'autocompletamento Markdown",
+        "enableMath": "Consenti espressioni matematiche",
+        "enableSyncScroll": "Consenti lo scorrimento simultaneo",
+        "enableLastFileRestore": "Consenti il ripristino dell'ultimo documento"
     },
 
     "editor": {
-        "general": "General",
-        "spaces": "Spaces",
-        "tab-width": "Tab width",
-        "indent-use-tab": "Indent Use Tab",
-        "display-line-number": "Show Line Number",
-        "vim-key-binding": "Vim Key Binding",
-        "auto-pair-char": "Auto Pair Characters",
-        "insert-four-space": "Insert 4 Spaces Instead of on Tab"
+        "general": "Generale",
+        "spaces": "Spazi",
+        "tab-width": "Profondità tabulazione",
+        "indent-use-tab": "Rientro con tabulazione",
+        "display-line-number": "Mostra la numerazione delle righe",
+        "vim-key-binding": "Comandi da tastiera Vim",
+        "auto-pair-char": "Auto accoppia i caratteri",
+        "insert-four-space": "Inserisci 4 spazi per il comando tabulazione",
+        "display-active-line": "Mostra la riga attiva",
+        "use-markdown-folding": "Usa la contrazione Markdown"
     },
 
     "viewer": {
-        "general": "General",
-        "themes": "Themes",
-        "clickable-link": "Make Links Clickable in Live Previewer"
+        "general": "Generale",
+        "themes": "Tema",
+        "font-size": "Taglia carattere",
+        "user-style": "Il tuo stile",
+        "clickable-link": "Rendi i rinvii attivi nell'anteprima"
     },
 
     "custom": {
-        "themes": "General",
-        "reload": "Reload",
-        "directory": "Directory",
-        "select-theme": "Select Your Theme",
-        "description": "This theme applies to Live Preview, Exporting HTML/PDF and Sending Email(Evernote, Tumblr) export."
+        "themes": "Generale",
+        "reload": "Ricarica",
+        "directory": "Cartella",
+        "select-theme": "Seleziona il tuo tema",
+        "description": "Questo tema si applica ad anteprima, esportazione HTML/PDF ed invio e-pistola (Evernote, Tumblr)."
     },
 
     "code": {
-        "general": "General",
-        "themes": "Themes",
-        "show-line-number": "Show Line Number at Syntax Highlight"
+        "general": "Generale",
+        "themes": "Tema",
+        "show-line-number": "Mostra il numero riga con la sottolineatura della sintassi"
     },
 
     "markdown": {
-        "enable-gfm": "Use Github Flavord Markdown",
-        "etc": "Additional options",
-        "sanitize-desc": "Ignore any HTML that has been input.",
-        "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
-        "gfm-table": "Use Github Flavord Markdown Table",
-        "smarty-list": "Use smarter list behavior than the original markdown",
-        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
-        "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults"
+        "enable-gfm": "Usa Github Flavord Markdown",
+        "etc": "Opzioni aggiuntive",
+        "sanitize-desc": "Ignora ogni HTML inserito.",
+        "gfm-line-breaks": "Usa la l'a capo di Github Flavored Markdown",
+        "gfm-table": "Usa la tabella di Github Flavord Markdown",
+        "smarty-list": "Usa liste migliorate di quelle del Markdown originale",
+        "smarty-pants": "Usa interpunzione tipografica \"intelligente\" per elementi come virgolette e trattini",
+        "enable-math": "Us espressioni matematiche",
+        "restore": "Le tue impostazioni Markdown saranno ripristinate secondo i parametri originali",
+        "enable-dollar-sign": "Usa un singolo simbolo $ per espressioni in linea (di norma: $$$)",
+        "extra-footnotes": "Usa note a piè di pagina"
     },
 
     "about": {
-        "donate": "Donate",
-        "mean": "<strong>Haroo</strong> means \"A Day\" in Korean",
-        "version": "Version",
-        "official-site": "Offical Site",
-        "developer": "Developer",
-        "special-thanks": "Special Thanks",
-        "icon": "ICON",
+        "donate": "Dona",
+        "mean": "<strong>Haroo</strong> significa \"Un giorno\" in Coreano",
+        "version": "Versione",
+        "official-site": "Sito ufficiale",
+        "developer": "Programmatore",
+        "special-thanks": "Ringraziamenti particolari",
+        "icon": "ICONA",
         "description": "Haroopad <small>The next document process</small>",
-        "donate-msg": "If you like haroopad, donate to help growing up"
+        "donate-msg": "Se ti piace haroopad, dona per aiutarlo a crescere"
     },
 
     "backup": {
-        "title": "Import & Export Settings...",
-        "import": "Import Settings",
-        "export": "Export Settings",
-        "import-done": "Restart Needed",
-        "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
-        "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "title": "Importa ed esporta le impostazioni...",
+        "import": "Importa impostazioni",
+        "export": "Esporta impostazioni",
+        "import-done": "Riavvio necessario",
+        "import-done-msg": "Le importazioni sono state importate con esito positivo. Devi riavviare Haroopad per ricaricare le impostazioni.<br/>Riavvio Haroopad?",
+        "export-done": "Esportazione conclusa!",
+        "export-done-msg": "Le tue impostazioni sono state espostate con esito positivo..<br/>Puoi importare le impostazioni tramite \"<b>Preferenze > Salvaguardia > Importa impostazioni</b>\""
     }
 }

@@ -89,7 +89,7 @@
         "enable-math": "수학 표현식 사용",
         "restore": "마크다운 옵션을 기본 설정으로 되돌리겠습니까?",
         "enable-dollar-sign": "인라인 수학 표현식에 단일 $ 기호를 사용 (기본: $$$)",
-        "extra-footnotes": "Use Footnotes"
+        "extra-footnotes": "각주 사용"
     },
 
     "about": {

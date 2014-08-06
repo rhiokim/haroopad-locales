@@ -5,7 +5,7 @@
     "restored-file": "Restored (written at {{date}})",
     "read-only-file": "read only",
     "experimental": "experimental",
-    "placeholder": "What story do you want to write to day?",
+    "placeholder": "What story do you want to write today?",
 
     "footer": {
         "lines": "lines",

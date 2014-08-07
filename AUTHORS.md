@@ -18,6 +18,8 @@
 
 * Greek                  :  Petros Dudis <pdudis@gmail.com>
 
+* Indonesian             :  Reza Faiz A Rahman <rezafaizarahman@gmail.com>
+
 * Japanese               :  Toshiyuki Tega <softgatelimitedjapan@gmail.com>
 
 * Korean                 :  Rhio Kim <rhio.kim@gmail.com>, Haroopad <rhio.kim+haroopad@gmail.com>

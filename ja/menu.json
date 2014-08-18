@@ -49,6 +49,7 @@
         "vim-mode": "VIM モードをトグル",
         "toggle-toc": "目次をトグル",
         "enter-full-screen": "フルスクリーン",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "エディタ テーマ...",
             "theme-user": "エディタ ユーザ テーマ..."

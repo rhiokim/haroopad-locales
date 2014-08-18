@@ -49,6 +49,7 @@
         "vim-mode": "Basculer en mode VIM",
         "toggle-toc": "Basculer l'affichage de la table des matières",
         "enter-full-screen": "Plein écran",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Thèmes de l'éditeur...",
             "theme-user": "Thèmes personnalisés de l'éditeur..."

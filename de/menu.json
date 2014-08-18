@@ -49,6 +49,7 @@
         "vim-mode": "Umschalten VIM Modus",
         "toggle-toc": "Umschalten Inhaltsverzeichnis",
         "enter-full-screen": "Vollbild aktivieren",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Editor Themes...",
             "theme-user": "Editor Benutzer Themes..."

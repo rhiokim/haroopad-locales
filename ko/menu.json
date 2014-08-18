@@ -49,6 +49,7 @@
         "vim-mode": "VIM 키 모드",
         "toggle-toc": "목차 보기 토글",
         "enter-full-screen": "전체화면 모드",
+        "enter-presentation": "프리젠테이션 모드",
         "editor": {
             "theme": "에디터 테마...",
             "theme-user": "에디터 사용자 테마..."

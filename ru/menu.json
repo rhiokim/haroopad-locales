@@ -1,4 +1,4 @@
-﻿{
+{
     "file": {
         "name": "Файл",
         "new": "Новый",
@@ -48,7 +48,17 @@
         "font-size-viewer": "Размер шрифта просмотра",
         "vim-mode": "Переключить режим VIM",
         "toggle-toc": "Переключить содержание",
-        "enter-full-screen": "Полноэкранный режим"
+        "enter-full-screen": "Полноэкранный режим",
+        "enter-presentation": "Presentation Mode",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Вставка",

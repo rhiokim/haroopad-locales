@@ -49,6 +49,7 @@
         "vim-mode": "切换 VIM 模式",
         "toggle-toc": "切换目录",
         "enter-full-screen": "全屏",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "编辑区主题...",
             "theme-user": "编辑区用户主题..."

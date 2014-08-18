@@ -49,6 +49,7 @@
         "vim-mode": "Habilitar modo VIM",
         "toggle-toc": "Habilitar Tabla de contenidos",
         "enter-full-screen": "Pantalla completa",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Editor de temas...",
             "theme-user": "Editor de temas de usuario..."

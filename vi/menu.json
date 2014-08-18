@@ -48,7 +48,17 @@
         "font-size-viewer": "Cỡ chữ xem trước",
         "vim-mode": "Tắt mở chế độ VIM",
         "toggle-toc": "Tắt mở mục lục",
-        "enter-full-screen": "Xem toàn màn hình"
+        "enter-full-screen": "Xem toàn màn hình",
+        "enter-presentation": "Presentation Mode",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Chèn",

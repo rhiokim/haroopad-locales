@@ -49,6 +49,7 @@
         "vim-mode": "Cursor do VIM",
         "toggle-toc": "Tabela de conteúdos",
         "enter-full-screen": "Tela cheia",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Tema",
             "theme-user": "Estilo do usuário"

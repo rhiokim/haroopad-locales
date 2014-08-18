@@ -49,6 +49,7 @@
         "vim-mode": "Toggle VIM Mode",
         "toggle-toc": "Toggle Table Of Content",
         "enter-full-screen": "Enter Full Screen",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Editor Themes...",
             "theme-user": "Editor User Themes..."

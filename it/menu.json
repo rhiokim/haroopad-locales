@@ -49,6 +49,7 @@
         "vim-mode": "Dis/Attiva modo VIM",
         "toggle-toc": "Dis/Attiva indice",
         "enter-full-screen": "Pieno schermo",
+        "enter-presentation": "Presentation Mode",
         "editor": {
             "theme": "Tema edizione...",
             "theme-user": "Tema edizione utente..."

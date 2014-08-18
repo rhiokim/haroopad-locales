@@ -1,0 +1,116 @@
+{
+    "title": "Pilihan",
+    "ok": "OK",
+    "no": "Tidak",
+    "yes": "Ya",
+    "cancel": "Batalkan",
+    "reset": "Atur Ulang",
+    "apply": "Terapkan",
+    "done": "Selesai",
+    "updating": "Memperbarui",
+    "edit": "Ubah",
+    "reload": "Muat Ulang",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Paket Bahasa telah diperbarui. Kenapa tidak melakukan pembaruan sekarang?",
+                "done": "Selesai :). Silakan nyalakan ulang Haroopad.",
+                "error": "Pembaruan gagal :'(. Silakan cek status jaringan Anda."
+            }
+        }
+    },
+
+    "tab": {
+        "general": "Umum",
+        "editor": "Editor",
+        "viewer": "Penampil",
+        "custom": "Kustom",
+        "code": "Kode",
+        "markdown": "Markdown",
+        "about": "Tentang",
+        "backup": "Cadangan"
+    },
+
+    "general": {
+        "general": "Umum",
+        "date-time": "Waktu & Tanggal",
+        "enableAutoComplete": "Aktifkan Markdown Auto Completion",
+        "enableSyncScroll": "Aktifkan Sync Scroll",
+        "enableLastFileRestore": "Aktifkan Last File Restore"
+    },
+
+    "editor": {
+        "general": "Umum",
+        "themes": "Tema",
+        "user-style": "Gaya Anda",
+        "spaces": "Jarak",
+        "tab-width": "Lebar Tab",
+        "indent-use-tab": "Memasukkan Dengan Tab",
+        "display-line-number": "Perlihatkan Baris Nomor",
+        "vim-key-binding": "Vim Key Binding",
+        "auto-pair-char": "Otomatis Pasangkan Karakter",
+        "insert-four-space": "Masukkan 4 Spasi sebagai Pengganti Tab",
+        "display-active-line": "Tampilkan baris yang aktif",
+        "use-markdown-folding": "Gunakan Markdown Folding"
+    },
+
+    "viewer": {
+        "general": "Umum",
+        "themes": "Tema",
+        "font-size": "Ukuran Font",
+        "user-style": "Gaya Anda",
+        "clickable-link": "Buat Tautan Dapat Diklik dalam Peninjauan Langsung"
+    },
+
+    "custom": {
+        "themes": "Umum",
+        "reload": "Muat Ulang",
+        "directory": "Direktori",
+        "select-theme": "Pilih Tema Anda",
+        "description": "Tema ini diterapkan dalam Peninjauan Langsung, Mengekspor HTML/PDF dan Kirim Email(Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Umum",
+        "themes": "Tema",
+        "show-line-number": "Perlihatkan Baris Nomor pada saat Sintaks Disorot"
+    },
+
+    "markdown": {
+        "enable-gfm": "Gunakan Github Flavored Markdown",
+        "etc": "Pilihan Tambahan",
+        "math": "Pilihan Pernyataan Matematik",
+        "sanitize-desc": "Abaikan HTML yang dimasukkan.",
+        "gfm-line-breaks": "Gunakan Github Flavored Markdown Line Break",
+        "gfm-table": "Gunakan Github Flavored Markdown Table",
+        "smarty-list": "Gunakan daftar kebiasaan yang lebih cerdas daripada markdown asli",
+        "smarty-pants": "Gunakan tanda baca tipografi \"cerdas\" untuk kutipan dan strip",
+        "enable-math": "Gunakan Pernyataan Matematik",
+        "restore": "Pengaturan Markdown Anda akan dikembalikan menjadi standar",
+        "enable-dollar-sign": "Gunakan Satu tanda $ untuk Pernyataan Sebaris (default: $$$)",
+        "extra-footnotes": "Gunakan Catatan kaki"
+    },
+
+    "about": {
+        "donate": "Donasi",
+        "mean": "<strong>Haroo</strong> berarti \"Sehari-hari\" dalam bahasa Korea",
+        "version": "Versi",
+        "official-site": "Situs Resmi",
+        "developer": "Pengembang",
+        "special-thanks": "Terima Kasih",
+        "icon": "IKON",
+        "description": "Haroopad <small>The next document process</small>",
+        "donate-msg": "Jika Anda menyukai haroopad, donasi untuk membantu pengembangan"
+    },
+
+    "backup": {
+        "title": "Impor & Ekspor Pengaturan...",
+        "import": "Impor Pengaturan",
+        "export": "Ekspor Pengaturan",
+        "import-done": "Dibutuhkan Nyalakan Ulang",
+        "import-done-msg": "Pengaturan sukses diimpor. Nyalakan ulang Haroopad untuk memuat ulang pengaturan.<br/>Nyalakan Ulang Haroopad?",
+        "export-done": "Ekspor Selesai!",
+        "export-done-msg": "Pengaturan Anda sukses diekspor.<br/>Anda dapat mengimpor pengaturan dengan \"<b>Pilihan > Cadangan > Pengaturan Impor</b>\""
+    }
+}

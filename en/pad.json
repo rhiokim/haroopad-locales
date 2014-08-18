@@ -5,7 +5,7 @@
     "restored-file": "Restored (written at {{date}})",
     "read-only-file": "read only",
     "experimental": "experimental",
-    "placeholder": "Today, what do you want to write the story?",
+    "placeholder": "What story do you want to write today?",
 
     "footer": {
         "lines": "lines",
@@ -29,7 +29,7 @@
     },
 
     "config": {
-        "toc": "Show Table of Content",
+        "toc": "Show Table of Contents",
         "outline": "Show Document Outline",
         "fullscreen": "Toggle Fullscreen",
         "tab": "Tab width",
@@ -52,15 +52,15 @@
     "donate": {
         "label": "Donate",
         "title": "Donate to help keep development going!",
-        "desc": "If you feel that is useful, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "desc": "Has this been a help to you, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
     },
 
     "email": {
-        "title": "Sending email",
-        "subject": "Insert Subject",
+        "title": "Send email",
+        "subject": "Enter Subject",
         "to": "TO",
         "from": "FROM",
-        "reciver": "Insert reciver's email address",
+        "reciver": "Enter reciver's email address",
         "html": "HTML",
         "markdown": "Markdown",
         "close": "Close",
@@ -68,8 +68,8 @@
         "sent": "Sent",
         "remember": "Remember email",
         "password": "Password",
-        "secure": "The password will not be saved.",
-        "yours": "Insert your Gmail address",
+        "secure": "Your password will not be saved.",
+        "yours": "Enter your Gmail address",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
         "invalid-account": "Invalid login or password."
@@ -88,8 +88,8 @@
     "upgrade": {
         "uptodate": "You're up to date!",
         "message": "Looking for the latest version?",
-        "note": "Release note",
+        "note": "Release notes",
         "download": "Download",
-        "newest": "Haroopad is currently the newest version available."
+        "newest": "Haroopad is currently upto date."
     }
 }

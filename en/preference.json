@@ -14,9 +14,9 @@
     "system": {
         "language": {
             "update": {
-                "msg": "Language Pack has been updated. Why do not update now?",
+                "msg": "Language Pack has been updated. Why don't you update it now?",
                 "done": "Done :-). Please restart Haroopad.",
-                "error": "Update fail :-(. Please check your network status."
+                "error": "Update failed :-(. Please check your network status."
             }
         }    
     },

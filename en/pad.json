@@ -52,7 +52,7 @@
     "donate": {
         "label": "Donate",
         "title": "Donate to help keep development going!",
-        "desc": "Has this been a help to you, donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+        "desc": "Has this been a help to you? Donate to help keep development going. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
     },
 
     "email": {
@@ -82,7 +82,7 @@
         "save": "Save",
         "yes": "Yes",
         "no": "No",
-        "changed-file": "has been changed by another application. <br/>Do you want reload?"
+        "changed-file": "has been changed by another application. <br/>Do you want to reload it?"
     },
 
     "upgrade": {
@@ -90,6 +90,6 @@
         "message": "Looking for the latest version?",
         "note": "Release notes",
         "download": "Download",
-        "newest": "Haroopad is currently upto date."
+        "newest": "Haroopad is currently up to date."
     }
 }

@@ -60,7 +60,7 @@
         "themes": "Temalar",
         "font-size": "Yazı Boyutu",
         "user-style": "Stil",
-        "clickable-link": "Görünümde linkleri tıklanabilir yap"
+        "clickable-link": "Görünüm de ki linkleri tıklanabilir yap"
     },
 
     "custom": {
@@ -94,13 +94,13 @@
 
     "about": {
         "donate": "Bağış",
-        "mean": "Kore'de <strong>Haroo</strong>'nun anlamı \"Bir gün\" dür.",
+        "mean": "Korece'de <strong>Haroo</strong>'nun anlamı \"Bir gün\" dür.",
         "version": "Versiyon",
         "official-site": "Resmi Site",
         "developer": "Geliştirici",
         "special-thanks": "Özel Teşekkürler",
         "icon": "ICON",
-        "description": "Haroopad <small>The next document process</small>",
+        "description": "Haroopad <small>Yeni döküman işlemcisi</small>",
         "donate-msg": "Haroopad'i sevdiyseniz, bağış yaparak programın gelişmesine katkı sağlayabilirsiniz"
     },
 

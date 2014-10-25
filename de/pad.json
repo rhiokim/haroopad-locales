@@ -2,7 +2,7 @@
     "title": "",
     "untitled": "Unbenannt",
     "modified": "Verändert",
-    "restored-file": "Wiederhergestellt (gespeicher am {{date}})",
+    "restored-file": "Wiederhergestellt (gespeichert am {{date}})",
     "read-only-file": "read only",
     "experimental": "experimentell",
     "placeholder": "Was möchtest Du heute schreiben?",
@@ -51,8 +51,8 @@
 
     "donate": {
         "label": "Spenden",
-        "title": "Spenden Sie um die Entwicklung am Laufen zu halten!",
-        "desc": "Wenn Haroopad für Sie von Nutzen ist, spenden Sie um die Entwicklung am Laufen zu halten. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Spenden</a>"
+        "title": "Spenden Sie, um die Entwicklung am Laufen zu halten!",
+        "desc": "Wenn Haroopad für Sie von Nutzen ist, spenden Sie, um die Entwicklung am Laufen zu halten. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Spenden</a>"
     },
 
     "email": {
@@ -87,9 +87,9 @@
 
     "upgrade": {
         "uptodate": "Sie sind up to date!",
-        "message": "Suchen sie die neuste Version?",
+        "message": "Suchen sie die neueste Version?",
         "note": "Release note",
         "download": "Download",
-        "newest": "Haroopad ist bereits auf dem neusten verfügbaren Stand."
+        "newest": "Haroopad ist bereits auf dem neuesten verfügbaren Stand."
     }
 }

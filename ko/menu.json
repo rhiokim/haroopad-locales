@@ -36,6 +36,7 @@
         "mode-editor": "에디터 모드",
         "mode-viewer": "뷰어 모드",
         "toggle-live-view": "라이브 뷰 토글",
+        "toggle-markdown-help": "마크다운 구문 헬퍼 토글",
         "toggle-line-number": "라인 넘버 토글",
         "live-view-width-plus-5": "라이브 뷰 가로 사이즈 +5%",
         "live-view-width-minus-5": "라이브 뷰 가로 사이즈 -5%",

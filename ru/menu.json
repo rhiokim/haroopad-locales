@@ -36,6 +36,7 @@
         "mode-editor": "Редактор",
         "mode-viewer": "Просмотр",
         "toggle-live-view": "Переключить живой предпросмотр",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Переключить нумерацию строк",
         "live-view-width-plus-5": "Ширина предпросмотра +5%",
         "live-view-width-minus-5": "Ширина предпросмотра -5%",

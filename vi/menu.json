@@ -36,6 +36,7 @@
         "mode-editor": "Biên tập",
         "mode-viewer": "Kết quả",
         "toggle-live-view": "Tắt mở xem kết quả",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Tắt mở số hàng",
         "live-view-width-plus-5": "Live View Width +5%",
         "live-view-width-minus-5": "Live View Width -5%",

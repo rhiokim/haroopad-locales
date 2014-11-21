@@ -36,6 +36,7 @@
         "mode-editor": "Editeur",
         "mode-viewer": "Prévisualisation",
         "toggle-live-view": "Basculer l'affichage",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Numéros de ligne",
         "live-view-width-plus-5": "Largeur affichage prévisualisation +5%",
         "live-view-width-minus-5": "Largeur affichage prévisualisation -5%",

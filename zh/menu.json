@@ -36,6 +36,7 @@
         "mode-editor": "编辑区",
         "mode-viewer": "预览区",
         "toggle-live-view": "切换实时预览",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "切换显示行号",
         "live-view-width-plus-5": "预览区宽度 +5%",
         "live-view-width-minus-5": "预览区宽度 -5%",

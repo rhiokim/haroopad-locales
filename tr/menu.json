@@ -36,6 +36,7 @@
         "mode-editor": "Editör",
         "mode-viewer": "Görüntü",
         "toggle-live-view": "Anlık Görüntü",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Satır Numaraları",
         "live-view-width-plus-5": "Anlık görüntünün boyutunu +5% arttır",
         "live-view-width-minus-5": "Anlık görüntünün boyutunu -5% azalt",

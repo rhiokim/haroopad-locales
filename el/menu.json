@@ -36,6 +36,7 @@
         "mode-editor": "Πρόγραμμα επεξεργασίας",
         "mode-viewer": "Πρόγραμμα προβολής",
         "toggle-live-view": "Εναλλαγή δυναμικής προβολής",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Εναλλαγή αριθμού γραμμής",
         "live-view-width-plus-5": "Πλάτος δυναμικής προβολής +5%",
         "live-view-width-minus-5": "Πλάτος δυναμικής προβολής -5%",

@@ -31,6 +31,7 @@
 * Italiano
 * Bahasa Indonesia
 * Türkçe
+* Français
 
 ## How to contribute
 

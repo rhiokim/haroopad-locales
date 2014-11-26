@@ -46,7 +46,7 @@
         "spaces": "Espaces",
         "user-style": "Style personnalisé",
         "tab-width": "largeur des tabulations",
-        "indent-use-tab": "Identation par tabulation"
+        "indent-use-tab": "Identation par tabulation",
         "display-line-number": "Afficher les numéros de ligne",
         "vim-key-binding": "Config clavier Vim",
         "auto-pair-char": "Fermeture automatique des paires de caractères",

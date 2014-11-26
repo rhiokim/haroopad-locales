@@ -13,6 +13,8 @@
 * Brazilian Portuguese   :  Alexandre Magno <alexandre.mbm@gmail.com>
 
 * Chinese (Simplified)   :  Breezewish <vistaswx@gmail.com>, Joel Haowen Tong <http://blog.joeltong.org/>
+ 
+* French                 :  MarcBoyer <https://github.com/MarcBoyer>, Daniel Ménard <https://github.com/daniel-menard>
 
 * German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
 

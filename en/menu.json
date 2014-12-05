@@ -36,6 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Viewer",
         "toggle-live-view": "Toggle Live View",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Toggle Line Number",
         "live-view-width-plus-5": "Live View Width +5%",
         "live-view-width-minus-5": "Live View Width -5%",

@@ -36,6 +36,7 @@
         "mode-editor": "Edizione",
         "mode-viewer": "Anteprima",
         "toggle-live-view": "Dis/Attiva anteprima automatica",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Dis/Attiva numerazione righe",
         "live-view-width-plus-5": "Larghezza anteprima automatica +5%",
         "live-view-width-minus-5": "Larghezza anteprima automatica -5%",

@@ -36,6 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Ansicht",
         "toggle-live-view": "Umschalten Live-Ansicht",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Umschalten Zeilennummern",
         "live-view-width-plus-5": "Live-Ansicht Höhe +5%",
         "live-view-width-minus-5": "Live-Ansicht Breite -5%",

@@ -36,6 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Penampil",
         "toggle-live-view": "Ubah ke Pratinjau Langsung",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Ubah ke Baris Angka",
         "live-view-width-plus-5": "Tampilan Langsung dengan Lebar +5%",
         "live-view-width-minus-5": "Tampilan Langsung dengan Lebar -5%",

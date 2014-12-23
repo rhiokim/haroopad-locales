@@ -80,6 +80,7 @@
         "sentence-break": "Sentence break",
         "fenced-code": "Code theo khối",
         "strikethrough": "Ghạch bỏ",
+        "task": "Tasklist",
         "embed": "Embedding",
         "footnotes": "Footnotes",
         "footnotes-ref": "Footnotes Reference",

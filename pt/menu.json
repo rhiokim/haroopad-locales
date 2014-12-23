@@ -80,6 +80,7 @@
         "sentence-break": "Espaçamento vertical",
         "fenced-code": "Bloco de código",
         "strikethrough": "Riscado",
+        "task": "Tasklist",
         "embed": "Mídia embutida",
         "footnotes": "Marca de nota de rodapé",
         "footnotes-ref": "Nota de rodapé",

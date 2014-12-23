@@ -80,6 +80,7 @@
         "sentence-break": "Satzumbruch",
         "fenced-code": "Umrahmter Code",
         "strikethrough": "Durchstreichen",
+        "task": "Tasklist",
         "embed": "Einbetten",
         "footnotes": "Fußnoten",
         "footnotes-ref": "Fußnoten Referenz",

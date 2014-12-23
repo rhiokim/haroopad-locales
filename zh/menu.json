@@ -80,6 +80,7 @@
         "sentence-break":   "分段符",
         "fenced-code":      "代码块",
         "strikethrough":    "删除线",
+        "task":             "Tasklist",
         "embed":            "嵌入对象",
         "footnotes":        "脚注",
         "footnotes-ref":    "脚注引用",

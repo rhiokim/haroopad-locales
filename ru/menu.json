@@ -80,6 +80,7 @@
         "sentence-break": "Sentence break",
         "fenced-code": "Блок кода",
         "strikethrough": "Зачеркнутый",
+        "task": "Tasklist",
         "embed": "Встроить",
         "footnotes": "Footnotes",
         "footnotes-ref": "Footnotes Reference",

@@ -80,6 +80,7 @@
         "sentence-break": "Ruptura de oración",
         "fenced-code": "Código cercado",
         "strikethrough": "Texto tachado",
+        "task": "Tasklist",
         "embed": "Enlace incrustado",
         "footnotes": "Notas al pie",
         "footnotes-ref": "Referencia de las notas al pie",

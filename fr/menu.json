@@ -80,6 +80,7 @@
         "sentence-break": "Saut de phrase",
         "fenced-code": "Code bloc",
         "strikethrough": "Barré",
+        "task": "Tasklist",
         "embed": "Incorporé",
         "footnotes": "Notes en bas de page",
         "footnotes-ref": "Note de référence en bas de page",

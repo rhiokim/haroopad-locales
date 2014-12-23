@@ -80,6 +80,7 @@
         "sentence-break": "Cümle Bitiş Çizgisi",
         "fenced-code": "Kod Listesi",
         "strikethrough": "Karalama",
+        "task": "Tasklist",
         "embed": "Yerleştirme Kodu",
         "footnotes": "Alt Bilgi",
         "footnotes-ref": "Alt Bilgi Referansları",

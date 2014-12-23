@@ -80,6 +80,7 @@
         "sentence-break": "Sentence break",
         "fenced-code": "Περιφραγμένος κώδικας",
         "strikethrough": "Διακριτή διαγραφή",
+        "task": "Tasklist",
         "embed": "Ενσωμάτωση",
         "footnotes": "Footnotes",
         "footnotes-ref": "Footnotes Reference",

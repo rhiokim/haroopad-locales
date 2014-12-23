@@ -46,7 +46,7 @@
         "spaces": "Espaces",
         "user-style": "Style personnalisé",
         "tab-width": "largeur des tabulations",
-        "indent-use-tab": "Identation par tabulation"
+        "indent-use-tab": "Identation par tabulation",
         "display-line-number": "Afficher les numéros de ligne",
         "vim-key-binding": "Config clavier Vim",
         "auto-pair-char": "Fermeture automatique des paires de caractères",
@@ -85,7 +85,7 @@
         "gfm-line-breaks": "Utiliser le saut de ligne Markdown préféré Github",
         "gfm-table": "Utiliser le tableau Markdown préféré Github",
         "smarty-list": "Utiliser les listes intelligentes (autres que Markdown original)",
-        "smarty-pants": "Utiliser la ponctuation \"intelligente\" pour les signes tels que les guillemets ou les traits d'union",
+        "smarty-pants": "Ponctuation intelligente pour les signes tels que les guillemets ou les traits d'union",
         "enable-math": "Utiliser les expressions mathématiques",
         "restore": "Vos réglages Markdown seront restaurés à leur état par défaut",
         "enable-dollar-sign": "Utiliser le signe dollar $ Sign pour les expressions (defaut: $$$)",

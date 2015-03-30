@@ -36,7 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Visualizador",
         "toggle-live-view": "Visualização viva",
-        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
+        "toggle-markdown-help": "Guia rápido de edição",
         "toggle-line-number": "Número de linhas",
         "live-view-width-plus-5": "Entreitar visualizador 5%",
         "live-view-width-minus-5": "Alargar visualizador 5%",

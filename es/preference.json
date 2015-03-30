@@ -1,24 +1,24 @@
 {
     "title": "Preferencias",
-    "ok": "OK",
+    "ok": "Ok",
     "no": "No",
-    "yes": "Yes",
-    "cancel": "Cancel",
-    "reset": "Reset",
-    "apply": "Apply",
-    "done": "Done",
-    "updating": "Updating",
-    "edit": "Edit",
-    "reload": "Reload",
+    "yes": "Si",
+    "cancel": "Cancelar",
+    "reset": "Restaurar",
+    "apply": "Aplicar",
+    "done": "Terminar",
+    "updating": "Actualizando",
+    "edit": "Editar",
+    "reload": "Recargar",
 
     "system": {
         "language": {
             "update": {
-                "msg": "Language Pack has been updated. Why do not update now?",
-                "done": "Done :-). Please restart Haroopad.",
-                "error": "Update fail :-(. Please check your network status."
+                "msg": "El paquete de lenguaje ha sido actualizado ¿Por qué no actualizar ahora?",
+                "done": "Listo :-). Por favor reinicia Haroopad.",
+                "error": "Actualización fallida :-(. Por favor verifica el estado de tu conección a Internet"
             }
-        }    
+        }
     },
 
     "tab": {
@@ -29,7 +29,7 @@
         "code": "Código",
         "markdown": "Markdown",
         "about": "Acerca",
-        "backup": "Backup"
+        "backup": "Respaldo"
     },
 
     "general": {
@@ -44,22 +44,22 @@
         "general": "General",
         "themes": "Temas",
         "spaces": "Espacios",
-        "user-style": "Your Style",
+        "user-style": "Tu estilo",
         "tab-width": "Ancho del tabulador",
         "indent-use-tab": "Indentar usando el tabulador",
         "display-line-number": "Mostrar números de línea",
         "vim-key-binding": "Configuración de teclado estilo VIM",
         "auto-pair-char": "Emparejado automático de caracteres",
         "insert-four-space": "Insertar 4 espacios en lugar de un tabulador",
-        "display-active-line": "Display active line",
-        "use-markdown-folding": "Use Markdown Folding"
+        "display-active-line": "Visualizar línea activa",
+        "use-markdown-folding": "Utilizar el plegado de Markdown"
     },
 
     "viewer": {
         "general": "General",
         "themes": "Temas",
-        "font-size": "Font Size",
-        "user-style": "Your Style",
+        "font-size": "Tamaño de fuente",
+        "user-style": "Tu estilo",
         "clickable-link": "Activar los enlaces en la vista previa"
     },
 
@@ -67,7 +67,7 @@
         "themes": "General",
         "reload": "Recargar",
         "directory": "Directorio",
-        "select-theme": "Seleccione su tema",
+        "select-theme": "Selecciona tu tema",
         "description": "Este tema aplica para la vista previa, exportar a HTML/PDF y enviar correo electrónico (Evernote, Tumblr)."
     },
 
@@ -79,16 +79,17 @@
 
     "markdown": {
         "enable-gfm": "Usar Markdown estilo GitHub",
-        "etc": "Additional options",
-        "math": "Mathematics Expression Options",
-        "sanitize-desc": "Ignore any HTML that has been input.",
+        "etc": "Opciones adicionales",
+        "math": "Opciones de Mathematics Expression",
+        "sanitize-desc": "Ignorar cualquier etiqueta HTML que haya sido incluída",
         "gfm-line-breaks": "Usar saltos de línea de Markdown estilo GitHub",
         "gfm-table": "Usar tablas de Markdown estilo GitHub",
-        "smarty-list": "Usa los comportamientos de listas más inteligentes que el del Markdown original",
-        "smarty-pants": "Usa puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
-        "enable-math": "Use Mathematics Expression",
-        "restore": "Your Markdown settings will be restored to their original defaults",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "smarty-list": "Usar los comportamientos de listas más inteligentes que el del Markdown original",
+        "smarty-pants": "Usar puntuación tipográfica \"inteligente\" para cosas como citas y guiones",
+        "enable-math": "Usar Mathematics Expression",
+        "restore": "Tu configuración de Markdown será restaurada a sus valores originales",
+        "enable-dollar-sign": "Usar un solo símbolo $ para expresiones en línea (predeterminado: $$$)",
+        "extra-footnotes": "Usar notas al pie"
     },
 
     "about": {
@@ -100,16 +101,16 @@
         "special-thanks": "Agradecimientos especiales",
         "icon": "ICON",
         "description": "Haroopad <small>El próximo procesador de documentos</small>",
-        "donate-msg": "Si te gusta Haroopad  dona para ayudar a su crecimiento"
+        "donate-msg": "Si te gusta Haroopad haz una donación para ayudar con su desarrollo"
     },
 
     "backup": {
-        "title": "Import & Export Settings...",
-        "import": "Import Settings",
-        "export": "Export Settings",
-        "import-done": "Restart Needed",
-        "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
-        "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "title": "Importar & Exportar configuración...",
+        "import": "Importar configuración",
+        "export": "Exportar configuración",
+        "import-done": "Es necesario reiniciar",
+        "import-done-msg": "Configuración importada satisfactoriamente. Tienes que reiniciar Haroopad para recargar la configuración.<br/>¿Reiniciar Haroopad?",
+        "export-done": "¡Exportación terminada!",
+        "export-done-msg": "Tu configuración ha sido exportada satisfactoriamente.<br/>Puedes importar configuraciones usando \"<b>Preferencias > Backup > Importar configuración</b>\""
     }
 }

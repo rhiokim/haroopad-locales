@@ -28,5 +28,17 @@
   },
   "ja": {
     "name": "日本語"
+  },
+  "it": {
+    "name": "Italiano"
+  },
+  "id": {
+    "name": "Bahasa Indonesia"
+  },
+  "tr": {
+    "name": "Türkçe"
+  },
+  "fr": {
+    "name": "Français"
   }
 }

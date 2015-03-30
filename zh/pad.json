@@ -1,11 +1,11 @@
 {
     "title": "",
-    "untitled": "Untitled",
-    "modified": "Edited",
-    "restored-file": "Restored (writen at {{date}})",
-    "read-only-file": "read only",
+    "untitled": "未命名",
+    "modified": "已编辑",
+    "restored-file": "已恢复 (编辑于 {{date}})",
+    "read-only-file": "只读",
     "experimental": "实验性功能",
-    "placeholder": "Today, What do you want to write the story?",
+    "placeholder": "今天，写一些什么呢?",
 
     "footer": {
         "lines": "行数",
@@ -67,7 +67,7 @@
         "send": "发送",
         "sent": "已发送",
         "remember": "记住 Email",
-        "password": "地址",
+        "password": "密码",
         "secure": "密码不会被保存",
         "yours": "输入您的Gmail地址",
         "evernote": "Evernote",

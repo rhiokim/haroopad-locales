@@ -1,0 +1,116 @@
+{
+    "title": "Ayarlar",
+    "ok": "Tamam",
+    "no": "Hayır",
+    "yes": "Evet",
+    "cancel": "İptal",
+    "reset": "Sıfırla",
+    "apply": "Onayla",
+    "done": "Tamam",
+    "updating": "Güncelleniyor",
+    "edit": "Düzenle",
+    "reload": "Yeniden Yükle",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Dil paketi yenilendi. Güncellemek ister misiniz?",
+                "done": "İşlem tamamlandı :-). Lütfen Haroopad'i yeniden başlatın.",
+                "error": "Güncelleme yapılamadı :-(. Lütfen internet durumunuzu kontrol edin."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "Genel",
+        "editor": "Editör",
+        "viewer": "Görünüm",
+        "custom": "Özel",
+        "code": "Kod",
+        "markdown": "Markdown",
+        "about": "Hakkında",
+        "backup": "Yedekleme"
+    },
+
+    "general": {
+        "general": "Genel",
+        "date-time": "Tarih & Saat",
+        "enableAutoComplete": "Markdown Otomatik Tamamlama",
+        "enableSyncScroll": "Senkronize Kaydırma",
+        "enableLastFileRestore": "Son Dosyayı Kurtarma"
+    },
+
+    "editor": {
+        "general": "Genel",
+        "themes": "Temalar",
+        "user-style": "Stil",
+        "spaces": "Boşluklar",
+        "tab-width": "Tab uzunluğu",
+        "indent-use-tab": "Tab kullan",
+        "display-line-number": "Satır numalarını göster",
+        "vim-key-binding": "Vim tuşları",
+        "auto-pair-char": "Otomatik kapatma karakteri",
+        "insert-four-space": "Tabı 4 boşluğa çevir",
+        "display-active-line": "Aktif satırı göster",
+        "use-markdown-folding": "Markdown katlamayı kullan"
+    },
+
+    "viewer": {
+        "general": "Genel",
+        "themes": "Temalar",
+        "font-size": "Yazı Boyutu",
+        "user-style": "Stil",
+        "clickable-link": "Görünüm de ki linkleri tıklanabilir yap"
+    },
+
+    "custom": {
+        "themes": "Genel",
+        "reload": "Yenile",
+        "directory": "Dizin",
+        "select-theme": "Tema Seçin",
+        "description": "Bu tema görünüme, HTML/PDF çıkartmaya ve eposta göndermeye(Evernote, Tumblr) etki edecektir."
+    },
+
+    "code": {
+        "general": "Genel",
+        "themes": "Temalar",
+        "show-line-number": "Syntax Gösterimlerde satır numalarını göster"
+    },
+
+    "markdown": {
+        "enable-gfm": "Github Markdown Katlamasını kullan",
+        "etc": "Ek Ayarlar",
+        "math": "Matematiksel İfade Ayarları",
+        "sanitize-desc": "Girilen HTML ifadeleri önemseme.",
+        "gfm-line-breaks": "Github Markdown Katlaması Satır Sonlarını kullan",
+        "gfm-table": "Github Markdown Katlaması Tablosunu kullan",
+        "smarty-list": "Akıllı listelemeyi kullan",
+        "smarty-pants": "\"akıllı\" tipografik noktalama kullan",
+        "enable-math": "Matematiksel ifadeleri kullan",
+        "restore": "Markdown ayarları sıfırlanacaktır",
+        "enable-dollar-sign": "Tek satır matematiksel ifadelerde tek $ işareti kullan (varsayılan: $$$)",
+        "extra-footnotes": "Alt bilgi notlarını kullan"
+    },
+
+    "about": {
+        "donate": "Bağış",
+        "mean": "Korece'de <strong>Haroo</strong>'nun anlamı \"Bir gün\" dür.",
+        "version": "Versiyon",
+        "official-site": "Resmi Site",
+        "developer": "Geliştirici",
+        "special-thanks": "Özel Teşekkürler",
+        "icon": "ICON",
+        "description": "Haroopad <small>Yeni döküman işlemcisi</small>",
+        "donate-msg": "Haroopad'i sevdiyseniz, bağış yaparak programın gelişmesine katkı sağlayabilirsiniz"
+    },
+
+    "backup": {
+        "title": "Aktarma Ayarları...",
+        "import": "İçeri Aktarma Ayarları",
+        "export": "Çıkartma Ayarları",
+        "import-done": "Yeniden Başlatmanız Gerekli",
+        "import-done-msg": "Ayarlar içeri aktarıldı. Haroopad'i yeniden başlatmalısınız.<br/>Haroopad'i Yeniden Başlat?",
+        "export-done": "Çıkartma Tamamlandı!",
+        "export-done-msg": "Ayarlarınız başarıyla dışarı çıkartıldı.<br/>İçeri aktarmak istediğinizde \"<b>Ayarlar > Yedek > İçeri Aktarma Ayarları</b>\"nı kullanın"
+    }
+}

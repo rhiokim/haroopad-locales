@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Tanpa Judul",
+    "modified": "Disunting",
+    "restored-file": "Dipulihkan (ditulis pada {{date}})",
+    "read-only-file": "read only",
+    "experimental": "Percobaan",
+    "placeholder": "Cerita apa yang ingin Anda tulis hari ini ? :)",
+
+    "footer": {
+        "lines": "baris",
+        "words": "kata"
+    },
+
+    "toc": {
+        "name": "Daftar Isi"
+    },
+
+    "share": "Berbagi",
+    "state": {
+        "label": "Elemen",
+        "image": "Gambar",
+        "header": "Header",
+        "link": "Tautan",
+        "table": "Tabel",
+        "paragraph": "Paragraf",
+        "code": "Kode",
+        "blockquote": "Kutipan"
+    },
+
+    "config": {
+        "toc": "Perlihatkan Daftar Isi",
+        "outline": "Perlihatkan Kerangka Dokumen",
+        "fullscreen": "Layar Penuh",
+        "tab": "Lebar Tab",
+        "usetab": "Memasukkan Dengan Tab",
+        "experimental": "Percobaan",
+        "spaces": "Jarak",
+        "column": {
+            "label": "Kolom",
+            "one": "Satu",
+            "two": "Dua Kolom",
+            "three": "Tiga Kolom"
+        },
+        "md-help": "Perlihatkan Bantuan Sintaks"
+    },
+
+    "promotion": {
+        "desc": "Silakan Berbagi!"
+    },
+
+    "donate": {
+        "label": "Donasi",
+        "title": "Donasi untuk membantu perkembangan selanjutnya!",
+        "desc": "Jika ini membantu anda, donasi untuk membantu perkembangan selanjutnya. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donate</a>"
+    },
+
+    "email": {
+        "title": "Kirim email",
+        "subject": "Masukkan Subjek",
+        "to": "UNTUK",
+        "from": "DARI",
+        "reciver": "Masukkan alamat email penerima",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Tutup",
+        "send": "Kirim",
+        "sent": "Mengirim",
+        "remember": "Ingat email",
+        "password": "Kata Sandi",
+        "secure": "Kata sandi Anda tidak akan disimpan.",
+        "yours": "Masukkan alamat Gmail Anda",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Login atau kata sandi tidak valid."
+    },
+
+    "dialog": {
+        "save-change": "Apakah Anda ingin menyimpan perubahan yang dibuat untuk dokumen?",
+        "cancel": "Batalkan",
+        "dont-save": "Jangan Simpan",
+        "save": "Simpan",
+        "yes": "Ya",
+        "no": "Tidak",
+        "changed-file": "telah diubah oleh aplikasi lain. <br/>Apakah anda ingin muat ulang?"
+    },
+
+    "upgrade": {
+        "uptodate": "You're up to date!",
+        "message": "Mencari versi terbaru?",
+        "note": "Catatan rilis",
+        "download": "Unduh",
+        "newest": "Haroopad is currently upto date."
+    }
+}

@@ -1,4 +1,4 @@
-﻿{
+{
     "file": {
         "name": "Файл",
         "new": "Новый",
@@ -36,6 +36,7 @@
         "mode-editor": "Редактор",
         "mode-viewer": "Просмотр",
         "toggle-live-view": "Переключить живой предпросмотр",
+        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
         "toggle-line-number": "Переключить нумерацию строк",
         "live-view-width-plus-5": "Ширина предпросмотра +5%",
         "live-view-width-minus-5": "Ширина предпросмотра -5%",
@@ -48,7 +49,17 @@
         "font-size-viewer": "Размер шрифта просмотра",
         "vim-mode": "Переключить режим VIM",
         "toggle-toc": "Переключить содержание",
-        "enter-full-screen": "Полноэкранный режим"
+        "enter-full-screen": "Полноэкранный режим",
+        "enter-presentation": "Presentation Mode",
+        "editor": {
+            "theme": "Editor Themes...",
+            "theme-user": "Editor User Themes..."
+        },
+        "viewer": {
+            "theme": "Viewer Themes...",
+            "theme-code": "Viewer Code Themes...",
+            "theme-user": "Viewer User Themes..."
+        }
     },
     "insert": {
         "name": "Вставка",
@@ -56,26 +67,30 @@
         "filename": "Имя файла",
         "copy-html": "скопировать HTML",
         "header": "Заголовок",
-        "bold": "Полужирный ................ **",
-        "italic": "Курсив .......... *",
-        "inline-code": "Вставка кода ......... `",
-        "image": "Изображение ................. ![]()",
-        "link": "Ссылка .................... []()",
-        "blockquote": "Цитата ......... >",
-        "ordered-list": "Нумерованный список ....... 1.",
-        "unordered-list": "Ненумерованный список .. -",
-        "section-break": "Разрыв строки ...... - - -",
-        "page-break": "Разрыв страницы .......... * * *",
-        "fenced-code": "Блок кода ....... ```",
-        "strikethrough": "Зачеркнутый ...... ~~",
-        "embed": "Встроить ........... @[]()",
-        "toc": "Содержание ... [TOC]",
+        "bold": "Полужирный",
+        "italic": "Курсив",
+        "inline-code": "Вставка кода",
+        "image": "Изображение",
+        "link": "Ссылка",
+        "blockquote": "Цитата",
+        "ordered-list": "Нумерованный список",
+        "unordered-list": "Ненумерованный список",
+        "section-break": "Разрыв строки",
+        "page-break": "Разрыв страницы",
+        "sentence-break": "Sentence break",
+        "fenced-code": "Блок кода",
+        "strikethrough": "Зачеркнутый",
+        "task": "Tasklist",
+        "embed": "Встроить",
+        "footnotes": "Footnotes",
+        "footnotes-ref": "Footnotes Reference",
+        "toc": "Содержание",
         "table": "Таблица",
-        "comment": "Комментрий ............. <!-- -->",
-        "highlight": "Выделить .............. ==",
-        "underline": "Подчеркнутый .............. ++",
-        "math-block": "Блок формул ......... $$",
-        "math-inline": "Вставка формулы ......... $$$"
+        "comment": "Комментрий",
+        "highlight": "Выделить",
+        "underline": "Подчеркнутый",
+        "math-block": "Блок формул",
+        "math-inline": "Вставка формулы"
     },
     "tool": {
         "name": "Иструменты"

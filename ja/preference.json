@@ -88,7 +88,8 @@
         "smarty-pants": "引用符やハイフンに \"スマートな\" 句読点を用いる",
         "enable-math": "数学記法を用いる",
         "restore": "Markdown 設定をデフォルトに戻します",
-        "enable-dollar-sign": "インライン表記に単独の $ 記号を用いる (デフォルトは $$$)"
+        "enable-dollar-sign": "インライン表記に単独の $ 記号を用いる (デフォルトは $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Adsız",
+    "modified": "Düzenlendi",
+    "restored-file": "Kurtarıldı ({{date}} tarihli)",
+    "read-only-file": "salt okunur",
+    "experimental": "deneme",
+    "placeholder": "Bugün ne yazmak istersiniz?",
+
+    "footer": {
+        "lines": "satır",
+        "words": "kelime"
+    },
+
+    "toc": {
+        "name": "İçindekiler Tablosu"
+    },
+
+    "share": "Paylaş",
+    "state": {
+        "label": "Elementler",
+        "image": "Resim",
+        "header": "Başlık",
+        "link": "Link",
+        "table": "Tablo",
+        "paragraph": "Paragraf",
+        "code": "Kod",
+        "blockquote": "Alıntı"
+    },
+
+    "config": {
+        "toc": "İçindekiler Tablosunu Göster",
+        "outline": "Döküman dış çizgisini göster",
+        "fullscreen": "Tam Ekran",
+        "tab": "Sekme uzunluğu",
+        "usetab": "Tab kullan",
+        "experimental": "Deneme",
+        "spaces": "Boşluk",
+        "column": {
+            "label": "Sütun",
+            "one": "Tek",
+            "two": "Çift Sütun",
+            "three": "Üç Sütun"
+        },
+        "md-help": "Yardımı Görüntüle"
+    },
+
+    "promotion": {
+        "desc": "Lütfen Paylaşın!"
+    },
+
+    "donate": {
+        "label": "Bağış",
+        "title": "Programın gelişmesi için lütfen bağış yapın!",
+        "desc": "Programı beğendiyseniz, bağışta bulunarak programın gelişmesini sağlayabilirsiniz. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Bağış Yap</a>"
+    },
+
+    "email": {
+        "title": "E-Posta Gönder",
+        "subject": "Konu",
+        "to": "Kime",
+        "from": "Kimden",
+        "reciver": "Alıcının epostasını girin",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Kapat",
+        "send": "Gönder",
+        "sent": "Gönderildi",
+        "remember": "Epostayı Hatırla",
+        "password": "Şifre",
+        "secure": "Şifreniz kaydedilmeyecektir.",
+        "yours": "Gmail Adresinizi girin",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Geçersiz kullanıcı adı veya şifre."
+    },
+
+    "dialog": {
+        "save-change": "Değişiklikleri kaydetmek ister misiniz?",
+        "cancel": "İptal",
+        "dont-save": "Kaydetme",
+        "save": "Kaydet",
+        "yes": "Evet",
+        "no": "Hayır",
+        "changed-file": "başka bir uygulama tarafından değiştirildi. <br/>Dosyayı yenilemek ister misiniz?"
+    },
+
+    "upgrade": {
+        "uptodate": "Son sürümü kullanıyorsunuz!",
+        "message": "Son sürümü mü arıyorsunuz?",
+        "note": "Sürüm Notları",
+        "download": "İndir",
+        "newest": "Haroopad şuan son sürümde."
+    }
+}

@@ -82,7 +82,8 @@
         "smarty-pants": "Dùng cách sắp chữ \"thông minh\" cho những thứ như các dấu ngoặc và gạch",
         "enable-math": "Dùng công thức toán LaTeX",
         "restore": "Các thiết lập Markdown của bạn sẽ phục hồi về trạng thái cài đặt ban đầu",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

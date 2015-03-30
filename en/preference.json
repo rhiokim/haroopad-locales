@@ -14,9 +14,9 @@
     "system": {
         "language": {
             "update": {
-                "msg": "Language Pack has been updated. Why do not update now?",
+                "msg": "Language Pack has been updated. Why don't you update it now?",
                 "done": "Done :-). Please restart Haroopad.",
-                "error": "Update fail :-(. Please check your network status."
+                "error": "Update failed :-(. Please check your network status."
             }
         }    
     },
@@ -78,17 +78,18 @@
     },
 
     "markdown": {
-        "enable-gfm": "Use Github Flavord Markdown",
+        "enable-gfm": "Use Github Flavored Markdown",
         "etc": "Additional options",
         "math": "Mathematics Expression Options",
         "sanitize-desc": "Ignore any HTML that has been input.",
         "gfm-line-breaks": "Use Github Flavored Markdown Line Break",
-        "gfm-table": "Use Github Flavord Markdown Table",
+        "gfm-table": "Use Github Flavored Markdown Table",
         "smarty-list": "Use smarter list behavior than the original markdown",
         "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
         "enable-math": "Use Mathematics Expression",
         "restore": "Your Markdown settings will be restored to their original defaults",
-        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)"
+        "enable-dollar-sign": "Use Single $ Sign for Inline Expression (default: $$$)",
+        "extra-footnotes": "Use Footnotes"
     },
 
     "about": {

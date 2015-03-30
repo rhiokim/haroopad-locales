@@ -51,7 +51,8 @@
         "vim-key-binding": "Modo VIM",
         "auto-pair-char": "Parear caracteres",
         "insert-four-space": "Inserir 4 espaços invés de um TAB",
-        "display-active-line": "Destacar linha ativa"
+        "display-active-line": "Destacar linha ativa",
+        "use-markdown-folding": "Use Markdown Folding"
     },
 
     "viewer": {

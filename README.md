@@ -26,6 +26,12 @@
 * Русский
 * Tiếng Việt
 * Ελληνικά
+* Brazilian Portuguese
+* 日本語
+* Italiano
+* Bahasa Indonesia
+* Türkçe
+* Français
 
 ## How to contribute
 

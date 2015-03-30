@@ -12,11 +12,15 @@
 
 * Brazilian Portuguese   :  Alexandre Magno <alexandre.mbm@gmail.com>
 
-* Chinese (Simplified)   :  Breezewish <me@breeswish.org>, Joel Haowen Tong <http://blog.joeltong.org/>
+* Chinese (Simplified)   :  Breezewish <vistaswx@gmail.com>, Joel Haowen Tong <http://blog.joeltong.org/>
+ 
+* French                 :  MarcBoyer <https://github.com/MarcBoyer>, Daniel Ménard <https://github.com/daniel-menard>
 
 * German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de
 
 * Greek                  :  Petros Dudis <pdudis@gmail.com>
+
+* Indonesian             :  Reza Faiz A Rahman <rezafaizarahman@gmail.com>
 
 * Japanese               :  Toshiyuki Tega <softgatelimitedjapan@gmail.com>
 
@@ -25,3 +29,5 @@
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
+
+* Turkish                :  Eray AYDIN <laravel-artisan@yandex.com.tr>

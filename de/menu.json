@@ -13,7 +13,7 @@
         "exports": "Exportieren...",
         "export-to-file": "Datei",
         "export-to-html": "HTML",
-        "copy-to-clipboard": "Clipboard",
+        "copy-to-clipboard": "Zwischenablage",
         "plain-html": "Reines HTML",
         "styled-html": "HTML mit Layout",
         "print": "Drucken...",
@@ -36,7 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Ansicht",
         "toggle-live-view": "Umschalten Live-Ansicht",
-        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
+        "toggle-markdown-help": "Umschalten Markdown Hilfe",
         "toggle-line-number": "Umschalten Zeilennummern",
         "live-view-width-plus-5": "Live-Ansicht Höhe +5%",
         "live-view-width-minus-5": "Live-Ansicht Breite -5%",
@@ -50,7 +50,7 @@
         "vim-mode": "Umschalten VIM Modus",
         "toggle-toc": "Umschalten Inhaltsverzeichnis",
         "enter-full-screen": "Vollbild aktivieren",
-        "enter-presentation": "Presentation Mode",
+        "enter-presentation": "Präsentationsmodus",
         "editor": {
             "theme": "Editor Themes...",
             "theme-user": "Editor Benutzer Themes..."
@@ -108,14 +108,14 @@
     "help": {
         "name": "Hilfe",
         "haroopad-help": "Haroopad Hilfe",
-        "markdown-syntax-help": "Markdown Syntaxhilfe",
+        "markdown-syntax-help": "Markdown Hilfe",
         "haroopad-shortcut-help": "Haroopad Kurzhilfe",
         "release-notes": "Release Notes",
         "acknowledgements": "Danksagungen",
         "haroopad-website": "Haroopad Website",
-        "user-echo": "User Meinungen",
+        "user-echo": "Benutzer Meinungen",
         "twitter": "Twitter",
-        "check-for-update": "Online-Update prüfen",
+        "check-for-update": "Neue Version prüfen",
         "boost-up-donate": "Spenden"
     },
 

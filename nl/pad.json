@@ -1,0 +1,95 @@
+{
+    "title": "Titel",
+    "untitled": "Naamloos",
+    "modified": "Bewerkt",
+    "restored-file": "Hersteld (Geschreven op {{date}})",
+    "read-only-file": "alleen lezen",
+    "experimental": "experimenteel",
+    "placeholder": "Wat wilt u vandaag gaan schrijven?",
+
+    "footer": {
+        "lines": "regels",
+        "words": "woorden"
+    },
+
+    "toc": {
+        "name": "Inhoudsopgave"
+    },
+
+    "share": "Delen",
+    "state": {
+        "label": "Elementen",
+        "image": "Plaatje",
+        "header": "Kop",
+        "link": "Link",
+        "table": "Tabel",
+        "paragraph": "Paragraaf",
+        "code": "Code",
+        "blockquote": "Block-quote"
+    },
+
+    "config": {
+        "toc": "Bekijke Inhoudsopgave",
+        "outline": "Show Document Schets",
+        "fullscreen": "naar Volledig Scherm",
+        "tab": "Tab breedte",
+        "usetab": "inspringen met Tab",
+        "experimental": "Experimenteel",
+        "spaces": "Spaties",
+        "column": {
+            "label": "Kolom",
+            "one": "Enkel",
+            "two": "Twee kolommen",
+            "three": "Drie kolommen"
+        },
+        "md-help": "Bekijk Syntaxis Help"
+    },
+
+    "promotion": {
+        "desc": "Deel!"
+    },
+
+    "donate": {
+        "label": "Donateer",
+        "title": "Donateer om de ontwikkeling door te laten gaan!",
+        "desc": "Heeft dit nut gehad voor u? Donateer om de ontwikkeling te stimuleren. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donateer</a>"
+    },
+
+    "email": {
+        "title": "Verstuur e-mail",
+        "subject": "Voor onderwerp in",
+        "to": "NAAR",
+        "from": "VAN",
+        "reciver": "Voer e-mail adres van ontvanger in",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Sluiten",
+        "send": "Versturen",
+        "sent": "Verstuurd",
+        "remember": "Onthoud e-mail",
+        "password": "Wachtwoord",
+        "secure": "Uw wachtwoord wordt niet opgeslagen.",
+        "yours": "Voer uw gmail adres in",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Onjuiste inlognaam of wachtwoord"
+    },
+
+    "dialog": {
+        "save-change": "Wilt u de veranderingen aan dit document opslaan?",
+        "cancel": "Annuleer",
+        "dont-save": "Niet opslaan",
+        "save": "Opslaan",
+        "yes": "Ja",
+        "no": "Nee",
+        "changed-file": "is veranderd in andere applicatie. <br/>Wilt u het bestand herladen?"
+    },
+
+    "upgrade": {
+        "uptodate": "Uw gebruikt de meest recente versie",
+        "message": "Zoeken naar de laatste versie?",
+        "note": "Uitgave opmerkingen",
+        "download": "Download",
+        "newest": "Haroopad is de nieuwste versie."
+    }
+}

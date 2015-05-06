@@ -31,3 +31,5 @@
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
 
 * Turkish                :  Eray AYDIN <laravel-artisan@yandex.com.tr>
+
+* Dutch                  :  Walter de Valk <walterdevalk@gmail.com>

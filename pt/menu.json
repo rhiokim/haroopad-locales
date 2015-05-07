@@ -36,7 +36,7 @@
         "mode-editor": "Editor",
         "mode-viewer": "Visualizador",
         "toggle-live-view": "Visualização viva",
-        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
+        "toggle-markdown-help": "Guia rápido de edição",
         "toggle-line-number": "Número de linhas",
         "live-view-width-plus-5": "Entreitar visualizador 5%",
         "live-view-width-minus-5": "Alargar visualizador 5%",
@@ -50,7 +50,7 @@
         "vim-mode": "Cursor do VIM",
         "toggle-toc": "Tabela de conteúdos",
         "enter-full-screen": "Tela cheia",
-        "enter-presentation": "Presentation Mode",
+        "enter-presentation": "Modo de apresentação",
         "editor": {
             "theme": "Tema",
             "theme-user": "Estilo do usuário"
@@ -80,7 +80,7 @@
         "sentence-break": "Espaçamento vertical",
         "fenced-code": "Bloco de código",
         "strikethrough": "Riscado",
-        "task": "Tasklist",
+        "task": "Lista de tarefas",
         "embed": "Mídia embutida",
         "footnotes": "Marca de nota de rodapé",
         "footnotes-ref": "Nota de rodapé",

@@ -2,9 +2,9 @@
     "title": "Titel",
     "untitled": "Naamloos",
     "modified": "Bewerkt",
-    "restored-file": "Hersteld (Geschreven op {{date}})",
-    "read-only-file": "alleen lezen",
-    "experimental": "experimenteel",
+    "restored-file": "Hersteld (beschreven op {{date}})",
+    "read-only-file": "alleen-lezen",
+    "experimental": "Experimenteel",
     "placeholder": "Wat wilt u vandaag gaan schrijven?",
 
     "footer": {
@@ -25,15 +25,15 @@
         "table": "Tabel",
         "paragraph": "Paragraaf",
         "code": "Code",
-        "blockquote": "Block-quote"
+        "blockquote": "Blok-aanhalingstekens"
     },
 
     "config": {
-        "toc": "Bekijke Inhoudsopgave",
-        "outline": "Show Document Schets",
-        "fullscreen": "naar Volledig Scherm",
-        "tab": "Tab breedte",
-        "usetab": "inspringen met Tab",
+        "toc": "Bekijken Inhoudsopgave",
+        "outline": "Bekijke document lay-out",
+        "fullscreen": "naar volledig scherm",
+        "tab": "Tabbreedte",
+        "usetab": "inspringen met tab",
         "experimental": "Experimenteel",
         "spaces": "Spaties",
         "column": {
@@ -76,7 +76,7 @@
     },
 
     "dialog": {
-        "save-change": "Wilt u de veranderingen aan dit document opslaan?",
+        "save-change": "Wilt u de wijzigingen van dit document opslaan?",
         "cancel": "Annuleer",
         "dont-save": "Niet opslaan",
         "save": "Opslaan",
@@ -87,9 +87,9 @@
 
     "upgrade": {
         "uptodate": "Uw gebruikt de meest recente versie",
-        "message": "Zoeken naar de laatste versie?",
+        "message": "Zoeken naar de nieuwste versie?",
         "note": "Uitgave opmerkingen",
         "download": "Download",
-        "newest": "Haroopad is de nieuwste versie."
+        "newest": "Haroopad is de reeds nieuwste versie."
     }
 }

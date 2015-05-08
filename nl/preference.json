@@ -43,9 +43,9 @@
     "editor": {
         "general": "Algemeen",
         "themes": "Thema's",
-        "user-style": "Uw Stijl",
+        "user-style": "Uw stijl",
         "spaces": "Spaties",
-        "tab-width": "Tab breedte",
+        "tab-width": "Tab-breedte",
         "indent-use-tab": "Met tab inspringen",
         "display-line-number": "Regelnummers laten zien",
         "vim-key-binding": "Vim toets toewijzingen",
@@ -58,37 +58,37 @@
     "viewer": {
         "general": "Algemeen",
         "themes": "Thema's",
-        "font-size": "Lettertype grootte",
+        "font-size": "Lettertype-grootte",
         "user-style": "Uw stijl",
-        "clickable-link": "Maak links klikbaar in Live Voorbeeld"
+        "clickable-link": "Maak links klikbaar in live voorbeeld"
     },
 
     "custom": {
         "themes": "Algemeen",
         "reload": "Herladen",
         "directory": "Folder",
-        "select-theme": "Selecter uw Thema",
-        "description": "Dit thema wordt toegepast voor het Live Voorbeeld, Exporteren van  HTML/PDF and Vrersturen E-mail(Evernote, Tumblr) export."
+        "select-theme": "Selecter uw thema",
+        "description": "Dit thema wordt toegepast voor het live-voorbeeld, exporteren van HTML/PDF en versturen E-mail(Evernote, Tumblr) export."
     },
 
     "code": {
         "general": "Algemeen",
         "themes": "Thema's",
-        "show-line-number": "Laat regelnumemrs zien in Syntaxis Markeringen"
+        "show-line-number": "Laat regelnumers zien in syntaxis markeringen"
     },
 
     "markdown": {
         "enable-gfm": "Gebruik Github Flavored Markdown",
         "etc": "Additionele opties",
-        "math": "Wiskundige Expressie Opties",
+        "math": "Wiskundige expressie opties",
         "sanitize-desc": "Negeren van HTML dat is ingevoerd.",
-        "gfm-line-breaks": "Gebruik Github Flavored Markdown Regeleinde",
-        "gfm-table": "Gebruik Github Flavored Markdown Tabel",
+        "gfm-line-breaks": "Gebruik Github Flavored Markdown regeleinden",
+        "gfm-table": "Gebruik Github Flavored Markdown tabel",
         "smarty-list": "Gebruik slimmer lijstgedrag dan originele Markdown",
-        "smarty-pants": "Gebruik \"slimme\" typografische punctuatie voor tekens als aanhalingstekens and streepjes",
-        "enable-math": "Gebruik Wiskundige Expressie",
+        "smarty-pants": "Gebruik \"slimme\" typografische punctuatie voor tekens als aanhalingstekens en streepjes",
+        "enable-math": "Gebruik wiskundige expressie",
         "restore": "Uw Markdown instellingen zullen hersteld worden naar de standaardwaarden",
-        "enable-dollar-sign": "Gebruike enkel dollarteken voor inline Expressie (standaard: $$$)",
+        "enable-dollar-sign": "Gebruik één enkel dollarteken voor inline Expressie (standaard: $$$)",
         "extra-footnotes": "Gebruik voetnoten"
     },
 
@@ -101,14 +101,14 @@
         "special-thanks": "Speciaal dankwoord",
         "icon": "ICOON",
         "description": "Haroopad <small>De toekomstige document processor</small>",
-        "donate-msg": "Als u haroopad tof vind, donateer dan om onwikkeling te ondersteunenp"
+        "donate-msg": "Als u haroopad tof vind, donateer dan om onwikkeling te ondersteunen"
     },
 
     "backup": {
-        "title": "Importeer & Exporteer Instellingen...",
+        "title": "Importeer & exporteer instellingen...",
         "import": "Importeer instellingen",
         "export": "Exporteer instellingen",
-        "import-done": "Herstarten is nodig",
+        "import-done": "Herstart vereist",
         "import-done-msg": "Instellingen werden met succes geïmporteerd. U zal Haroopad moeten herstarten om de wijzigingen toe te passen.<br/>Restart Haroopad?",
         "export-done": "Exporteren Kompleet!",
         "export-done-msg": "Uw instellingen zijn succesvol ge-exporteerd.<br/>U kunt instellingen importeren via\"<b>Voorkeuren > Backup > Instellingen Importeren</b>\""

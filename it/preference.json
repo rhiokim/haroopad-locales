@@ -79,11 +79,11 @@
         "enable-gfm": "Usa Github Flavord Markdown",
         "etc": "Opzioni aggiuntive",
         "sanitize-desc": "Ignora ogni HTML inserito.",
-        "gfm-line-breaks": "Usa la l'a capo di Github Flavored Markdown",
+        "gfm-line-breaks": "Usa l'a capo di Github Flavored Markdown",
         "gfm-table": "Usa la tabella di Github Flavord Markdown",
         "smarty-list": "Usa liste migliorate di quelle del Markdown originale",
         "smarty-pants": "Usa interpunzione tipografica \"intelligente\" per elementi come virgolette e trattini",
-        "enable-math": "Us espressioni matematiche",
+        "enable-math": "Usa espressioni matematiche",
         "restore": "Le tue impostazioni Markdown saranno ripristinate secondo i parametri originali",
         "enable-dollar-sign": "Usa un singolo simbolo $ per espressioni in linea (di norma: $$$)",
         "extra-footnotes": "Usa note a piè di pagina"

@@ -6,7 +6,7 @@
     "cancel": "Cancelar",
     "reset": "Restaurar",
     "apply": "Aplicar",
-    "done": "Terminar",
+    "done": "Hecho",
     "updating": "Actualizando",
     "edit": "Editar",
     "reload": "Recargar",
@@ -16,7 +16,7 @@
             "update": {
                 "msg": "El paquete de lenguaje ha sido actualizado ¿Por qué no actualizar ahora?",
                 "done": "Listo :-). Por favor reinicia Haroopad.",
-                "error": "Actualización fallida :-(. Por favor verifica el estado de tu conección a Internet"
+                "error": "Actualización fallida :-(. Por favor verifica el estado de tu conexión a internet"
             }
         }
     },
@@ -94,9 +94,9 @@
 
     "about": {
         "donate": "Donar",
-        "mean": "<strong>Haroo</strong> significa \"Un día\" en Coreano",
+        "mean": "<strong>Haroo</strong> significa \"Un día\" en coreano",
         "version": "Versión",
-        "official-site": "Sitio web oficial",
+        "official-site": "Sitio de internet oficial",
         "developer": "Desarrollador",
         "special-thanks": "Agradecimientos especiales",
         "icon": "ICON",

@@ -46,13 +46,13 @@
     },
 
     "promotion": {
-        "desc": "¡Por favor, Comparte!"
+        "desc": "¡Por favor, comparte!"
     },
 
     "donate": {
         "label": "Donar",
         "title": "¡Dona para apoyar el desarrollo!",
-        "desc": "Si crees que Haroopad es útil, haz una donaci´øn para continuar su desarrollo. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donar</a>"
+        "desc": "Si crees que Haroopad es útil, haz una donación para continuar su desarrollo. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donar</a>"
     },
 
     "email": {
@@ -90,6 +90,6 @@
         "message": "¿Buscas la versión más reciente?",
         "note": "Notas de la versión",
         "download": "Descargar",
-        "newest": "Haroopad esta en su versión más reciente."
+        "newest": "Haroopad está en su versión más reciente."
     }
 }

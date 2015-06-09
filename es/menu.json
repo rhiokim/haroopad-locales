@@ -31,8 +31,8 @@
     "view": {
         "name": "Ver",
         "mode": "Modo",
-        "mode-e-v": "Editor : Vista previa",
-        "mode-v-e": "Vista previa : Editor",
+        "mode-e-v": "Editor: Vista previa",
+        "mode-v-e": "Vista previa: Editor",
         "mode-editor": "Editor",
         "mode-viewer": "Vista previa",
         "toggle-live-view": "Habilitar vista en vivo",
@@ -80,7 +80,7 @@
         "sentence-break": "Ruptura de oración",
         "fenced-code": "Código cercado",
         "strikethrough": "Texto tachado",
-        "task": "Tasklist",
+        "task": "Tarea",
         "embed": "Enlace incrustado",
         "footnotes": "Notas al pie",
         "footnotes-ref": "Referencia de las notas al pie",
@@ -93,7 +93,7 @@
         "math-inline": "Math (en línea)",
         "embed-video": "Incorporando vídeo",
         "embed-audio": "Incorporando audio",
-        "embed-image": "Incorporando image",
+        "embed-image": "Incorporando imagen",
         "embed-other": "Incorporando otros..."
     },
     "tool": {
@@ -112,7 +112,7 @@
         "haroopad-shortcut-help": "Ayuda rápida de Haroopad",
         "release-notes": "Notas de la versión",
         "acknowledgements": "Reconocimientos",
-        "haroopad-website": "Sitio web de Haroopad",
+        "haroopad-website": "Sitio de internet de Haroopad",
         "user-echo": "Foro",
         "twitter": "Twitter",
         "check-for-update": "Buscar actualizaciones",

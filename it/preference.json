@@ -14,9 +14,9 @@
     "system": {
         "language": {
             "update": {
-                "msg": "Il pacchetto delle lingue è stato aggiornato. Aggiorniamo adesso?",
-                "done": "Fatto :-). Per favore riavvia Haroopad.",
-                "error": "Aggiornamento non riuscito :-(. Per favore controlla la tua connessione."
+                "msg": "Il pacchetto delle lingue è stato aggiornato. Aggiornare ora?",
+                "done": "Fatto. Per favore riavvia Haroopad.",
+                "error": "Aggiornamento non riuscito. Controlla la tua connessione alla rete."
             }
         }
     },
@@ -29,7 +29,7 @@
         "code": "Codice",
         "markdown": "Markdown",
         "about": "Informazioni",
-        "backup": "Salvaguardia"
+        "backup": "Salvataggio"
     },
 
     "general": {
@@ -66,7 +66,7 @@
         "reload": "Ricarica",
         "directory": "Cartella",
         "select-theme": "Seleziona il tuo tema",
-        "description": "Questo tema si applica ad anteprima, esportazione HTML/PDF ed invio e-pistola (Evernote, Tumblr)."
+        "description": "Questo tema si applica ad anteprima, esportazione HTML/PDF ed invio email (Evernote, Tumblr)."
     },
 
     "code": {
@@ -76,14 +76,14 @@
     },
 
     "markdown": {
-        "enable-gfm": "Usa Github Flavord Markdown",
+        "enable-gfm": "Usa Github Flavored Markdown",
         "etc": "Opzioni aggiuntive",
         "sanitize-desc": "Ignora ogni HTML inserito.",
-        "gfm-line-breaks": "Usa la l'a capo di Github Flavored Markdown",
-        "gfm-table": "Usa la tabella di Github Flavord Markdown",
-        "smarty-list": "Usa liste migliorate di quelle del Markdown originale",
+        "gfm-line-breaks": "Usa rientro di Github Flavored Markdown",
+        "gfm-table": "Usa la tabella di Github Flavored Markdown",
+        "smarty-list": "Usa le smart-list del Markdown",
         "smarty-pants": "Usa interpunzione tipografica \"intelligente\" per elementi come virgolette e trattini",
-        "enable-math": "Us espressioni matematiche",
+        "enable-math": "Usa espressioni matematiche",
         "restore": "Le tue impostazioni Markdown saranno ripristinate secondo i parametri originali",
         "enable-dollar-sign": "Usa un singolo simbolo $ per espressioni in linea (di norma: $$$)",
         "extra-footnotes": "Usa note a piè di pagina"
@@ -94,9 +94,9 @@
         "mean": "<strong>Haroo</strong> significa \"Un giorno\" in Coreano",
         "version": "Versione",
         "official-site": "Sito ufficiale",
-        "developer": "Programmatore",
-        "special-thanks": "Ringraziamenti particolari",
-        "icon": "ICONA",
+        "developer": "Sviluppatore",
+        "special-thanks": "Ringraziamenti",
+        "icon": "Icona",
         "description": "Haroopad <small>The next document process</small>",
         "donate-msg": "Se ti piace haroopad, dona per aiutarlo a crescere"
     },

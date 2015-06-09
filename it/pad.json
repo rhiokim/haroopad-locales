@@ -3,8 +3,8 @@
     "untitled": "Senza titolo",
     "modified": "Modificato",
     "restored-file": "Recuperato (scritto il {{date}})",
-    "read-only-file": "sola lettura",
-    "experimental": "sperimentale",
+    "read-only-file": "Sola lettura",
+    "experimental": "Sperimentale",
     "placeholder": "Che storia vuoi scrivere oggi?",
 
     "footer": {
@@ -31,7 +31,7 @@
     "config": {
         "toc": "Mostra indice",
         "outline": "Mostra struttura documento",
-        "fullscreen": "Dis/Attiva pieno schermo",
+        "fullscreen": "Attiva/Disattiva pieno schermo",
         "tab": "Profondità rientro",
         "usetab": "Rientra usando tabulazione",
         "experimental": "Sperimentale",
@@ -56,17 +56,17 @@
     },
 
     "email": {
-        "title": "Invio e-pistola",
+        "title": "Invia email",
         "subject": "Inserisci soggetto",
         "to": "A",
         "from": "DA",
-        "reciver": "Inserisci l'indirizzo e-pistolare del destinatario",
+        "reciver": "Inserisci l'indirizzo email del destinatario",
         "html": "HTML",
         "markdown": "Markdown",
         "close": "Chiudi",
         "send": "Invia",
         "sent": "Spedito",
-        "remember": "Ricorda e-pistola",
+        "remember": "Ricorda email",
         "password": "Parola d'ordine",
         "secure": "La parola d'ordine non sarà salvata.",
         "yours": "Inserisci il tuo indriizzo Gmail",
@@ -90,6 +90,6 @@
         "message": "Cerchi l'ultima versione?",
         "note": "Note di versione",
         "download": "Scarica",
-        "newest": "Haroopad attualmente è l'ultima versione disponibile."
+        "newest": "Haroopad è aggiornato all'ultima versione disponibile."
     }
 }

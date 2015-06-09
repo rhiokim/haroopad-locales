@@ -32,6 +32,7 @@
 * Bahasa Indonesia
 * Türkçe
 * Français
+* Dutch
 
 ## How to contribute
 

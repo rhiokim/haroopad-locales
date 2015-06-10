@@ -31,3 +31,5 @@
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
 
 * Turkish                :  Eray AYDIN <laravel-artisan@yandex.com.tr>
+
+* Polish                 :  Sebastian Pieczyński <testament777@gmail.com>

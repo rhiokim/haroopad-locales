@@ -1,0 +1,116 @@
+{
+    "title": "Preferencje",
+    "ok": "OK",
+    "no": "Nie",
+    "yes": "Tak",
+    "cancel": "Anuluj",
+    "reset": "Resetuj",
+    "apply": "Zastosuj",
+    "done": "Zatwierdź",
+    "updating": "Aktualizuję",
+    "edit": "Edytuj",
+    "reload": "Przeładuj",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Pakiet językowy został zaktualizowany. Może chcesz go pobrać?",
+                "done": "Zrobione :-). Proszę zrestartuj Haroopad.",
+                "error": "Aktualizacja zakończona niepowodzeniem :-(. Proszę sprwadź połączenie z Internetem."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "Ogólne",
+        "editor": "Edytor",
+        "viewer": "Podgląd",
+        "custom": "Własne",
+        "code": "Kod",
+        "markdown": "Markdown",
+        "about": "O programie",
+        "backup": "Kopia zapasowa"
+    },
+
+    "general": {
+        "general": "Ogólne",
+        "date-time": "Data & Czas",
+        "enableAutoComplete": "Włącz funkcję auto uzupełniania Markdown",
+        "enableSyncScroll": "Włącz Synchronizację Przewijania",
+        "enableLastFileRestore": "Włącz Odzyskiwanie Ostaniego Pliku"
+    },
+
+    "editor": {
+        "general": "Ogólne",
+        "themes": "Motywy",
+        "user-style": "Twój Styl",
+        "spaces": "Spacje",
+        "tab-width": "Szerokość tabulatora",
+        "indent-use-tab": "Wcięcia korzystają z tabulatora",
+        "display-line-number": "Pokaż Numery Linii",
+        "vim-key-binding": "Skróty klawiszowe z Vim",
+        "auto-pair-char": "Automatyczne Parowanie Symboli",
+        "insert-four-space": "Wstaw 4 Spacje Zamiast Tabulatora",
+        "display-active-line": "Wyróżnij aktywny wiersz",
+        "use-markdown-folding": "Włącz Zwijanie Markdown"
+    },
+
+    "viewer": {
+        "general": "Ogólne",
+        "themes": "Motywy",
+        "font-size": "Wielkość Czcionki",
+        "user-style": "Twój Styl",
+        "clickable-link": "Linki można kliknąć w Podglądzie"
+    },
+
+    "custom": {
+        "themes": "Ogólne",
+        "reload": "Przeładuj",
+        "directory": "Katalog",
+        "select-theme": "Wybierz Swój Motyw",
+        "description": "Tem Motyw stosuje się do Podglądu, Eksportu HTML/PDF oraz Wysyłania Emaili(Evernote, Tumblr)."
+    },
+
+    "code": {
+        "general": "Ogólne",
+        "themes": "Motywy",
+        "show-line-number": "Pokaż Numer Wiersza w Podglądzie Kodu"
+    },
+
+    "markdown": {
+        "enable-gfm": "Korzystaj z Markdown'a w wersji Github",
+        "etc": "Dodatkowe opcje",
+        "math": "Opcje Wyrażeń Matematycznych",
+        "sanitize-desc": "Ignoruj HTML, który został wstawiony.",
+        "gfm-line-breaks": "Używaj Linii Podziału z Markdown w wersji Github",
+        "gfm-table": "Używaj Tabel z Markdown od Githb",
+        "smarty-list": "Używaj sprytniejszego zachowania list niż w oryginalym interpreterze Markdown",
+        "smarty-pants": "Używaj \"sprytnych\" znaków typograficzych dla cytatów itp.",
+        "enable-math": "Używaj Wyrażeń Matematycznych",
+        "restore": "Ustawienia Markdown zostaną przywrócone do domyślnych",
+        "enable-dollar-sign": "Używaj Pojedynczego Znaku $ dla Wyrażeń Wierszowych (domyślnie: $$$)",
+        "extra-footnotes": "Używaj Przypisów"
+    },
+
+    "about": {
+        "donate": "Wesprzyj",
+        "mean": "<strong>Haroo</strong> oznacza \"Dzień\" po Koreańsku",
+        "version": "Wersja",
+        "official-site": "Oficjalna Strona",
+        "developer": "Programista",
+        "special-thanks": "Specjalne Podziękowania",
+        "icon": "ICONA",
+        "description": "Haroopad <small>następca edytorów dokumentów</small>",
+        "donate-msg": "Jeżeli podoba ci się Haroopad, wesprzyj projetk by mógł się rozwijać"
+    },
+
+    "backup": {
+        "title": "Import & Eksport Ustawień...",
+        "import": "Importuj Ustawienia",
+        "export": "Eksportuj Ustawienia",
+        "import-done": "Wymagany Restart",
+        "import-done-msg": "Ustawienia zaimportowano pomyślnie. Aby je zastosować należy zrestartować Haroopad.<br/>Zrestartować Haroopad?",
+        "export-done": "Eksport Zakończony!",
+        "export-done-msg": "Twoje ustawienia zostały pomyślnie wyeksportowane.<br/>Możesz je później zaimportować Korzystając z opcji \"<b>Preferencje > Kopia Zapasowa > Importuj Ustawienia</b>\""
+    }
+}

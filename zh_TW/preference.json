@@ -1,0 +1,116 @@
+{
+    "title": "偏好設定",
+    "ok": "確定",
+    "no": "否",
+    "yes": "是",
+    "cancel": "取消",
+    "reset": "重置",
+    "apply": "套用",
+    "done": "完成",
+    "updating": "更新中",
+    "edit": "編輯",
+    "reload": "重新整理",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "已有新的語言包，是否現在更新？",
+                "done": "更新完成，請重新啟動 Haroopad :)",
+                "error": "更新失敗 :( 請檢查網路連結。"
+            }
+        }
+    },
+
+    "tab": {
+        "general": "一般",
+        "editor": "編輯區",
+        "viewer": "預覽區",
+        "custom": "自訂",
+        "code": "程式碼",
+        "markdown": "Markdown",
+        "about": "關於",
+        "backup": "備份"
+    },
+
+    "general": {
+        "general": "一般",
+        "date-time": "日期和時間",
+        "enableAutoComplete": "使用 Markdown 自動完成",
+        "enableSyncScroll": "同步滾動",
+        "enableLastFileRestore": "自動恢復上一次檔案"
+    },
+
+    "editor": {
+        "general": "一般",
+        "themes": "主題",
+        "spaces": "空格",
+        "user-style": "自訂主題",
+        "tab-width": "Tab 寬度",
+        "indent-use-tab": "使用 Tab 縮排",
+        "display-line-number": "顯示行號",
+        "vim-key-binding": "Vim 模式",
+        "auto-pair-char": "自動符號配對",
+        "insert-four-space": "插入 4 個空格代替 Tab",
+        "display-active-line": "標示當前的行",
+        "use-markdown-folding": "使用 Markdown 折疊"
+    },
+
+    "viewer": {
+        "general": "一般",
+        "themes": "主題",
+        "font-size": "字體大小",
+        "user-style": "自訂主题",
+        "clickable-link": "允許點擊連結"
+    },
+
+    "custom": {
+        "themes": "一般",
+        "reload": "重新整理",
+        "directory": "目錄",
+        "select-theme": "選擇主題",
+        "description": "主題將套用在：即時預覽、匯出為 HTML/PDF、發送電子郵件(Evernote、Tumblr)"
+    },
+
+    "code": {
+        "general": "一般",
+        "themes": "主題",
+        "show-line-number": "程式碼強調時顯示行號"
+    },
+
+    "markdown": {
+        "enable-gfm": "Github Flavored Markdown (GFM)",
+        "etc": "其他選項",
+        "math": "數學表達式選項",
+        "sanitize-desc": "忽略輸入的 HTML 標記",
+        "gfm-line-breaks": "使用 GFM 換行模式",
+        "gfm-table": "使用 GFM 表格",
+        "smarty-list": "智能列表",
+        "smarty-pants": "智能標點",
+        "enable-math": "使用數學表達式",
+        "restore": "您的 Markdown 設定將會恢復到默認設定",
+        "enable-dollar-sign": "使用 $ 作為行內表達式標記(預設: $$$)",
+        "extra-footnotes": "使用備註"
+    },
+
+    "about": {
+        "donate": "捐贈",
+        "mean": "<strong>Haroo</strong> 在韓語中是 \"一天\" 的意思",
+        "version": "版本",
+        "official-site": "官方網站",
+        "developer": "開發者",
+        "special-thanks": "特別感謝",
+        "icon": "圖標",
+        "description": "Haroopad<small>下一代檔案編輯器</small>",
+        "donate-msg": "如果您喜歡 Haroopad，請捐贈以支持開發 :)"
+    },
+
+    "backup": {
+        "title": "匯入和匯出設定...",
+        "import": "匯入設定",
+        "export": "匯出設定",
+        "import-done": "需要重新啟動",
+        "import-done-msg": "設定匯入完畢，您需要重新啟動 Haroopad 來讓他們生效。<br/>是否重新啟動 Haroopad?",
+        "export-done": "匯出完成！",
+        "export-done-msg": "設定匯出成功。<br/>您可以在 \"<b>偏好設定 &gt; 備份 &gt; 匯入設定</b>\" 來匯入您的設定內容。"
+    }
+}

@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "未命名",
+    "modified": "已編輯",
+    "restored-file": "已恢復 (編輯於 {{date}})",
+    "read-only-file": "只可讀",
+    "experimental": "實驗性功能",
+    "placeholder": "今天想寫什麼呢？",
+
+    "footer": {
+        "lines": "行數",
+        "words": "字數"
+    },
+
+    "toc": {
+        "name": "目錄"
+    },
+
+    "share": "分享",
+    "state": {
+        "label": "元素統計",
+        "image": "圖片",
+        "header": "標題",
+        "link": "連結",
+        "table": "表格",
+        "paragraph": "段落",
+        "code": "程式碼",
+        "blockquote": "區塊引用"
+    },
+
+    "config": {
+        "toc": "顯示目錄",
+        "outline": "進入/退出預覽模式",
+        "fullscreen": "進入/退出全螢幕",
+        "tab": "Tab 寬度",
+        "usetab": "使用 Tab",
+        "experimental": "實驗性功能",
+        "spaces": "空格",
+        "column": {
+            "label": "列",
+            "one": "一列",
+            "two": "二列",
+            "three": "三列"
+        },
+        "md-help": "顯示/隱藏語法說明"
+    },
+
+    "promotion": {
+        "desc": "Please Share!"
+    },
+
+    "donate": {
+        "label": "捐贈",
+        "title": "支持程式開發",
+        "desc": "如果您覺得 Haroopad 對您有用，請考慮 <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>捐贈</a> 來支持程式的進一步開發 :)"
+    },
+
+    "email": {
+        "title": "發送電子郵件",
+        "subject": "輸入主題",
+        "to": "收件者",
+        "from": "寄件者",
+        "reciver": "收件者地址",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "關閉",
+        "send": "發送",
+        "sent": "已發送",
+        "remember": "記住電子郵件",
+        "password": "密碼",
+        "secure": "密碼將不保存",
+        "yours": "輸入您的 Gmail",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "無效的帳號或密碼"
+    },
+
+    "dialog": {
+        "save-change": "檔案已修改，是否儲存？",
+        "cancel": "取消",
+        "dont-save": "不儲存",
+        "save": "儲存",
+        "yes": "是",
+        "no": "否",
+        "changed-file": "內容已被其他程式修改。<br/>是否重新載入？"
+    },
+
+    "upgrade": {
+        "uptodate": "已是最新版本",
+        "message": "希望獲得最新版本？",
+        "note": "發行說明",
+        "download": "下載",
+        "newest": "Haroopad 目前已是最新版本，不需要更新"
+    }
+}

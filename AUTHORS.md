@@ -13,6 +13,10 @@
 * Brazilian Portuguese   :  Alexandre Magno <alexandre.mbm@gmail.com>
 
 * Chinese (Simplified)   :  Breezewish <vistaswx@gmail.com>, Joel Haowen Tong <http://blog.joeltong.org/>
+
+* Chinese (Traditional)  :  shin21 <abchenry21@hotmail.com>
+
+* Dutch                  :  Walter de Valk <walterdevalk@gmail.com>
  
 * French                 :  MarcBoyer <https://github.com/MarcBoyer>, Daniel Ménard <https://github.com/daniel-menard>
 
@@ -31,5 +35,3 @@
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
 
 * Turkish                :  Eray AYDIN <laravel-artisan@yandex.com.tr>
-
-* Dutch                  :  Walter de Valk <walterdevalk@gmail.com>

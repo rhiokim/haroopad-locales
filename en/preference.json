@@ -111,6 +111,6 @@
         "import-done": "Restart Needed",
         "import-done-msg": "Settings imported successfully. You have to restart Haroopad to reload the settings.<br/>Restart Haroopad?",
         "export-done": "Export Complete!",
-        "export-done-msg": "Your settings have ben successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
+        "export-done-msg": "Your settings have been successfully exported.<br/>You can import settings using \"<b>Preference > Backup > Import Settings</b>\""
     }
 }

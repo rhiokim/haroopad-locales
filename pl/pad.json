@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Bez tytułu",
+    "modified": "Zmieniony",
+    "restored-file": "Odtworzony (zapisano {{date}})",
+    "read-only-file": "tylko do odczytu",
+    "experimental": "eksperymentalny",
+    "placeholder": "Jaką historię dziś spiszesz?",
+
+    "footer": {
+        "lines": "wierszy",
+        "words": "słów"
+    },
+
+    "toc": {
+        "name": "Spis Treści"
+    },
+
+    "share": "Podziel się",
+    "state": {
+        "label": "Elementy",
+        "image": "Obrazek",
+        "header": "Nagłówek",
+        "link": "Link",
+        "table": "Tabela",
+        "paragraph": "Paragraf",
+        "code": "Kod",
+        "blockquote": "Cytat"
+    },
+
+    "config": {
+        "toc": "Pokaż Spis Treści",
+        "outline": "Pokaż Konspekt Dokumentu",
+        "fullscreen": "Pełny Ekran",
+        "tab": "Szerokość tabulatury",
+        "usetab": "Wstawiaj Wcięcia Tabulatorem",
+        "experimental": "Eksperymentalne",
+        "spaces": "Spacje",
+        "column": {
+            "label": "Kolumna",
+            "one": "Pojedyncza",
+            "two": "Dwie Kolumny",
+            "three": "Trzy Kolumny"
+        },
+        "md-help": "Pokaż Składnię"
+    },
+
+    "promotion": {
+        "desc": "Proszę podziel się!"
+    },
+
+    "donate": {
+        "label": "Wesprzyj",
+        "title": "Wesprzyj projekt by mógł być dalej rozwijany!",
+        "desc": "Czy pomogliśmy Ci? Wesprzyj projekt by mógł być dalej rozwijany. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Wesprzyj</a>"
+    },
+
+    "email": {
+        "title": "Wyślij email",
+        "subject": "Podaj Tytuł",
+        "to": "DO",
+        "from": "OD",
+        "reciver": "Podaj adres email odbiorcy",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Zamknij",
+        "send": "Wyślij",
+        "sent": "Wysłano",
+        "remember": "Zapamiętaj email",
+        "password": "Hasło",
+        "secure": "Twoje hasło nie zostanie zapamiętane.",
+        "yours": "Podaj adres Gmail",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "Błędny login lub hasło."
+    },
+
+    "dialog": {
+        "save-change": "Czy chcesz zapisać wprowadzone zmiany w dokumencie?",
+        "cancel": "Anuluj",
+        "dont-save": "Nie zapisuj",
+        "save": "Zapisz",
+        "yes": "Tak",
+        "no": "Nie",
+        "changed-file": "został zmieniony przez inną aplikację. <br/>Czy chcesz załadować go ponownie?"
+    },
+
+    "upgrade": {
+        "uptodate": "Jestem aktualny!",
+        "message": "Poszukujesz najnowaszej wersji?",
+        "note": "Informacje o wydaniu",
+        "download": "Pobierz",
+        "newest": "Haroopad jest aktualny."
+    }
+}

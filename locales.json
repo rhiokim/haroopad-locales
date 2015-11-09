@@ -8,8 +8,11 @@
   "es": {
     "name": "Spanish"
   },
-  "zh": {
+  "zh-cn": {
     "name": "简体中文"
+  },
+  "zh-tw": {
+    "name": "繁體中文"
   },
   "de": {
     "name": "Deutsch"

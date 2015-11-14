@@ -78,7 +78,7 @@
         "section-break": "Sektionsumbruch",
         "page-break": "Seitenumbruch",
         "sentence-break": "Satzumbruch",
-        "fenced-code": "Umrahmter Code",
+        "fenced-code": "Codeblock",
         "strikethrough": "Durchstreichen",
         "task": "Tasklist",
         "embed": "Einbetten",

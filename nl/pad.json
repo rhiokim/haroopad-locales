@@ -25,14 +25,14 @@
         "table": "Tabel",
         "paragraph": "Paragraaf",
         "code": "Code",
-        "blockquote": "Blok-aanhalingstekens"
+        "blockquote": "Blockquote"
     },
 
     "config": {
         "toc": "Bekijken Inhoudsopgave",
-        "outline": "Bekijke document lay-out",
-        "fullscreen": "naar volledig scherm",
-        "tab": "Tabbreedte",
+        "outline": "Bekijk document lay-out",
+        "fullscreen": "Naar volledig scherm",
+        "tab": "Tab breedte",
         "usetab": "inspringen met tab",
         "experimental": "Experimenteel",
         "spaces": "Spaties",
@@ -50,9 +50,9 @@
     },
 
     "donate": {
-        "label": "Donateer",
-        "title": "Donateer om de ontwikkeling door te laten gaan!",
-        "desc": "Heeft dit nut gehad voor u? Donateer om de ontwikkeling te stimuleren. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donateer</a>"
+        "label": "Doneer",
+        "title": "Doteer om de ontwikkeling door te laten gaan!",
+        "desc": "Heeft dit nut gehad voor u? Doneer om de ontwikkeling te stimuleren. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Doneer</a>"
     },
 
     "email": {
@@ -69,14 +69,14 @@
         "remember": "Onthoud e-mail",
         "password": "Wachtwoord",
         "secure": "Uw wachtwoord wordt niet opgeslagen.",
-        "yours": "Voer uw gmail adres in",
+        "yours": "Voer uw Gmail adres in",
         "evernote": "Evernote",
         "tumblr": "Tumblr",
         "invalid-account": "Onjuiste inlognaam of wachtwoord"
     },
 
     "dialog": {
-        "save-change": "Wilt u de wijzigingen van dit document opslaan?",
+        "save-change": "Wilt u de wijzigingen in dit document opslaan?",
         "cancel": "Annuleer",
         "dont-save": "Niet opslaan",
         "save": "Opslaan",

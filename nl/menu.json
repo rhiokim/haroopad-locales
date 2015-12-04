@@ -14,8 +14,8 @@
         "export-to-file": "Bestand",
         "export-to-html": "HTML",
         "copy-to-clipboard": "Klembord",
-        "plain-html": "standaard HTML",
-        "styled-html": "gestijlde HTML",
+        "plain-html": "Standaard HTML",
+        "styled-html": "Gestylede  HTML",
         "print": "Afdrukken...",
         "preferences": "Voorkeuren",
         "quit": "Afsluiten"
@@ -73,16 +73,16 @@
         "image": "Foto",
         "link": "Verwijzing",
         "blockquote": "Blockquote",
-        "ordered-list": "Georderde lijst",
+        "ordered-list": "Geordende lijst",
         "unordered-list": "Ongeordende lijst",
         "section-break": "Sectie-einde",
-        "page-break": "Paginaeinde",
+        "page-break": "Pagina-einde",
         "sentence-break": "Regeleinde",
         "fenced-code": "Ingesloten code",
         "strikethrough": "Doorhalen",
         "task": "Takenlijst",
         "embed": "Insluiten",
-        "footnotes": "Voednoten",
+        "footnotes": "Voetnoten",
         "footnotes-ref": "Voetnoot referentie",
         "toc": "Inhoudsopgave",
         "table": "Tabel",
@@ -90,7 +90,7 @@
         "highlight": "Markeren",
         "underline": "Onderstrepen",
         "math-block": "Berekeningen (Blok)",
-        "math-inline": "Berekingen (Regel)",
+        "math-inline": "Berekeningen (Regel)",
         "embed-video": "Video insluiten",
         "embed-audio": "Geluid insluiten",
         "embed-image": "Beeld insluiten",
@@ -116,7 +116,7 @@
         "user-echo": "Gebruiker echo",
         "twitter": "Twitter",
         "check-for-update": "Controleer op vernieuwingen",
-        "boost-up-donate": "Help mee! Donateer"
+        "boost-up-donate": "Help mee! Doneer"
     },
 
     "edit": {
@@ -128,7 +128,7 @@
         "paste": "Plakken",
         "delete": "Verwijderen",
         "select-all": "Alles selecteren",
-        "copy-html": "Kopiëer eenvoudige HTML",
-        "copy-styled-html": "Kopiëer geavanceerd HTML"
+        "copy-html": "Kopieer eenvoudige HTML",
+        "copy-styled-html": "Kopieer geavanceerd HTML"
     }
 }

@@ -28,7 +28,7 @@
 
 * Japanese               :  Toshiyuki Tega <softgatelimitedjapan@gmail.com>
 
-* Korean                 :  Rhio Kim <rhio.kim@gmail.com>, Haroopad <rhio.kim+haroopad@gmail.com>
+* Korean                 :  Rhio Kim <rhio.kim@gmail.com>, Haroopad <rhio.kim+haroopad@gmail.com>, Seungchan Moon <chrushr@yahoo.com>
 
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 

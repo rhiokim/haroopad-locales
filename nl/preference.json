@@ -35,7 +35,7 @@
     "general": {
         "general": "Algemeen",
         "date-time": "Datum & Tijd",
-        "enableAutoComplete": "Gebruik Markdown Auto Completion",
+        "enableAutoComplete": "Gebruik automatische Markdown aanvulling",
         "enableSyncScroll": "Gebruik Sync Scroll",
         "enableLastFileRestore": "Gebruik Bestandsherstel"
     },
@@ -52,7 +52,7 @@
         "auto-pair-char": "Automatische samenvoegen Karakters",
         "insert-four-space": "Voeg vier spaties in in plaats van tab",
         "display-active-line": "Actieve lijnen laten zien",
-        "use-markdown-folding": "Use Markdown Folding"
+        "use-markdown-folding": "Gebruik opklapbare Markdown"
     },
 
     "viewer": {
@@ -60,14 +60,14 @@
         "themes": "Thema's",
         "font-size": "Lettertype-grootte",
         "user-style": "Uw stijl",
-        "clickable-link": "Maak links klikbaar in live voorbeeld"
+        "clickable-link": "Maak links aanklikbaar in live voorbeeld"
     },
 
     "custom": {
         "themes": "Algemeen",
         "reload": "Herladen",
         "directory": "Folder",
-        "select-theme": "Selecter uw thema",
+        "select-theme": "Selecteer uw thema",
         "description": "Dit thema wordt toegepast voor het live-voorbeeld, exporteren van HTML/PDF en versturen E-mail(Evernote, Tumblr) export."
     },
 
@@ -84,7 +84,7 @@
         "sanitize-desc": "Negeren van HTML dat is ingevoerd.",
         "gfm-line-breaks": "Gebruik Github Flavored Markdown regeleinden",
         "gfm-table": "Gebruik Github Flavored Markdown tabel",
-        "smarty-list": "Gebruik slimmer lijstgedrag dan originele Markdown",
+        "smarty-list": "Gebruik slimmer lijst-gedrag dan originele Markdown",
         "smarty-pants": "Gebruik \"slimme\" typografische punctuatie voor tekens als aanhalingstekens en streepjes",
         "enable-math": "Gebruik wiskundige expressie",
         "restore": "Uw Markdown instellingen zullen hersteld worden naar de standaardwaarden",
@@ -93,7 +93,7 @@
     },
 
     "about": {
-        "donate": "Donateer",
+        "donate": "Doneer",
         "mean": "<strong>Haroo</strong> betekend \"een dag\" in het Koreaans",
         "version": "Versie",
         "official-site": "Officiële site",
@@ -101,7 +101,7 @@
         "special-thanks": "Speciaal dankwoord",
         "icon": "ICOON",
         "description": "Haroopad <small>De toekomstige document processor</small>",
-        "donate-msg": "Als u haroopad tof vind, donateer dan om onwikkeling te ondersteunen"
+        "donate-msg": "Als u haroopad tof vind, doneer dan om ontwikkeling te ondersteunen"
     },
 
     "backup": {
@@ -111,6 +111,6 @@
         "import-done": "Herstart vereist",
         "import-done-msg": "Instellingen werden met succes geïmporteerd. U zal Haroopad moeten herstarten om de wijzigingen toe te passen.<br/>Restart Haroopad?",
         "export-done": "Exporteren Kompleet!",
-        "export-done-msg": "Uw instellingen zijn succesvol ge-exporteerd.<br/>U kunt instellingen importeren via\"<b>Voorkeuren > Backup > Instellingen Importeren</b>\""
+        "export-done-msg": "Uw instellingen zijn succesvol geëxporteerd.<br/>U kunt instellingen importeren via\"<b>Voorkeuren > Backup > Instellingen Importeren</b>\""
     }
 }

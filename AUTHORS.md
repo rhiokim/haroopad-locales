@@ -16,8 +16,8 @@
 
 * Chinese (Traditional)  :  shin21 <abchenry21@hotmail.com>
 
-* Dutch                  :  Walter de Valk <walterdevalk@gmail.com>
- 
+* Dutch                  :  Walter de Valk <walterdevalk@gmail.com>, [Jeroen Vervaeke](https://vervaeke.nu/)
+
 * French                 :  MarcBoyer <https://github.com/MarcBoyer>, Daniel Ménard <https://github.com/daniel-menard>
 
 * German                 :  Tobias Mücksch <haroopadtrans@muecks.ch> - http://tobiasmueksch.de

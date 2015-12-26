@@ -1,0 +1,116 @@
+{
+    "title": "Preferințe",
+    "ok": "OK",
+    "no": "Nu",
+    "yes": "Da",
+    "cancel": "Anulează",
+    "reset": "Resetează",
+    "apply": "Aplică",
+    "done": "Finalizat",
+    "updating": "Actualizare",
+    "edit": "Editează",
+    "reload": "Reîncarcă",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "Pachetul lingvistic a fost actualizat. Vrei să-l aplici acum?",
+                "done": "Gata :-). Te rog să restartezi Haroopad.",
+                "error": "Actualizare nereușită :-(. Te rog să verifici conexiunea la net."
+            }
+        }
+    },
+
+    "tab": {
+        "general": "General",
+        "editor": "Editor",
+        "viewer": "Vizualizator",
+        "custom": "Perzonalizări",
+        "code": "Cod",
+        "markdown": "Markdown",
+        "about": "Despre",
+        "backup": "Backup"
+    },
+
+    "general": {
+        "general": "General",
+        "date-time": "Dată & timp",
+        "enableAutoComplete": "Activează autocompletarea Markdown",
+        "enableSyncScroll": "Activează sync scroll",
+        "enableLastFileRestore": "Activează restaurarea ultimului fișier"
+    },
+
+    "editor": {
+        "general": "General",
+        "themes": "Teme",
+        "user-style": "Stilul tău",
+        "spaces": "Spații",
+        "tab-width": "Lățime tab",
+        "indent-use-tab": "Indentează folosind tab",
+        "display-line-number": "Arată numărul liniilor",
+        "vim-key-binding": "Scurtături Vim",
+        "auto-pair-char": "Grupare automată caractere",
+        "insert-four-space": "Inserează 4 spații în loc de tab",
+        "display-active-line": "Arată linia activă",
+        "use-markdown-folding": "Folosește pliere Markdown"
+    },
+
+    "viewer": {
+        "general": "General",
+        "themes": "Teme",
+        "font-size": "Mărimea fontului",
+        "user-style": "Stilul tău",
+        "clickable-link": "Fă linkurile clicabile în previzualizator"
+    },
+
+    "custom": {
+        "themes": "General",
+        "reload": "Reîncarcă",
+        "directory": "Director",
+        "select-theme": "Alege tema ta",
+        "description": "Această temă va fi aplicată previzualizatorului, exportării de fișiere HTML/PDF și exportării pentru trimis prin email, Evernote și Tumblr."
+    },
+
+    "code": {
+        "general": "General",
+        "themes": "Teme",
+        "show-line-number": "Arată numărul liniei la evidențierea sintaxei"
+    },
+
+    "markdown": {
+        "enable-gfm": "Folosește Github Flavored Markdown",
+        "etc": "Opțiuni adiționale",
+        "math": "Opțiuni pentru expresii matematice",
+        "sanitize-desc": "Ignoră orice HTML introdus.",
+        "gfm-line-breaks": "Folosește sfârșitul de linie din Github Flavored Markdown",
+        "gfm-table": "Folosește tabelul din Github Flavored Markdown",
+        "smarty-list": "Înlocuiește listele din codul markdown original cu altele mai inteligente",
+        "smarty-pants": "Folosește punctuație tipografică \"inteligentă\" pentru elemente că liniile sau citatele",
+        "enable-math": "Folosește expresii matematice",
+        "restore": "Setările tale Markdown vor fi resturate la starea lor originală",
+        "enable-dollar-sign": "Folosește un singur semn $ pentru expresii inline (implicit: $$$)",
+        "extra-footnotes": "Folosește note de subsol"
+    },
+
+    "about": {
+        "donate": "Donează",
+        "mean": "<strong>Haroo</strong> înseamnă \"O zi\" în limba coreeană",
+        "version": "Versiune",
+        "official-site": "Site oficial",
+        "developer": "Dezvoltator",
+        "special-thanks": "Mulțumiri speciale",
+        "icon": "ICON",
+        "description": "Haroopad <small>The next document processor</small>",
+        "donate-msg": "Dacă îți place Haroopad, donează pentru a ne ajuta să creștem"
+    },
+
+    "backup": {
+        "title": "Importă & exportă setările...",
+        "import": "Importă setări",
+        "export": "Exportă setări",
+        "import-done": "Restartare necesară",
+        "import-done-msg": "Setările au fost importate cu succes. Trebuie să restartezi Haroopad pentru a reîncărca setările.<br/>Restartează Haroopad?",
+        "export-done": "Export complet!",
+        "export-done-msg": "Setările au fost exportate cu succes.<br/>Poți importa setările folosind \"<b>Preferințe > Backup > Importă setări</b>\""
+    }
+}

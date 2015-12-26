@@ -32,6 +32,8 @@
 
 * LA Spanish             :  David Gómez <dg.dave@gmail.com>
 
+* Romanian               :  Daniel Voicu <danielvoicu87@gmail.com>
+
 * Russian                :  Ilya Zverev <aprilix.ziv@gmail.com>
 
 * Turkish                :  Eray AYDIN <laravel-artisan@yandex.com.tr>

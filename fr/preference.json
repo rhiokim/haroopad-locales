@@ -43,8 +43,8 @@
     "editor": {
         "general": "Général",
         "themes": "Thèmes",
-        "spaces": "Espaces",
         "user-style": "Style personnalisé",
+        "spaces": "Espaces",
         "tab-width": "largeur des tabulations",
         "indent-use-tab": "Identation par tabulation",
         "display-line-number": "Afficher les numéros de ligne",

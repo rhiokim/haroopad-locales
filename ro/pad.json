@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "Fără titlu",
+    "modified": "Editat",
+    "restored-file": "Restaurat (scris la {{date}})",
+    "read-only-file": "read only",
+    "experimental": "experimental",
+    "placeholder": "Ce povestire vrei să scrii azi?",
+
+    "footer": {
+        "lines": "linii",
+        "words": "cuvinte"
+    },
+
+    "toc": {
+        "name": "Cuprins"
+    },
+
+    "share": "Share",
+    "state": {
+        "label": "Elemente",
+        "image": "Imagine",
+        "header": "Header",
+        "link": "Link",
+        "table": "Tabel",
+        "paragraph": "Paragraf",
+        "code": "Cod",
+        "blockquote": "Citat bloc"
+    },
+
+    "config": {
+        "toc": "Arată cuprins",
+        "outline": "Arată planul documentului",
+        "fullscreen": "Comută ecran complet",
+        "tab": "Lățime tab",
+        "usetab": "Indentează folosind tab",
+        "experimental": "Experimental",
+        "spaces": "Spații",
+        "column": {
+            "label": "Coloane",
+            "one": "O coloană",
+            "two": "Două coloane",
+            "three": "Trei coloane"
+        },
+        "md-help": "Arată ajutor sintaxă"
+    },
+
+    "promotion": {
+        "desc": "Te rugăm dă mai departe!"
+    },
+
+    "donate": {
+        "label": "Donează",
+        "title": "Donează și ajută-ne să continuăm dezvoltarea!",
+        "desc": "Ți-a fost utilă această aplicație? Donează și ajută-ne să continuăm dezvoltarea. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>Donează</a>"
+    },
+
+    "email": {
+        "title": "Trimite email",
+        "subject": "Scrie subiectul",
+        "to": "Către",
+        "from": "De la",
+        "reciver": "Introdu adresa de email a destinatarului",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "Închide",
+        "send": "Trimite",
+        "sent": "Trimis",
+        "remember": "Memorează email",
+        "password": "Parolă",
+        "secure": "Parola ta nu va fi salvată.",
+        "yours": "Introdu adresa ta de Gmail",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "User sau parolă nevalide."
+    },
+
+    "dialog": {
+        "save-change": "Vrei să salvezi modificările făcute acestui document?",
+        "cancel": "Anulează",
+        "dont-save": "Nu salva",
+        "save": "Salvează",
+        "yes": "Da",
+        "no": "Nu",
+        "changed-file": "a fost schimbat de altă aplicație. <br/>Vrei să-l reîncarci?"
+    },
+
+    "upgrade": {
+        "uptodate": "Ai cea mai nouă versiune!",
+        "message": "Cauți cea mai recentă versiune?",
+        "note": "Note de lansare",
+        "download": "Descarcă",
+        "newest": "Haroopad este cea mai recentă versiune."
+    }
+}

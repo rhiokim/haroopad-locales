@@ -39,14 +39,14 @@
         "column": {
             "label": "컬럼",
             "one": "단일",
-            "two": "이단",
-            "three": "삼단"
+            "two": "2단",
+            "three": "3단"
         },
         "md-help": "마크다운 구문 도움말"
     },
 
     "promotion": {
-        "desc": "하루패드를 공유해주세요."
+        "desc": "하루패드를 공유해 주세요."
     },
 
     "donate": {
@@ -57,10 +57,10 @@
 
     "email": {
         "title": "메일 보내기",
-        "subject": "메일 제목을 입력해주세요.",
-        "to": "받는사람",
+        "subject": "메일 제목을 입력해 주세요.",
+        "to": "받는 사람",
         "from": "보내는 사람",
-        "reciver": "받는 사람 메일 주소를 입력해주세요.",
+        "reciver": "받는 사람 메일 주소를 입력해 주세요.",
         "html": "HTML",
         "markdown": "Markdown",
         "close": "닫기",
@@ -69,7 +69,7 @@
         "remember": "이메일 기억하기",
         "password": "비밀번호",
         "secure": "메일 주소를 기억합니다.",
-        "yours": "Gmail 주소를 입력해주세요.",
+        "yours": "Gmail 주소를 입력해 주세요.",
         "evernote": "에버노트",
         "tumblr": "텀블러",
         "invalid-account": "유효하지 않는 계정입니다."
@@ -78,7 +78,7 @@
     "dialog": {
         "save-change": "문서에 변경사항이 있어요. 저장할까요?",
         "cancel": "취소",
-        "dont-save": "저장않음",
+        "dont-save": "저장안함",
         "save": "저장",
         "yes": "예",
         "no": "아니오",
@@ -91,6 +91,6 @@
         "message": "하루패드가 업데이트 되었어요.",
         "note": "릴리즈 노트",
         "download": "다운로드",
-        "newest": "현재 최신의 하루패드를 사용중입니다."
+        "newest": "현재 최신 하루패드를 사용 중입니다."
     }
 }

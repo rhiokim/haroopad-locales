@@ -37,7 +37,7 @@
         "mode-viewer": "뷰어 모드",
         "toggle-live-view": "라이브 뷰 토글",
         "toggle-markdown-help": "마크다운 구문 헬퍼 토글",
-        "toggle-line-number": "라인 넘버 토글",
+        "toggle-line-number": "줄 번호 토글",
         "live-view-width-plus-5": "라이브 뷰 가로 사이즈 +5%",
         "live-view-width-minus-5": "라이브 뷰 가로 사이즈 -5%",
         "column": "다단 문서",
@@ -50,7 +50,7 @@
         "vim-mode": "VIM 키 모드",
         "toggle-toc": "목차 보기 토글",
         "enter-full-screen": "전체화면 모드",
-        "enter-presentation": "프리젠테이션 모드",
+        "enter-presentation": "프레젠테이션 모드",
         "editor": {
             "theme": "에디터 테마...",
             "theme-user": "에디터 사용자 테마..."
@@ -81,7 +81,7 @@
         "fenced-code": "팬스 코드 블럭",
         "strikethrough": "취소선",
         "task": "타스크 리스트",
-        "embed": "임베딩",
+        "embed": "외부 콘텐츠",
         "footnotes": "각주",
         "footnotes-ref": "각주 참조",
         "toc": "목차",
@@ -89,12 +89,12 @@
         "comment": "주석",
         "highlight": "강조",
         "underline": "밑줄",
-        "math-block": "수학 (블럭)",
+        "math-block": "수학 (블록)",
         "math-inline": "수학 (인라인)",
-        "embed-video": "비디오 임베딩",
-        "embed-audio": "오디오 임베딩",
-        "embed-image": "이미지 임베딩",
-        "embed-other": "기타 임베딩..."
+        "embed-video": "비디오 삽입",
+        "embed-audio": "오디오 삽입",
+        "embed-image": "이미지 삽입",
+        "embed-other": "기타 삽입..."
     },
     "tool": {
         "name": "도구"

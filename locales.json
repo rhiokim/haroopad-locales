@@ -45,7 +45,13 @@
     "name": "Français"
   },
   "nl":{
-    "name":"Nederlands"
+    "name": "Nederlands"
+  },
+  "pl": {
+    "name": "Polski"
+  },
+  "ro": {
+    "name": "Română"
   }
 }
 

@@ -36,7 +36,7 @@
         "mode-editor": "エディタ",
         "mode-viewer": "ビューワ",
         "toggle-live-view": "ライブビューをトグル",
-        "toggle-markdown-help": "Toggle Markdown Syntax Helper",
+        "toggle-markdown-help": "Markdown Syntax Helperをトグル",
         "toggle-line-number": "行番号をトグル",
         "live-view-width-plus-5": "ライブビューの幅を +5%",
         "live-view-width-minus-5": "ライブビューの幅を -5%",

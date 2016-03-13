@@ -13,6 +13,8 @@
         "exports": "Ekspor...",
         "export-to-file": "Berkas",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "Papan klip",
         "plain-html": "Plain HTML",
         "styled-html": "Styled HTML",

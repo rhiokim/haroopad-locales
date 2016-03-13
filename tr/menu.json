@@ -13,6 +13,8 @@
         "exports": "Çıkart...",
         "export-to-file": "Dosya",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "Kopyala",
         "plain-html": "Düz HTML",
         "styled-html": "Stilli HTML",

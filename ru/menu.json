@@ -13,6 +13,8 @@
         "exports": "Экспортировать...",
         "export-to-file": "Файл",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "Буфер обмена",
         "plain-html": "простой HTML",
         "styled-html": "HTML со стилем",

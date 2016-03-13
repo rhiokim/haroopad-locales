@@ -13,6 +13,8 @@
         "exports": "导出到...",
         "export-to-file": "文件",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "剪贴板",
         "plain-html": "无样式 HTML",
         "styled-html": "含样式 HTML",

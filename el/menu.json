@@ -13,6 +13,8 @@
         "exports": "Εξαγωγή σε...",
         "export-to-file": "Αρχείο",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "Πρόχειρο",
         "plain-html": "Απλό HTML",
         "styled-html": "Μορφοποιημένο HTML",

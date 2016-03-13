@@ -13,6 +13,8 @@
         "exports": "Export...",
         "export-to-file": "Fichier",
         "export-to-html": "HTML",
+        "export-to-png": "PNG",
+        "export-to-jpg": "JPG",
         "copy-to-clipboard": "Presse-papier",
         "plain-html": "HTML plein",
         "styled-html": "HTML Stylé",

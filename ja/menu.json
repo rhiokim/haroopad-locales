@@ -7,6 +7,7 @@
         "clear-all": "すべてクリア",
         "save": "保存",
         "save-as": "名前を付けて保存",
+        "save-to-template": "Save to Template",
         "close": "閉じる",
         "sending": "送信中",
         "sending-email": "メール",

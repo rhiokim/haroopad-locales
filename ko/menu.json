@@ -7,6 +7,7 @@
         "clear-all": "모두 지우기",
         "save": "저장",
         "save-as": "새이름으로 저장",
+        "save-to-template": "템플릿으로 저장",
         "close": "닫기",
         "sending": "보내기",
         "sending-email": "이메일",

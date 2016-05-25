@@ -1,0 +1,95 @@
+{
+    "title": "",
+    "untitled": "جديد",
+    "modified": "معدل",
+    "restored-file": "استعادة (اخر تعديل {{date}})",
+    "read-only-file": "قراءة فقط",
+    "experimental": "تجريبي",
+    "placeholder": "ماهي القصة التى تريد ان تكتبها اليوم?",
+
+    "footer": {
+        "lines": "سطور",
+        "words": "كلمات"
+    },
+
+    "toc": {
+        "name": "جدول محتويات"
+    },
+
+    "share": "Share",
+    "state": {
+        "label": "Elements",
+        "image": "Image",
+        "header": "Header",
+        "link": "Link",
+        "table": "Table",
+        "paragraph": "Paragraph",
+        "code": "Code",
+        "blockquote": "Blockquote"
+    },
+
+    "config": {
+        "toc": "عرض جدول المحتويات",
+        "outline": "Show Document Outline",
+        "fullscreen": "تبديل ملء الشاشة",
+        "tab": "Tab عرض",
+        "usetab": "استخدم Tab للمسافة البادئة",
+        "experimental": "تجريبي",
+        "spaces": "فراغات",
+        "column": {
+            "label": "عمود",
+            "one": "واحد",
+            "two": "عمودين",
+            "three": "ثلاثة اعمدة"
+        },
+        "md-help": "عرض مساعدة الصيغة"
+    },
+
+    "promotion": {
+        "desc": "الرجاء شارك!"
+    },
+
+    "donate": {
+        "label": "تبرع",
+        "title": "تبرع لمساعدتنا في استمرار التطوير!",
+        "desc": "هل استخدام البرنامج افادك? تبرع لمساعدتنا في استمرار التطوير. <a href='http://pad.haroopress.com/page.html?f=grow-up-donate' id='donate-link'>تبرع الان</a>"
+    },
+
+    "email": {
+        "title": "ارسال بريد",
+        "subject": "ادخل العنوان",
+        "to": "الى",
+        "from": "من",
+        "reciver": "ادخل عناوين البريد للمستقبلين",
+        "html": "HTML",
+        "markdown": "Markdown",
+        "close": "اغلاق",
+        "send": "ارسال",
+        "sent": "ارسلت",
+        "remember": "تذكر البريد",
+        "password": "كلمة مرور",
+        "secure": "كلمة المرور لن يتم حفظها.",
+        "yours": "ادخل عنوانك في Gmail",
+        "evernote": "Evernote",
+        "tumblr": "Tumblr",
+        "invalid-account": "خطا في اسم المستخدم او كلمة المرور."
+    },
+
+    "dialog": {
+        "save-change": "هل تريد حفظ التغييرات على هذا المستند?",
+        "cancel": "الغاء",
+        "dont-save": "لا تحفظ",
+        "save": "حفظ",
+        "yes": "نعم",
+        "no": "لا",
+        "changed-file": "الملف تم تغييره من تطبيق اخر. <br/>هل تريد اعادة تحميلة?"
+    },
+
+    "upgrade": {
+        "uptodate": "يوجد لديك اخر نسخة!",
+        "message": "البحث عن نسخة جديدة?",
+        "note": "ملاحظات النسخة",
+        "download": "تنزيل",
+        "newest": "يوجد لديك اخر نسخة من Haroopad."
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "title": "التفضيلات",
+    "ok": "موافق",
+    "no": "لا",
+    "yes": "نعم",
+    "cancel": "الغاء",
+    "reset": "استعادة",
+    "apply": "تطبيق",
+    "done": "تم",
+    "updating": "تحديث",
+    "edit": "تحرير",
+    "reload": "Reload",
+
+    "system": {
+        "language": {
+            "update": {
+                "msg": "حزمة اللغات تم تحديثها. لماذا لا تحدثها الان?",
+                "done": "تم :-). الرجاء اعادة تشغيل Haroopad.",
+                "error": "فشل في التحديث :-(. الرجاء التاكد من الاتصال لديك."
+            }
+        }    
+    },
+
+    "tab": {
+        "general": "عام",
+        "editor": "المحرر",
+        "viewer": "المستعرض",
+        "custom": "التخصيص",
+        "code": "المود",
+        "markdown": "صيغة Markdown",
+        "about": "حول",
+        "backup": "نسخ احتياطي"
+    },
+
+    "general": {
+        "general": "عام",
+        "date-time": "التاريخ والوقت",
+        "enableAutoComplete": "تمكين الاكمال التلقائي ل Markdown",
+        "enableSyncScroll": "Enable Sync Scroll",
+        "enableLastFileRestore": "تمكين استعادة الملفات الاخيرة"
+    },
+
+    "editor": {
+        "general": "عام",
+        "themes": "السمات",
+        "user-style": "تخصيص السمة",
+        "spaces": "الفراغات",
+        "tab-width": "Tab عرض",
+        "indent-use-tab": "استخدم Tab للمسافة البادئة",
+        "display-line-number": "عرض رقم السطر",
+        "vim-key-binding": "Vim Key Binding",
+        "auto-pair-char": "Auto Pair Characters",
+        "insert-four-space": "ادرج 4 فراغات بدلا من Tab",
+        "display-active-line": "عرض السطر الحالي",
+        "use-markdown-folding": "تمكين طي Markdown"
+    },
+
+    "viewer": {
+        "general": "عام",
+        "themes": "السمات",
+        "font-size": "حجم الخط",
+        "user-style": "السمة المخصصة",
+        "clickable-link": "تمكين الضغط على الروابط في المستعرض"
+    },
+
+    "custom": {
+        "themes": "عام",
+        "reload": "اعادة فتح",
+        "directory": "مجلد",
+        "select-theme": "اختر السمة",
+        "description": "هذا سوف يطبق على العرض المباشر, تصدير HTML/PDF والملفات المرسلة بالبريد."
+    },
+
+    "code": {
+        "general": "عام",
+        "themes": "السمات",
+        "show-line-number": "عرض رقم السطر في الاكواد داخل المستعرض"
+    },
+
+    "markdown": {
+        "enable-gfm": "استخدم طريقة Github للتنسق",
+        "etc": "خيارات اضافية",
+        "math": "خيارات المعادلات الرياضية",
+        "sanitize-desc": "تجاهل اي كود HTML.",
+        "gfm-line-breaks": "استخدم طريقة Github في فاصل الاسطر",
+        "gfm-table": "استخدم طريقة Github في الجدول",
+        "smarty-list": "Use smarter list behavior than the original markdown",
+        "smarty-pants": "Use \"smart\" typograhic punctuation for things like quotes and dashes",
+        "enable-math": "استخدم المعادلات الرياضية",
+        "restore": "استعادة جميع الاعدادات الى وضعها الافتراضي",
+        "enable-dollar-sign": "استخدم علامة واحدة فقط من $ للمعادلات الداخلية (الافتراضي: $$$)",
+        "extra-footnotes": "استخدم الحواشي السفلية"
+    },
+
+    "about": {
+        "donate": "تبرع",
+        "mean": "<strong>Haroo</strong> تعني \"اليوم\" في اللغة الكورية",
+        "version": "الاصدار",
+        "official-site": "الموقع الرئيسي",
+        "developer": "المطور",
+        "special-thanks": "شكر خاص",
+        "icon": "ICON",
+        "description": "Haroopad <small>محرر المستندات القادم</small>",
+        "donate-msg": "اذا اعجبك haroopad, تبرع له حتى يتطور اكثر"
+    },
+
+    "backup": {
+        "title": "استيراد & تصدير الاعدادات...",
+        "import": "استيراد الاعدادات",
+        "export": "تصدير الاعدادات",
+        "import-done": "اعادة تشغيل",
+        "import-done-msg": "تم استيراد الاعدادات بنجاح. يجب اعادة تشغيل Haroopad لتحميل الاعدادات الجديدة.<br/>اعادة التشغيل Haroopad الان?",
+        "export-done": "التصدير اكتمل!",
+        "export-done-msg": "تم تصدير الاعدادات بنجاح.<br/>يمكن استيرادها عن طريق \"<b>التفضيلات > نسخ احتياطي > استيراد الاعدادات</b>\""
+    }
+}

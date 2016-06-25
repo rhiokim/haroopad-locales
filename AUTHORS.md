@@ -10,6 +10,8 @@
 -->
 # Thanks for translate the project:
 
+* Arabic                 :  Daif Alotaibi <daif@daif.net>
+
 * Brazilian Portuguese   :  Alexandre Magno <alexandre.mbm@gmail.com>
 
 * Chinese (Simplified)   :  Breezewish <vistaswx@gmail.com>, Joel Haowen Tong <http://blog.joeltong.org/>
